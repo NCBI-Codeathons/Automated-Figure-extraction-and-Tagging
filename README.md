@@ -24,3 +24,5 @@ Given a figure, the uid for its source manuscript, and the associated figure leg
 
 ### Test Data
 PSGL-1 is pretty cool, and there is not TOO much data from [PMC](https://www.ncbi.nlm.nih.gov/pmc/?) indexed in [Open-i](https://openi.nlm.nih.gov/) for that keyword, so this will serve as our [test data set](https://openi.nlm.nih.gov/gridquery?q=psgl-1%20OR%20sleplg&it=u,g,c,m,mc,p,ph,x&coll=pmc&vid=1&m=1&n=100).
+
+Information about the [Open-i](https://openi.nlm.nih.gov/) API can be found [here](https://openi.nlm.nih.gov/services?it=xg#searchAPIUsingGET).
