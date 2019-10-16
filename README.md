@@ -30,5 +30,5 @@ Information about the [Open-i](https://openi.nlm.nih.gov/) API can be found [her
 # Projects
 
 1. Alex Kotliarov - Variational autoencoder based classification of images
-2. David Shao & Ricardo Villamarin - Multipanel Figure Splitting
+2. David Shao & Ricardo V. - Multipanel Figure Splitting (and setting up pipeline)
 3. Ryan Connor, Meng Cheng, & Marie Gallagher - MeSh Indexing of Figure Legends
