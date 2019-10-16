@@ -1,0 +1,6 @@
+-r test.in
+
+tox
+flake8
+pex
+mypy

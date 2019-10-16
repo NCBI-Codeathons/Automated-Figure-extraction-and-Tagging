@@ -1,0 +1,4 @@
+-r base.in
+
+pytest==4.5.0
+pytest-cov
