@@ -41,8 +41,6 @@ def openiparser(query: str, output_list: str):
             start = 101 + 100*i
             end = 200 + 100*i
 
-            print(start, end)
-
             r = requests.get(query_url_start+'m='+str(start)+'&'+'n='+str(end)+query_url_end)
             data = r.json()
 
