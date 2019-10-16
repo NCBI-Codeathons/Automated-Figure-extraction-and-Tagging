@@ -8,9 +8,9 @@ class Indexer(Cog):  # pragma: no cover
     def initialize(arg_parse: Any) -> None:
         parser = arg_parse.add_parser(
             "indexer",
-            help=('Splits an image into multiple images if the original '
-                  'image is a multi-panel image. Otherwise, it outputs '
-                  'the original image')
+            help=('Creates a DB containing all the artifacts produced '
+                  'by the other apps in this package and creates an index '
+                  'using the figure id as key')
         )
 
         required = parser.add_argument_group('required arguments')
