@@ -4,10 +4,8 @@ import requests
 import os
 
 def imgsplitter(image_url: str, image_uid: str, output_folder: str):
-    # img_url="https://openi.nlm.nih.gov/imgs/512/135/4423566/PMC4423566_nihms-658904-f0004.png"
     req = requests.get(image_url)
     img = cv2.imdecode(np.asarray(bytearray(req.content), dtype="uint8"), cv2.IMREAD_COLOR)
-    # img = cv2.imread('s9.png', cv2.IMREAD_COLOR)
     img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     img_gray_inverted = 255 - img_gray
 
@@ -54,9 +52,7 @@ def DeFrag(points, total_len):
                 width = points[i]
             else:
                 width = points[i] - points[i - 1]
-            #print (f'=== {i}, {width}')
             if width < int(total_len/10):
-                #print (f'del at {i}: {points[i]}')
                 del points[i]
                 done = False
                 break
@@ -68,14 +64,11 @@ def DeFrag(points, total_len):
 def Split(hcuts, vcuts, img, image_uid, output_folder):
     index=0
     height, width = img.shape[:2]
-    #print (f"{height}, {width}")
     DeFrag(hcuts, height)
     DeFrag (vcuts, width)
 
     hcuts.append(height - 1)
     vcuts.append(width - 1)
-    #print (hcuts)
-    #print (vcuts)
 
     outf_prefix = os.path.join(output_folder, image_uid)
 
@@ -91,12 +84,9 @@ def Split(hcuts, vcuts, img, image_uid, output_folder):
             else:
                 x = vcuts[vi - 1]
             roi_w = vcuts[vi]
-            #print (f"y: {y}, height: {roi_h}, x: {x}, width: {roi_w}")
             roi = img[y:roi_h, x:roi_w]
             cv2.imwrite(f"{outf_prefix}_{index}.png", roi)
             index = index + 1
-
-
 
 # From https://stackoverflow.com/a/24892274/3962537
 def zero_runs(a):
