@@ -1,10 +1,16 @@
 import cv2
+import logging
 import numpy as np
 import requests
 import os
 
+
 MAX_PIX = 255
 NOISE_CUTOFF = 0.3
+
+OPENI_URL = 'https://openi.nlm.nih.gov'
+
+_LOGGER = logging.getLogger('imgsplitter')
 
 
 def imgsplitter(image_url: str, image_uid: str, output_folder: str):
@@ -21,6 +27,7 @@ def imgsplitter(image_url: str, image_uid: str, output_folder: str):
     vcuts = VerticalCutPoints(img_gray_inverted)
 
     if IsMultiPanel(hcuts, vcuts):
+        _LOGGER.info('Splitting multi-panel image {}'.format(image_url))
         Split(hcuts, vcuts, img, image_uid, output_folder)
     else:
         cv2.imwrite("{}.png".format(os.path.join(output_folder, image_uid)), img)
@@ -47,15 +54,12 @@ def VerticalCutPoints(img):
     return _CutPoints(img, 0)
 
 
-def IsMultiPanel(hcuts, vcuts):
+def IsMultiPanel(hcuts, vcuts) -> bool:
     """
-    Check if the image is multi-panle or not.
+    Check if the image is multi-panel or not.
     Could have more logic.
     """
-    if hcuts or vcuts:
-        return True
-    else:
-        return False
+    return bool(hcuts or vcuts)
 
 
 def DeFrag(points, total_len):
