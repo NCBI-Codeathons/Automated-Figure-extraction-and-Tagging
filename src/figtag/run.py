@@ -1,6 +1,6 @@
 from figtag.classifier import classifier
 from figtag.imgsplitter import imgsplitter, OPENI_URL
-from figtag.indexer import indexer
+# from figtag.indexer import indexer
 from figtag.openiparser import openiparser
 
 from figtag.utils._filesystem import create_folder, Path

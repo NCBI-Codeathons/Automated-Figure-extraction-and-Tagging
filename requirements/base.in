@@ -5,3 +5,5 @@ opencv-python
 numpy
 requests
 pysqlite3
+pandas
+
