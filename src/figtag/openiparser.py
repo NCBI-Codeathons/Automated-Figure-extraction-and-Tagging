@@ -51,7 +51,7 @@ def openiparser(query: str, output_list: str):
                 fid = ''.join(x for x in result['image']['id'] if x in string.printable)
                 capt = ''.join(x for x in result['image']['caption'] if x in string.printable)
                 idx = 99+100*i+j+1
-                
+
                 try:
                     with open(output_list, 'a') as f:
                         f.write('\n'+str(idx)+'\t'+uid+'\t'+imgLarge+'\t'+fid+'\t'+capt)

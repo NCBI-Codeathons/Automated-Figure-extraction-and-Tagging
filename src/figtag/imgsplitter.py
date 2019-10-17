@@ -4,23 +4,25 @@ import requests
 import os
 
 MAX_PIX = 255
-NOISE_CUTOFF = 0.5
+NOISE_CUTOFF = 0.3
 
 
 def imgsplitter(image_url: str, image_uid: str, output_folder: str):
-    req = requests.get(image_url)
-    img = cv2.imdecode(np.asarray(bytearray(req.content), dtype="uint8"), cv2.IMREAD_COLOR)
+    if image_url.lower().startswith('http'):
+        req = requests.get(image_url)
+        img = cv2.imdecode(np.asarray(bytearray(req.content), dtype="uint8"), cv2.IMREAD_COLOR)
+    else:
+        img = cv2.imread(image_url, cv2.IMREAD_COLOR)
+
     img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     img_gray_inverted = MAX_PIX - img_gray
 
     hcuts = HorizontalCutPoints(img_gray_inverted)
-
     vcuts = VerticalCutPoints(img_gray_inverted)
 
     if IsMultiPanel(hcuts, vcuts):
         Split(hcuts, vcuts, img, image_uid, output_folder)
     else:
-        print("Not a multipanel")
         cv2.imwrite("{}.png".format(os.path.join(output_folder, image_uid)), img)
 
 
@@ -57,21 +59,26 @@ def IsMultiPanel(hcuts, vcuts):
 
 
 def DeFrag(points, total_len):
-    points.append(total_len)
     done = False
+    deleted = False
+    i = 0
+    min_len = int(total_len/8)
     while not done:
         for i in range(len(points)):
             if i == 0:
                 width = points[i]
             else:
                 width = points[i] - points[i - 1]
-            if width < int(total_len/10):
+            deleted = False
+            if width < min_len:
                 del points[i]
-                done = False
+                deleted = True
                 break
-        done = True
-    if points[-1] == total_len:
-        del points[-1]
+        if points and total_len - points[-1] < min_len:
+            del points[-1]
+            deleted = True
+        if not points or (i >= len(points) - 1 and not deleted):
+            done = True
 
 
 def Split(hcuts, vcuts, img, image_uid, output_folder):
@@ -79,9 +86,8 @@ def Split(hcuts, vcuts, img, image_uid, output_folder):
     height, width = img.shape[:2]
     DeFrag(hcuts, height)
     DeFrag(vcuts, width)
-
-    hcuts.append(height - 1)
-    vcuts.append(width - 1)
+    hcuts.append(height)
+    vcuts.append(width)
 
     outf_prefix = os.path.join(output_folder, image_uid)
 
