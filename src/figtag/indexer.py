@@ -3,15 +3,15 @@ import pandas as pd
 import os
 
 
-def indexer(image_clusters: str, image_folder: str, raw_data: str, mesh_terms: str, database_file):
+def indexer(image_clusters: str, image_folder: str, openi_data: str, mesh_terms: str, database_file):
     db = database_file
     conn = sqlite3.connect(db)
 
-    raw = pd.read_csv(raw_data, '\t', header=0, index_col=0)
+    raw = pd.read_csv(openi_data, '\t', header=0, index_col=0)
 
     raw.to_sql('users', con=conn, if_exists='replace')
 
-    cmd = 'ls '+image_folder+' > images.txt'
+    cmd = 'ls ' + image_folder + ' > images.txt'
 
     os.system(cmd)
 
