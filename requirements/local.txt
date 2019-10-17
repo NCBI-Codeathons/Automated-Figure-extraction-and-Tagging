@@ -13,7 +13,7 @@ mccabe==0.6.1             # via flake8
 mypy-extensions==0.4.2    # via mypy
 mypy==0.740
 packaging==19.2           # via tox
-pex==1.6.11
+pex==1.6.12
 pycodestyle==2.5.0        # via flake8
 pyflakes==2.1.1           # via flake8
 pyparsing==2.4.2          # via packaging

@@ -109,9 +109,9 @@ class _FigTagRunner():
     def _create_image_index(self,
                             image_list: Path, image_clusters: Path,
                             image_folder: Path) -> Path:
-        indexer('image_list', 'image_clusters', 'image_folder',
-                'raw_data', 'mesh_terms',
-                'database_file ouput')
+        # indexer('image_clusters', 'image_folder',
+        #         'raw_data', 'mesh_terms',
+        #         'database_file')
         return '/dev/null'
 
 
