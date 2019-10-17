@@ -7,3 +7,4 @@ src/figtag.egg-info
 src/figtag/__pycache__
 src/figtag/apps/__pycache__
 
+__pycache__
