@@ -17,7 +17,7 @@ def openiparser(query: str, output_list: str):
 
     total = data['total']
 
-    for result, i in enumerate(data['list']):
+    for i, result in enumerate(data['list']):
 
         uid = ''.join(x for x in result['uid'] if x in string.printable)
         imgLarge = ''.join(x for x in result['imgLarge'] if x in string.printable)
@@ -26,7 +26,7 @@ def openiparser(query: str, output_list: str):
 
         try:
             with open(output_list, 'a') as f:
-                f.write('\n'+i+'\t'+uid+'\t'+imgLarge+'\t'+fid+'\t'+capt)
+                f.write('\n'+str(i)+'\t'+uid+'\t'+imgLarge+'\t'+fid+'\t'+capt)
         except Exception:
             print(uid)
             print(imgLarge)
@@ -44,7 +44,7 @@ def openiparser(query: str, output_list: str):
             r = requests.get(query_url_start+'m='+str(start)+'&'+'n='+str(end)+query_url_end)
             data = r.json()
 
-            for result, j in enumerate(data['list']):
+            for j, result in enumerate(data['list']):
 
                 uid = ''.join(x for x in result['uid'] if x in string.printable)
                 imgLarge = ''.join(x for x in result['imgLarge'] if x in string.printable)
@@ -54,7 +54,7 @@ def openiparser(query: str, output_list: str):
 
                 try:
                     with open(output_list, 'a') as f:
-                        f.write('\n'+idx+'\t'+uid+'\t'+imgLarge+'\t'+fid+'\t'+capt)
+                        f.write('\n'+str(idx)+'\t'+uid+'\t'+imgLarge+'\t'+fid+'\t'+capt)
                 except Exception:
                     print(uid)
                     print(imgLarge)
