@@ -6,6 +6,8 @@ import os
 MAX_PIX = 255
 NOISE_CUTOFF = 0.5
 
+OPENI_URL = 'https://openi.nlm.nih.gov'
+
 
 def imgsplitter(image_url: str, image_uid: str, output_folder: str):
     req = requests.get(image_url)
