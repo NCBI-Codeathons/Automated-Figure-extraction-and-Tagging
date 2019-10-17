@@ -4,7 +4,7 @@ import requests
 import os
 
 MAX_PIX = 255
-NOISE_CUTOFF = 0.5
+NOISE_CUTOFF = 0.3
 
 
 def imgsplitter(image_url: str, image_uid: str, output_folder: str):
@@ -57,31 +57,44 @@ def IsMultiPanel(hcuts, vcuts):
 
 
 def DeFrag(points, total_len):
-    points.append(total_len)
     done = False
+    deleted = False
+    i = 0
+    min_len = int(total_len/8)
     while not done:
         for i in range(len(points)):
             if i == 0:
                 width = points[i]
             else:
                 width = points[i] - points[i - 1]
-            if width < int(total_len/10):
+            print (f">>> {width} - {min_len}")
+            deleted = False
+            if width < min_len:
+                print (f" !!! del {points[i]}")
                 del points[i]
-                done = False
+                print (points)
+                deleted = True
                 break
-        done = True
-    if points[-1] == total_len:
-        del points[-1]
+        if points and total_len - points[-1] < min_len:
+            print (f" !!! del {points[-1]}")
+            del points[-1]
+            print (points)
+            deleted = True
+        if not points or (i >= len(points) - 1 and not deleted):
+            done = True
 
 
 def Split(hcuts, vcuts, img, image_uid, output_folder):
     index = 0
     height, width = img.shape[:2]
+    print (hcuts)
+    print (vcuts)
     DeFrag(hcuts, height)
     DeFrag(vcuts, width)
-
-    hcuts.append(height - 1)
-    vcuts.append(width - 1)
+    print (hcuts)
+    print (vcuts)
+    hcuts.append(height)
+    vcuts.append(width)
 
     outf_prefix = os.path.join(output_folder, image_uid)
 
@@ -98,6 +111,7 @@ def Split(hcuts, vcuts, img, image_uid, output_folder):
                 x = vcuts[vi - 1]
             roi_w = vcuts[vi]
             roi = img[y:roi_h, x:roi_w]
+            print (f' === {y}, {roi_h}, {x}, {roi_w}')
             cv2.imwrite(f"{outf_prefix}_{index}.png", roi)
             index = index + 1
 
