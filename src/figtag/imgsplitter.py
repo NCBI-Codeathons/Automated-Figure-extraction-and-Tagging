@@ -8,19 +8,21 @@ NOISE_CUTOFF = 0.3
 
 
 def imgsplitter(image_url: str, image_uid: str, output_folder: str):
-    req = requests.get(image_url)
-    img = cv2.imdecode(np.asarray(bytearray(req.content), dtype="uint8"), cv2.IMREAD_COLOR)
+    if image_url.lower().startswith('http'):
+        req = requests.get(image_url)
+        img = cv2.imdecode(np.asarray(bytearray(req.content), dtype="uint8"), cv2.IMREAD_COLOR)
+    else:
+        img = cv2.imread(image_url, cv2.IMREAD_COLOR)
+
     img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     img_gray_inverted = MAX_PIX - img_gray
 
     hcuts = HorizontalCutPoints(img_gray_inverted)
-
     vcuts = VerticalCutPoints(img_gray_inverted)
 
     if IsMultiPanel(hcuts, vcuts):
         Split(hcuts, vcuts, img, image_uid, output_folder)
     else:
-        print("Not a multipanel")
         cv2.imwrite("{}.png".format(os.path.join(output_folder, image_uid)), img)
 
 
@@ -67,18 +69,13 @@ def DeFrag(points, total_len):
                 width = points[i]
             else:
                 width = points[i] - points[i - 1]
-            print (f">>> {width} - {min_len}")
             deleted = False
             if width < min_len:
-                print (f" !!! del {points[i]}")
                 del points[i]
-                print (points)
                 deleted = True
                 break
         if points and total_len - points[-1] < min_len:
-            print (f" !!! del {points[-1]}")
             del points[-1]
-            print (points)
             deleted = True
         if not points or (i >= len(points) - 1 and not deleted):
             done = True
@@ -87,12 +84,8 @@ def DeFrag(points, total_len):
 def Split(hcuts, vcuts, img, image_uid, output_folder):
     index = 0
     height, width = img.shape[:2]
-    print (hcuts)
-    print (vcuts)
     DeFrag(hcuts, height)
     DeFrag(vcuts, width)
-    print (hcuts)
-    print (vcuts)
     hcuts.append(height)
     vcuts.append(width)
 
@@ -111,7 +104,6 @@ def Split(hcuts, vcuts, img, image_uid, output_folder):
                 x = vcuts[vi - 1]
             roi_w = vcuts[vi]
             roi = img[y:roi_h, x:roi_w]
-            print (f' === {y}, {roi_h}, {x}, {roi_w}')
             cv2.imwrite(f"{outf_prefix}_{index}.png", roi)
             index = index + 1
 
