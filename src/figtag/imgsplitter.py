@@ -12,8 +12,6 @@ OPENI_URL = 'https://openi.nlm.nih.gov'
 
 _LOGGER = logging.getLogger('imgsplitter')
 
-OPENI_URL = 'https://openi.nlm.nih.gov'
-
 
 def imgsplitter(image_url: str, image_uid: str, output_folder: str):
     if image_url.lower().startswith('http'):
