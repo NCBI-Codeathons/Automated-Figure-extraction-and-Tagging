@@ -32,5 +32,5 @@ class ImageSplitter(Cog):  # pragma: no cover
 
     @staticmethod
     def execute(args: Any) -> int:
-        imgsplitter(args.image_url, args.uid, args.output_folder)
+        imgsplitter(args.image_url, args.image_uid, args.output_folder)
         return 0

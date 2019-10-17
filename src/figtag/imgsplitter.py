@@ -54,9 +54,9 @@ def DeFrag(points, total_len):
                 width = points[i]
             else:
                 width = points[i] - points[i - 1]
-            print (f'=== {i}, {width}')
+            #print (f'=== {i}, {width}')
             if width < int(total_len/10):
-                print (f'del at {i}: {points[i]}')
+                #print (f'del at {i}: {points[i]}')
                 del points[i]
                 done = False
                 break
@@ -68,14 +68,14 @@ def DeFrag(points, total_len):
 def Split(hcuts, vcuts, img, image_uid, output_folder):
     index=0
     height, width = img.shape[:2]
-    print (f"{height}, {width}")
+    #print (f"{height}, {width}")
     DeFrag(hcuts, height)
     DeFrag (vcuts, width)
 
     hcuts.append(height - 1)
     vcuts.append(width - 1)
-    print (hcuts)
-    print (vcuts)
+    #print (hcuts)
+    #print (vcuts)
 
     outf_prefix = os.path.join(output_folder, image_uid)
 
@@ -91,7 +91,7 @@ def Split(hcuts, vcuts, img, image_uid, output_folder):
             else:
                 x = vcuts[vi - 1]
             roi_w = vcuts[vi]
-            print (f"y: {y}, height: {roi_h}, x: {x}, width: {roi_w}")
+            #print (f"y: {y}, height: {roi_h}, x: {x}, width: {roi_w}")
             roi = img[y:roi_h, x:roi_w]
             cv2.imwrite(f"{outf_prefix}_{index}.png", roi)
             index = index + 1

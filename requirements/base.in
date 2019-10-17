@@ -1,3 +1,6 @@
 typing
 pymssql
 jsonschema
+opencv-python
+numpy
+requests
