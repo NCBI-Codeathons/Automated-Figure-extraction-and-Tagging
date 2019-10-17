@@ -6,6 +6,7 @@ import os
 MAX_PIX = 255
 NOISE_CUTOFF = 0.5
 
+
 def imgsplitter(image_url: str, image_uid: str, output_folder: str):
     req = requests.get(image_url)
     img = cv2.imdecode(np.asarray(bytearray(req.content), dtype="uint8"), cv2.IMREAD_COLOR)
@@ -105,7 +106,7 @@ def Split(hcuts, vcuts, img, image_uid, output_folder):
 
 def zero_runs(a):
     # A hack to remove noise from grayish background
-    a[np.where(a  < NOISE_CUTOFF)] = 0
+    a[np.where(a < NOISE_CUTOFF)] = 0
     # Create an array that is 1 where a is 0, and pad each end with an extra 0.
     iszero = np.concatenate(([0], np.equal(a, 0).view(np.int8), [0]))
     absdiff = np.abs(np.diff(iszero))
