@@ -10,7 +10,6 @@ pip download -q -r requirements/base.txt -d .artifacts
 
 echo 'Building figtag PEX binary...'
 pex . \
-    --python=python3 \
     -o dist/figtag \
     -r requirements/base.txt \
     --disable-cache \
