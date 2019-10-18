@@ -30,7 +30,7 @@ class _FigTagRunner():
 
     def run(self, query: str, model_file: Path, mesh_terms_file: Path) -> int:
         try:
-            return self._try_run(query, model_file)
+            return self._try_run(query, model_file, mesh_terms_file)
         except Exception as err:
             print("An error occurred: " + str(err), file=sys.stderr)
             return PROCESSING_FAILURE
@@ -123,7 +123,7 @@ class _FigTagRunner():
             for image_path in image_files:
                 cluster_id = _classify_image(image_path, model_file)
                 imgclusterlst.write('{}\t{}\n'.format(
-                    image_path, cluster_id))
+                    path.basename(image_path), cluster_id))
 
         return image_cluster_list
 
