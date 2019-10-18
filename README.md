@@ -55,6 +55,8 @@ Variation Autoencoder model consists of encoder, decoder and a loss function.
 - Encoder is a neural network that outputs a latent representation of an image - features of an image that represent a point in the D-dimentional feature space; The encoder serves as inference model.
 - Decoder is a neural network that learns to reconstruct the data - input image - given its representation (latent variables).
 
+![Example Decoder Image Reconstruction](https://raw.githubusercontent.com/NCBI-Codeathons/Automated-Figure-extraction-and-Tagging/master/notebooks/reconstruction.png)
+
 To train a model we
 - make a decision about dimension of a feature space.
 - fit model to input images to learn Gaussian distribution parameters - mu and sigma - for each feature, given the data.
