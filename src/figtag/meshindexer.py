@@ -2,16 +2,18 @@ import requests
 import sys
 
 
-def meshindexer(query: str, output_list: str):
-    with open(query, "r") as f:
+_API_URL = 'https://ii.nlm.nih.gov/cgi-bin/II/Interactive/interactiveMTI.pl'
+
+
+def meshindexer(figure_captions_file: str, output_list: str):
+    with open(figure_captions_file, "r") as f:
         inputs = f.readlines()
 
-    api_url = 'https://ii.nlm.nih.gov/cgi-bin/II/Interactive/interactiveMTI.pl'
     with open(output_list, "w") as of:
         for input in inputs:
             input = input.rstrip()
             idx, qstr = input.split("\t")
-            r = requests.post(api_url,
+            r = requests.post(_API_URL,
                               data={
                                   'InputText': qstr,
                                   'Filtering': 'default_MTI',
@@ -19,7 +21,7 @@ def meshindexer(query: str, output_list: str):
             if r.status_code == 200:
                 of.write(f"{idx}\t{_parse(r.text)}\n")
             else:
-                print(f"search failed for {query}.", file=sys.stderr)
+                print(f"search failed for {figure_captions_file}.", file=sys.stderr)
 
 
 def _parse(data):

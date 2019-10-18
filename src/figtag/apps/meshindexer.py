@@ -13,9 +13,10 @@ class MeshIndexer(Cog):  # pragma: no cover
 
         required = parser.add_argument_group('required arguments')
         required.add_argument(
-            '-query', dest='query', action='store', required=True,
+            '-figure-captions-file', dest='figure_captions_file',
+            action='store', required=True,
             help=('Name of the file contains two tab separated '
-                  'columns: row number and figure captionsa'))
+                  'columns: row number and figure captions'))
 
         parser.add_argument(
             '-o', dest='output_list', action='store', default='-',
@@ -25,5 +26,5 @@ class MeshIndexer(Cog):  # pragma: no cover
 
     @staticmethod
     def execute(args: Any) -> int:
-        meshindexer(args.query, args.output_list)
+        meshindexer(args.figure_captions_file, args.output_list)
         return 0
