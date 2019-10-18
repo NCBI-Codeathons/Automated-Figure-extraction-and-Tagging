@@ -21,8 +21,11 @@ class Runner(Cog):  # pragma: no cover
             help='The query to perform against OpenI, or a local '
                  'file containing data obtained from OpenI')
         required.add_argument(
-            '-model-file', dest='model_path', action='store', required=True,
-            help='The path to the file where the model was saved')
+            '-vae-model-file', dest='vae_model_path', action='store', required=True,
+            help='The path to the file where the VAE model is saved')
+        required.add_argument(
+            '-kmeans-model-file', dest='kmeans_model_path', action='store', required=True,
+            help='The path to the file where the K-Means model is saved')
         required.add_argument(
             '-mesh-terms-file', dest='mesh_terms_file', action='store', required=True,
             help='The path to a file containing MeSH terms')
@@ -42,6 +45,7 @@ class Runner(Cog):  # pragma: no cover
         FIGTAG_LOGLEVEL = environ.get('FIGTAG_LOGLEVEL', 'WARNING').upper()
         logging.basicConfig(level=FIGTAG_LOGLEVEL)
         return run(args.query,
-                   args.model_path, args.mesh_terms_file,
+                   args.vae_model_path, args.kmeans_model_path,
+                   args.mesh_terms_file,
                    args.output_folder,
                    args.file_limit)
