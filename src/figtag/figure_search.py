@@ -1,3 +1,8 @@
+
+import sys
+import sqlite3
+
+
 def querier(query, database_file='ImageIndex.sqlite'):
 
     def db_select(db_,
@@ -6,9 +11,6 @@ def querier(query, database_file='ImageIndex.sqlite'):
                   cond=None,
                   cmpr=None,
                   vlu=None):
-
-        import sys
-        import sqlite3
 
         db = db_
 
@@ -25,11 +27,12 @@ def querier(query, database_file='ImageIndex.sqlite'):
             if cnt is True:
                 statement = 'SELECT count('+','.join(cols)+') '
 
-        statement += ' FROM {tbl}'.format(tbl=tbl_)
+        statement += (' FROM {tbl} calc INNER JOIN '
+                      ' users raw ON calc.idx=raw.idx ').format(tbl=tbl_)
 
         if (cond is not None) & (cmpr is not None) & (vlu is not None):
-            statement += ' WHERE {c} {s} {v};'.format(c=cond, s=cmpr, v=vlu)
-        elif (cond is None) & (cmpr is None) & (vlu is None):
+            statement += ' WHERE instr({v}, {c});'.format(c=cond, s=cmpr, v=vlu)
+            # statement += ' WHERE {c} {s} {v};'.format(c=cond, s=cmpr, v=vlu)
             pass
         else:
             raise Exception('clms, cmpr, and vlu arguments\
@@ -47,12 +50,12 @@ def querier(query, database_file='ImageIndex.sqlite'):
             print(sys.exc_info()[0], sys.exc_info()[1])
             raise sys.exc_info()
 
-    result = db_select(database_file,
-                       'calcData',
-                       cols=['uid'],
+    result = db_select(db_=database_file,
+                       tbl_='calcData',
+                       cols=['raw.uid'],
                        cnt=False,
-                       cond=query,
-                       cmpr='IN',
-                       vlu='mesh')
+                       cond="'" + query + "'",
+                       cmpr='',
+                       vlu="(ifnull(calc.mesh, ''))")
 
     return result

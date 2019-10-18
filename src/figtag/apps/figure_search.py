@@ -1,6 +1,7 @@
 from typing import Any
 from figtag.manage import Cog
 from figtag.figure_search import querier
+from pprint import pprint
 
 
 class FigureSearch(Cog):  # pragma: no cover
@@ -24,5 +25,11 @@ class FigureSearch(Cog):  # pragma: no cover
 
     @staticmethod
     def execute(args: Any) -> int:
-        querier(args.query, args.index_file)
+        results = querier(args.query, args.index_file)
+        if not results:
+            print('No results found')
+        else:
+            for result in results:
+                pprint(result[0])
+
         return 0
