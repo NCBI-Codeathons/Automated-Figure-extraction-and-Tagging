@@ -18,10 +18,14 @@ class Runner(Cog):  # pragma: no cover
         required = parser.add_argument_group('required arguments')
         required.add_argument(
             '-query', dest='query', action='store', required=True,
-            help='The query to perform against OpenI')
+            help='The query to perform against OpenI, or a local '
+                 'file containing data obtained from OpenI')
         required.add_argument(
             '-model-file', dest='model_path', action='store', required=True,
             help='The path to the file where the model was saved')
+        required.add_argument(
+            '-mesh-terms-file', dest='mesh_terms_file', action='store', required=True,
+            help='The path to a file containing MeSH terms')
 
         parser.add_argument(
             '-o', dest='output_folder', action='store', default='',
@@ -37,4 +41,7 @@ class Runner(Cog):  # pragma: no cover
     def execute(args: Any) -> int:
         FIGTAG_LOGLEVEL = environ.get('FIGTAG_LOGLEVEL', 'WARNING').upper()
         logging.basicConfig(level=FIGTAG_LOGLEVEL)
-        return run(args.query, args.model_path, args.output_folder, args.file_limit)
+        return run(args.query,
+                   args.model_path, args.mesh_terms_file,
+                   args.output_folder,
+                   args.file_limit)
