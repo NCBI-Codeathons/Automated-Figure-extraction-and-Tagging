@@ -1,9 +1,11 @@
 typing
-pymssql
-jsonschema
 opencv-python
 numpy
 requests
 pysqlite3
 pandas
-
+joblib
+Pillow
+torch
+scikit-image
+scikit-learn

@@ -16,7 +16,6 @@ packaging==19.2           # via tox
 pex==1.6.12
 pycodestyle==2.5.0        # via flake8
 pyflakes==2.1.1           # via flake8
-pyparsing==2.4.2          # via packaging
 toml==0.10.0              # via tox
 tox==3.14.0
 typed-ast==1.4.0          # via mypy
@@ -24,4 +23,4 @@ typing-extensions==3.7.4  # via mypy
 virtualenv==16.7.6        # via tox
 
 # The following packages are considered to be unsafe in a requirements file:
-# setuptools==41.4.0        # via jsonschema, pytest
+# setuptools==41.4.0        # via kiwisolver, pytest
