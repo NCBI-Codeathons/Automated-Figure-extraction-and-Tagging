@@ -17,7 +17,7 @@ class Classifier(Cog):  # pragma: no cover
             help='The path to the image to classify')
         required.add_argument(
             '-vae-model-file', dest='vae_model_path', action='store', required=True,
-            help='The path to the file where the VAE model is saved')
+            help='The path to the file where the Variation Autoencoder (VAE) model is saved')
         required.add_argument(
             '-kmeans-model-file', dest='kmeans_model_path', action='store', required=True,
             help='The path to the file where the K-Means model is saved')

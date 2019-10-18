@@ -12,7 +12,7 @@ def classifier(image_path: str, vae_model_path: str, kmeans_model_path: str) -> 
 
     Parameters:
     :param image_path:          path to an image.
-    :param vae_model_path:      path to serialized VAE model.
+    :param vae_model_path:      path to serialized Variation Autoencoder (VAE) model.
     :param kmeans_model_path:   path to serialized Kmeans model.
     """
     _classifier = _Classifier(vae_model_path, kmeans_model_path)
