@@ -34,6 +34,10 @@ Information about the [Open-i](https://openi.nlm.nih.gov/) API can be found [her
 3. Ricardo V. - setting up pipeline
 4. Ryan Connor, Meng Cheng, & Marie Gallagher - MeSh Indexing of Figure Legends
 
+# Notes on MeSH Indexing of Figure Legends
+
+The mesh indexing script may not work outside of the NLM network at the moment.
+
 # Using Variation Autoencoder (VAE) to cluster images.
 
 **Objective**: Learn categories of images present in publications accessible via OpenI service.
