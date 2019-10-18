@@ -27,6 +27,10 @@ PSGL-1 is pretty cool, and there is not TOO much data from [PMC](https://www.ncb
 
 Information about the [Open-i](https://openi.nlm.nih.gov/) API can be found [here](https://openi.nlm.nih.gov/services?it=xg#searchAPIUsingGET).
 
+## Requirements
+
+please see the requirement file [here](https://github.com/NCBI-Codeathons/Automated-Figure-extraction-and-Tagging/blob/master/requirements/base.txt)
+
 # Projects
 
 1. Alex Kotliarov - Variational autoencoder based clustering of images
@@ -105,3 +109,11 @@ FIGTAG_LOGLEVEL=INFO bin/figtag run \
    -vae-model-file models/vae-model.256d.pt -kmeans-model-file models/kmeans_model.256d.8.pt\
    -o /tmp/`whoami`/test -file-limit 5 -mesh-terms-file mesh_out.txt
 ```
+
+# Limitations or further improvement
+1.    Due to the time limitation, the integration of image processing and text mining is not completed
+2.    The Medical Text Indexer (MTI) tool supposed to be open to public with out requesting for credentials. However, from our test, it is available to request sent from NIH network. There may be a limited access for outside NIH users.
+3.    More test cases are necessary and further evaluation on the MeSH terms from FigTag project's txt mining compared with MeSH indexing could be valuable.
+4.    A web-based MTI API would greatly improve the efficiency of FigTag pipeline.
+5.    The Imagine splitter could beneit from more robust testing and tuning
+6.    As could the image classifier
