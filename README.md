@@ -1,4 +1,4 @@
-# Automated-Figure-extraction-and-Tagging
+# #FigTag : Find the Papers with the Data you want!
 
 ## Motivation
 Often when searching for papers in [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/), we are specifically looking for *papers* with __data figures which contain data related to our query__. [Open-i](https://openi.nlm.nih.gov/) is awesome, but 1) integration with pubmed would be ideal, as we are looking for papers, and that's where we normally do those searches. 2) Tagging figure with keywords, similar to MeSH for whole papers would better support finding papers with figures related to our keywords. Finally, 3) splitting up multipanel figures would likely support more fine-grained results.
