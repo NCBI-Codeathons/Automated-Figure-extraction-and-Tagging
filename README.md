@@ -94,5 +94,8 @@ Using the sample models (Variation Autoencoder and K-Means) and parsed MeSH term
 ```bash
 # Remove `-file-limit 5` to use all the files
 # Remove `FIGTAG_LOGLEVEL=INFO` to not see log messages
-FIGTAG_LOGLEVEL=INFO bin/figtag run -query 'https://openi.nlm.nih.gov/api/search?coll=pmc&it=x%2Cu%2Cph%2Cp%2Cmc%2Cm%2Cg%2Cc&m=1&n=100&query=psgl-1%20OR%20sleplg'  -vae-model-file models/vae-model.256d.pt -kmeans-model-file models/kmeans_model.256d.8.pt -o /tmp/`whoami`/test -file-limit 5 -mesh-terms-file mesh_out.txt
+FIGTAG_LOGLEVEL=INFO bin/figtag run \
+   -query 'https://openi.nlm.nih.gov/api/search?coll=pmc&it=x%2Cu%2Cph%2Cp%2Cmc%2Cm%2Cg%2Cc&m=1&n=100&query=psgl-1%20OR%20sleplg'\
+   -vae-model-file models/vae-model.256d.pt -kmeans-model-file models/kmeans_model.256d.8.pt\
+   -o /tmp/`whoami`/test -file-limit 5 -mesh-terms-file mesh_out.txt
 ```
