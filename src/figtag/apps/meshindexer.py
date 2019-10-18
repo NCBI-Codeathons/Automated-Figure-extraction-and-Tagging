@@ -14,7 +14,8 @@ class MeshIndexer(Cog):  # pragma: no cover
         required = parser.add_argument_group('required arguments')
         required.add_argument(
             '-query', dest='query', action='store', required=True,
-            help='The query to perform against OpenI')
+            help=('Name of the file contains two tab separated '
+                  'columns: row number and figure captionsa'))
 
         parser.add_argument(
             '-o', dest='output_list', action='store', default='-',
