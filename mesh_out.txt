@@ -1,0 +1,1115 @@
+0	Male|Mice|Animals|Humans|SELP protein, human|P-Selectin|Blood Platelets|DNA Primers|Ligands|Membrane Glycoproteins|Base Sequence|RNA|Microscopy|Mice, Inbred C57BL|Platelet Activation|Leukocytes|Antibodies|Endothelium
+1	Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Neutrophils|Membrane Glycoproteins|Ligands|Gene Deletion|Mice, Inbred C57BL|Cell Movement|Signal Transduction|Gene Targeting
+2	Female|Animals|Mice|Humans|Streptococcus pneumoniae|N-Acetylmuramoyl-L-alanine Amidase|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Pneumococcal Infections|Phagocytosis|Sepsis|Macrophages|Pneumonia
+3	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Mice, Inbred BALB C|Membrane Glycoproteins|Cell Movement|Cell Count|Animals, Laboratory|Dermatitis
+4	Cricetinae|Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Th1 Cells|Oxazolone|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Cricetulus|Membrane Glycoproteins|Chemotaxis|Ligands|Mice, Knockout|Adjuvants, Immunologic|CHO Cells|Dermatitis|Skin
+5	Animals|Cercopithecus aethiops|Humans|SELP protein, human|P-Selectin|Fucosyltransferases|COS Cells|Cysteine|N-Acetylglucosaminyltransferases|Cell Adhesion|Membrane Glycoproteins|Alanine|Dimerization|Ligands|Solubility|Cell Membrane|E-Selectin
+6	Animals|Cercopithecus aethiops|Humans|SELP protein, human|P-Selectin|Fucosyltransferases|COS Cells|Cysteine|N-Acetylglucosaminyltransferases|Cell Adhesion|Membrane Glycoproteins|Alanine|Dimerization|Ligands|Solubility|Cell Membrane|E-Selectin
+7	Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Neutrophils|Membrane Glycoproteins|Ligands|Gene Deletion|Mice, Inbred C57BL|Cell Movement|Signal Transduction|Gene Targeting
+8	Male|Mice|Animals|Humans|SELP protein, human|P-Selectin|Blood Platelets|DNA Primers|Ligands|Membrane Glycoproteins|Base Sequence|RNA|Microscopy|Mice, Inbred C57BL|Platelet Activation|Leukocytes|Antibodies|Endothelium
+9	Cricetinae|Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Th1 Cells|Oxazolone|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Cricetulus|Membrane Glycoproteins|Chemotaxis|Ligands|Mice, Knockout|Adjuvants, Immunologic|CHO Cells|Dermatitis|Skin
+10	Female|Animals|Mice|Humans|Streptococcus pneumoniae|N-Acetylmuramoyl-L-alanine Amidase|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Pneumococcal Infections|Phagocytosis|Sepsis|Macrophages|Pneumonia
+11	Animals|Cercopithecus aethiops|Humans|SELP protein, human|P-Selectin|Fucosyltransferases|COS Cells|Cysteine|N-Acetylglucosaminyltransferases|Cell Adhesion|Membrane Glycoproteins|Alanine|Dimerization|Ligands|Solubility|Cell Membrane|E-Selectin
+12	Animals|Cercopithecus aethiops|Humans|SELP protein, human|P-Selectin|Fucosyltransferases|COS Cells|Cysteine|N-Acetylglucosaminyltransferases|Cell Adhesion|Membrane Glycoproteins|Alanine|Dimerization|Ligands|Solubility|Cell Membrane|E-Selectin
+13	Animals|Cercopithecus aethiops|Humans|SELP protein, human|P-Selectin|Fucosyltransferases|COS Cells|Cysteine|N-Acetylglucosaminyltransferases|Cell Adhesion|Membrane Glycoproteins|Alanine|Dimerization|Ligands|Solubility|Cell Membrane|E-Selectin
+14	Humans|Glycosylation|Enterovirus|Protein Processing, Post-Translational|Virus Internalization|Jurkat Cells|Tyrosine|Flow Cytometry|Membrane Glycoproteins|Virulence|Mutagenesis, Site-Directed|Enterovirus Infections|Virus Replication|Leukocytes|Recombinant Proteins
+15	Female|Animals|Mice|Humans|Streptococcus pneumoniae|N-Acetylmuramoyl-L-alanine Amidase|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Pneumococcal Infections|Phagocytosis|Sepsis|Macrophages|Pneumonia
+16	Mice|Animals|Leukocyte Rolling|L-Selectin|Lymphocyte Function-Associated Antigen-1|src-Family Kinases|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Protein Binding|Signal Transduction|Cell Count|Rheology
+17	Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Neutrophils|Membrane Glycoproteins|Ligands|Gene Deletion|Mice, Inbred C57BL|Cell Movement|Signal Transduction|Gene Targeting
+18	Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Neutrophils|Membrane Glycoproteins|Ligands|Gene Deletion|Mice, Inbred C57BL|Cell Movement|Signal Transduction|Gene Targeting
+19	Mice|Animals|Leukocyte Rolling|L-Selectin|Lymphocyte Function-Associated Antigen-1|src-Family Kinases|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Protein Binding|Signal Transduction|Cell Count|Rheology
+20	Mice|Animals|SELP protein, human|P-Selectin|L-Selectin|Macrophage Activation|Vascular Cell Adhesion Molecule-1|Membrane Glycoproteins|Cell Adhesion|Membrane Proteins|Ligands|Cell Adhesion Molecule-1|Mice, Knockout|Cell Membrane|Cell Count|Macrophages|Peritoneum
+21	Mice|Humans|Animals|Neutrophil Activation|Membrane Glycoproteins|Neutrophils|Membrane Proteins|Cell Polarity|HL-60 Cells|Membrane Microdomains|Cell Count
+22	Mice|Animals|CD4-Positive T-Lymphocytes|Immunologic Memory|Mice, Inbred C57BL|Membrane Glycoproteins|Mice, SCID|Mice, Knockout|Ileitis|Intestinal Mucosa|Cell Movement|Mesentery|Lymph Nodes|Endothelium|Chronic Disease
+23	Mice|Male|Animals|Antioxidants|Cyclic N-Oxides|Mice, Inbred C57BL|Spin Labels|Immunohistochemistry|Membrane Glycoproteins|Real-Time Polymerase Chain Reaction|Mice, Knockout|Obesity|Vascular Diseases|Immunoblotting|Endothelium
+24	Male|Mice|Animals|Humans|SELP protein, human|P-Selectin|Blood Platelets|DNA Primers|Ligands|Membrane Glycoproteins|Base Sequence|RNA|Microscopy|Mice, Inbred C57BL|Platelet Activation|Leukocytes|Antibodies|Endothelium
+25	Cricetinae|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Cricetulus|Neuraminidase|Cell Adhesion|Membrane Glycoproteins|Tumor Necrosis Factor-alpha|Umbilical Veins|Recombinant Fusion Proteins|Metalloendopeptidases|Ligands|Threonine|Microspheres|CHO Cells|Endothelium|Oligosaccharides
+26	Cricetinae|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Cricetulus|Neuraminidase|Cell Adhesion|Membrane Glycoproteins|Tumor Necrosis Factor-alpha|Umbilical Veins|Recombinant Fusion Proteins|Metalloendopeptidases|Ligands|Threonine|Microspheres|CHO Cells|Endothelium|Oligosaccharides
+27	Cricetinae|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Cricetulus|Neuraminidase|Cell Adhesion|Membrane Glycoproteins|Tumor Necrosis Factor-alpha|Umbilical Veins|Recombinant Fusion Proteins|Metalloendopeptidases|Ligands|Threonine|Microspheres|CHO Cells|Endothelium|Oligosaccharides
+28	Cricetinae|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Cricetulus|Neuraminidase|Cell Adhesion|Membrane Glycoproteins|Tumor Necrosis Factor-alpha|Umbilical Veins|Recombinant Fusion Proteins|Metalloendopeptidases|Ligands|Threonine|Microspheres|CHO Cells|Endothelium|Oligosaccharides
+29	Humans|Glycosylation|Enterovirus|Protein Processing, Post-Translational|Virus Internalization|Jurkat Cells|Tyrosine|Flow Cytometry|Membrane Glycoproteins|Virulence|Mutagenesis, Site-Directed|Enterovirus Infections|Virus Replication|Leukocytes|Recombinant Proteins
+30	Mice|Animals|SELP protein, human|P-Selectin|L-Selectin|Venules|Tumor Necrosis Factor-alpha|Membrane Glycoproteins|Leukocytes|Cell Communication|Inflammation
+31	Male|Mice|Animals|SELP protein, human|P-Selectin|Thromboplastin|Mice, Inbred C57BL|Microcirculation|Membrane Glycoproteins|Fluorescence|Microscopy|Mice, Knockout|Blood Coagulation|Thrombosis|Antigens|Lasers|Endothelium
+32	Animals|Cercopithecus aethiops|Humans|SELP protein, human|P-Selectin|Fucosyltransferases|COS Cells|Cysteine|N-Acetylglucosaminyltransferases|Cell Adhesion|Membrane Glycoproteins|Alanine|Dimerization|Ligands|Solubility|Cell Membrane|E-Selectin
+33	Mice|Animals|Leukocyte Rolling|L-Selectin|Lymphocyte Function-Associated Antigen-1|src-Family Kinases|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Protein Binding|Signal Transduction|Cell Count|Rheology
+34	Humans|Immunoglobulin Fc Fragments|Capsid Proteins|Amino Acid Sequence|Enterovirus|Viral Fusion Proteins|Lysine|Virus Attachment|Amino Acid Substitution|Recombinant Fusion Proteins|Mutant Proteins|Tyrosine|Membrane Glycoproteins|Jurkat Cells|Host-Pathogen Interactions|Mutagenesis, Site-Directed|Enterovirus Infections|Binding Sites|Conserved Sequence|Protein Interaction Domains and Motifs
+35	Mice|Animals|Humans|Insulin Resistance|Glucose Tolerance Test|SELP protein, human|P-Selectin|Insulin|DNA Primers|E-Selectin|Mice, Inbred C57BL|Phosphorylation|Reverse Transcriptase Polymerase Chain Reaction|Up-Regulation|Membrane Glycoproteins|Oligonucleotide Array Sequence Analysis|Flow Cytometry|Diet, Fat-Restricted|Mice, Knockout|Fatty Liver|Obesity|Adipocytes|Inflammation
+36	Mice|Humans|Animals|Neutrophil Activation|Membrane Glycoproteins|Neutrophils|Membrane Proteins|Cell Polarity|HL-60 Cells|Membrane Microdomains|Cell Count
+37	Humans|Proto-Oncogene Proteins c-vav|Protein-Tyrosine Kinases|Protein Binding|Intracellular Signaling Peptides and Proteins|Intercellular Adhesion Molecule-1|Cell Adhesion|Enzyme Activation|Membrane Glycoproteins|HL-60 Cells|Membrane Microdomains|Protein Transport
+38	Female|Male|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Bromelains|Neutrophils|Membrane Glycoproteins|Proteolysis|L-Selectin|Cell Adhesion|Diagnostic Tests, Routine|Cytodiagnosis
+39	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Mice, Inbred BALB C|Membrane Glycoproteins|Cell Movement|Cell Count|Animals, Laboratory|Dermatitis
+40	Female|Male|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Bromelains|Neutrophils|Membrane Glycoproteins|Proteolysis|L-Selectin|Cell Adhesion|Diagnostic Tests, Routine|Cytodiagnosis
+41	Humans|Natalizumab|Integrin alpha4beta1|SELP protein, human|P-Selectin|Leukocyte Rolling|Multiple Sclerosis|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Th17 Cells|Blood-Brain Barrier|Up-Regulation|Membrane Glycoproteins|Ligands|Cell Adhesion Molecule-1|Central Nervous System|Antibodies|Cell Count|Transcriptional Activation|Case-Control Studies
+42	Mice|Male|Animals|Antioxidants|Cyclic N-Oxides|Mice, Inbred C57BL|Spin Labels|Immunohistochemistry|Membrane Glycoproteins|Real-Time Polymerase Chain Reaction|Mice, Knockout|Obesity|Vascular Diseases|Immunoblotting|Endothelium
+43	Mice|Male|Animals|Antioxidants|Cyclic N-Oxides|Mice, Inbred C57BL|Spin Labels|Immunohistochemistry|Membrane Glycoproteins|Real-Time Polymerase Chain Reaction|Mice, Knockout|Obesity|Vascular Diseases|Immunoblotting|Endothelium
+44	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Mice, Inbred BALB C|Membrane Glycoproteins|Cell Movement|Cell Count|Animals, Laboratory|Dermatitis
+45	Animals|Cricetinae|Humans|L-Selectin|SELE protein, human|E-Selectin|Cricetulus|Membrane Glycoproteins|Ligands|Dimerization|CHO Cells|Cell Membrane|Endothelium
+46	
+47	Mice|Animals|Humans|Enterovirus|Membrane Glycoproteins|Enterovirus Infections|Molecular Sequence Data|Virus Replication|Cell Line|Mutation
+48	Female|Animals|Mice|Humans|Streptococcus pneumoniae|N-Acetylmuramoyl-L-alanine Amidase|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Pneumococcal Infections|Phagocytosis|Sepsis|Macrophages|Pneumonia
+49	Humans|Immunoglobulin Fc Fragments|Capsid Proteins|Amino Acid Sequence|Enterovirus|Viral Fusion Proteins|Lysine|Virus Attachment|Amino Acid Substitution|Recombinant Fusion Proteins|Mutant Proteins|Tyrosine|Membrane Glycoproteins|Jurkat Cells|Host-Pathogen Interactions|Mutagenesis, Site-Directed|Enterovirus Infections|Binding Sites|Conserved Sequence|Protein Interaction Domains and Motifs
+50	Female|Animals|Mice|Humans|Streptococcus pneumoniae|N-Acetylmuramoyl-L-alanine Amidase|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Pneumococcal Infections|Phagocytosis|Sepsis|Macrophages|Pneumonia
+51	Humans|Immunoglobulin Fc Fragments|Capsid Proteins|Amino Acid Sequence|Enterovirus|Viral Fusion Proteins|Lysine|Virus Attachment|Amino Acid Substitution|Recombinant Fusion Proteins|Mutant Proteins|Tyrosine|Membrane Glycoproteins|Jurkat Cells|Host-Pathogen Interactions|Mutagenesis, Site-Directed|Enterovirus Infections|Binding Sites|Conserved Sequence|Protein Interaction Domains and Motifs
+52	Animals|Cricetinae|Humans|L-Selectin|SELE protein, human|E-Selectin|Cricetulus|Membrane Glycoproteins|Ligands|Dimerization|CHO Cells|Cell Membrane|Endothelium
+53	
+54	Cricetinae|Animals|Rats|Horses|Mice|Cattle|Swine|Humans|Cricetulus|Immunophenotyping|Furin|Flow Cytometry|Amino Acid Sequence|Species Specificity|Membrane Glycoproteins|Neutrophil Infiltration|Cell Adhesion|CHO Cells|Transfection
+55	Mice|Animals|Humans|Insulin Resistance|Glucose Tolerance Test|SELP protein, human|P-Selectin|Insulin|DNA Primers|E-Selectin|Mice, Inbred C57BL|Phosphorylation|Reverse Transcriptase Polymerase Chain Reaction|Up-Regulation|Membrane Glycoproteins|Oligonucleotide Array Sequence Analysis|Flow Cytometry|Diet, Fat-Restricted|Mice, Knockout|Fatty Liver|Obesity|Adipocytes|Inflammation
+56	
+57	Male|Mice|Animals|Humans|SELP protein, human|P-Selectin|Blood Platelets|DNA Primers|Ligands|Membrane Glycoproteins|Base Sequence|RNA|Microscopy|Mice, Inbred C57BL|Platelet Activation|Leukocytes|Antibodies|Endothelium
+58	Mice|Animals|SELP protein, human|P-Selectin|L-Selectin|Macrophage Activation|Vascular Cell Adhesion Molecule-1|Membrane Glycoproteins|Cell Adhesion|Membrane Proteins|Ligands|Cell Adhesion Molecule-1|Mice, Knockout|Cell Membrane|Cell Count|Macrophages|Peritoneum
+59	Animals|Mice|Humans|SELP protein, human|P-Selectin|Liposomes|Membrane Glycoproteins|Human Umbilical Vein Endothelial Cells|Benzothiazoles|Drug Delivery Systems|Neoplasms|Surface Properties|Diagnostic Tests, Routine
+60	
+61	Male|Mice|Animals|Humans|SELP protein, human|P-Selectin|Blood Platelets|DNA Primers|Ligands|Membrane Glycoproteins|Base Sequence|RNA|Microscopy|Mice, Inbred C57BL|Platelet Activation|Leukocytes|Antibodies|Endothelium
+62	Humans|Proto-Oncogene Proteins c-vav|Protein-Tyrosine Kinases|Protein Binding|Intracellular Signaling Peptides and Proteins|Intercellular Adhesion Molecule-1|Cell Adhesion|Enzyme Activation|Membrane Glycoproteins|HL-60 Cells|Membrane Microdomains|Protein Transport
+63	
+64	Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Neutrophils|Membrane Glycoproteins|Ligands|Gene Deletion|Mice, Inbred C57BL|Cell Movement|Signal Transduction|Gene Targeting
+65	Mice|Animals|Inducible T-Cell Co-Stimulator Protein|T-Lymphocyte Subsets|Plasma Cells|Autoimmunity|Immunoglobulin G|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Immunoglobulin Class Switching|Mice, Knockout|Germinal Center|Interleukins|Antigens|Chemokines|Cell Differentiation
+66	Mice|Animals|Inducible T-Cell Co-Stimulator Protein|T-Lymphocyte Subsets|Plasma Cells|Autoimmunity|Immunoglobulin G|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Immunoglobulin Class Switching|Mice, Knockout|Germinal Center|Interleukins|Antigens|Chemokines|Cell Differentiation
+67	
+68	Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Neutrophils|Membrane Glycoproteins|Ligands|Gene Deletion|Mice, Inbred C57BL|Cell Movement|Signal Transduction|Gene Targeting
+69	Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Neutrophils|Membrane Glycoproteins|Ligands|Gene Deletion|Mice, Inbred C57BL|Cell Movement|Signal Transduction|Gene Targeting
+70	Humans|SELP protein, human|P-Selectin|Staphylococcus aureus|Blood Platelets|Monocytes|Membrane Glycoproteins|Bacterial Proteins|Staphylococcal Infections|Blood Proteins
+71	
+72	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+73	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+74	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+75	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+76	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+77	Humans|Glycosylation|Enterovirus|Protein Processing, Post-Translational|Virus Internalization|Jurkat Cells|Tyrosine|Flow Cytometry|Membrane Glycoproteins|Virulence|Mutagenesis, Site-Directed|Enterovirus Infections|Virus Replication|Leukocytes|Recombinant Proteins
+78	Humans|Glycosylation|Enterovirus|Protein Processing, Post-Translational|Virus Internalization|Jurkat Cells|Tyrosine|Flow Cytometry|Membrane Glycoproteins|Virulence|Mutagenesis, Site-Directed|Enterovirus Infections|Virus Replication|Leukocytes|Recombinant Proteins
+79	Animals|Cricetinae|Humans|L-Selectin|SELE protein, human|E-Selectin|Cricetulus|Membrane Glycoproteins|Ligands|Dimerization|CHO Cells|Cell Membrane|Endothelium
+80	Cercopithecus aethiops|Male|Female|Mice|Animals|Leukocyte Rolling|SELP protein, human|P-Selectin|Venules|Capillaries|Sulfotransferases|Mice, Inbred C57BL|Flow Cytometry|Membrane Glycoproteins|Sulfates|Tyrosine|Protein Binding|COS Cells|Mice, Knockout|Leukocytes|Veins|Hematopoietic Stem Cell Transplantation
+81	Mice|Humans|Animals|Neutrophil Activation|Membrane Glycoproteins|Neutrophils|Membrane Proteins|Cell Polarity|HL-60 Cells|Membrane Microdomains|Cell Count
+82	Humans|Glycosylation|Enterovirus|Protein Processing, Post-Translational|Virus Internalization|Jurkat Cells|Tyrosine|Flow Cytometry|Membrane Glycoproteins|Virulence|Mutagenesis, Site-Directed|Enterovirus Infections|Virus Replication|Leukocytes|Recombinant Proteins
+83	Humans|Leukocyte Rolling|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Dimethyl Sulfoxide|Cell Adhesion|Recombinant Fusion Proteins|HL-60 Cells|Membrane Glycoproteins|Immobilized Proteins|Cell Shape|Cytoplasm|Cell Nucleus
+84	Mice|Animals|CD4-Positive T-Lymphocytes|Immunologic Memory|Mice, Inbred C57BL|Membrane Glycoproteins|Mice, SCID|Mice, Knockout|Ileitis|Intestinal Mucosa|Cell Movement|Mesentery|Lymph Nodes|Endothelium|Chronic Disease
+85	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|Platelet Activating Factor|Flow Cytometry|Blood Platelets|Membrane Glycoproteins|Endotoxins|Ion Transport|Pneumonia|Signal Transduction
+86	Cricetinae|Animals|Rats|Horses|Mice|Cattle|Swine|Humans|Cricetulus|Immunophenotyping|Furin|Flow Cytometry|Amino Acid Sequence|Species Specificity|Membrane Glycoproteins|Neutrophil Infiltration|Cell Adhesion|CHO Cells|Transfection
+87	Animals|Cricetinae|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Cricetulus|polyacrylamide gels|K562 Cells|HL-60 Cells|Sodium Dodecyl Sulfate|Membrane Glycoproteins|Ligands|Acrylic Resins|CHO Cells|Electrophoresis|Hematopoietic Stem Cells
+88	Animals|Cricetinae|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Cricetulus|polyacrylamide gels|K562 Cells|HL-60 Cells|Sodium Dodecyl Sulfate|Membrane Glycoproteins|Ligands|Acrylic Resins|CHO Cells|Electrophoresis|Hematopoietic Stem Cells
+89	
+90	Mice|Male|Animals|Antioxidants|Cyclic N-Oxides|Mice, Inbred C57BL|Spin Labels|Immunohistochemistry|Membrane Glycoproteins|Real-Time Polymerase Chain Reaction|Mice, Knockout|Obesity|Vascular Diseases|Immunoblotting|Endothelium
+91	Cricetinae|Animals|Rats|Horses|Mice|Cattle|Swine|Humans|Cricetulus|Immunophenotyping|Furin|Flow Cytometry|Amino Acid Sequence|Species Specificity|Membrane Glycoproteins|Neutrophil Infiltration|Cell Adhesion|CHO Cells|Transfection
+92	
+93	Cricetinae|Animals|Rats|Horses|Mice|Cattle|Swine|Humans|Cricetulus|Immunophenotyping|Furin|Flow Cytometry|Amino Acid Sequence|Species Specificity|Membrane Glycoproteins|Neutrophil Infiltration|Cell Adhesion|CHO Cells|Transfection
+94	Cricetinae|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Cricetulus|Neuraminidase|Cell Adhesion|Membrane Glycoproteins|Tumor Necrosis Factor-alpha|Umbilical Veins|Recombinant Fusion Proteins|Metalloendopeptidases|Ligands|Threonine|Microspheres|CHO Cells|Endothelium|Oligosaccharides
+95	Animals|Cricetinae|Humans|L-Selectin|SELE protein, human|E-Selectin|Cricetulus|Membrane Glycoproteins|Ligands|Dimerization|CHO Cells|Cell Membrane|Endothelium
+96	Mice|Animals|CD4-Positive T-Lymphocytes|Immunologic Memory|Mice, Inbred C57BL|Membrane Glycoproteins|Mice, SCID|Mice, Knockout|Ileitis|Intestinal Mucosa|Cell Movement|Mesentery|Lymph Nodes|Endothelium|Chronic Disease
+97	Mice|Animals|CD4-Positive T-Lymphocytes|Immunologic Memory|Mice, Inbred C57BL|Membrane Glycoproteins|Mice, SCID|Mice, Knockout|Ileitis|Intestinal Mucosa|Cell Movement|Mesentery|Lymph Nodes|Endothelium|Chronic Disease
+98	Mice|Male|Female|Animals|SELP protein, human|P-Selectin|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Immunohistochemistry|RNA|Inflammation|Shock|Hemodynamics|Hemorrhage|Endothelium
+99	Animals|Cricetinae|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Cricetulus|polyacrylamide gels|K562 Cells|HL-60 Cells|Sodium Dodecyl Sulfate|Membrane Glycoproteins|Ligands|Acrylic Resins|CHO Cells|Electrophoresis|Hematopoietic Stem Cells
+100	
+101	Humans|Natalizumab|Integrin alpha4beta1|SELP protein, human|P-Selectin|Leukocyte Rolling|Multiple Sclerosis|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Th17 Cells|Blood-Brain Barrier|Up-Regulation|Membrane Glycoproteins|Ligands|Cell Adhesion Molecule-1|Central Nervous System|Antibodies|Cell Count|Transcriptional Activation|Case-Control Studies
+102	Animals|Cercopithecus aethiops|Humans|SELP protein, human|P-Selectin|Fucosyltransferases|COS Cells|Cysteine|N-Acetylglucosaminyltransferases|Cell Adhesion|Membrane Glycoproteins|Alanine|Dimerization|Ligands|Solubility|Cell Membrane|E-Selectin
+103	Female|Male|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Bromelains|Neutrophils|Membrane Glycoproteins|Proteolysis|L-Selectin|Cell Adhesion|Diagnostic Tests, Routine|Cytodiagnosis
+104	Male|Mice|Animals|SELP protein, human|P-Selectin|Thromboplastin|Mice, Inbred C57BL|Microcirculation|Membrane Glycoproteins|Fluorescence|Microscopy|Mice, Knockout|Blood Coagulation|Thrombosis|Antigens|Lasers|Endothelium
+105	Female|Animals|Mice|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Fireflies|Tumor Necrosis Factor-alpha|Membrane Glycoproteins|Adenoviridae|Acrylamides|Hep G2 Cells|Viral Load|Bacterial Proteins|Selectins|Endothelium|Mice, Nude|Antibodies|Luciferases|Endothelial Cells|Gene Transfer Techniques|Xenograft Model Antitumor Assays|Cell Line|Umbilical Cord
+106	Male|Mice|Animals|SELP protein, human|P-Selectin|Thromboplastin|Mice, Inbred C57BL|Microcirculation|Membrane Glycoproteins|Fluorescence|Microscopy|Mice, Knockout|Blood Coagulation|Thrombosis|Antigens|Lasers|Endothelium
+107	Mice|Humans|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Oxazolone|Cell Adhesion|Immunologic Surveillance|Membrane Glycoproteins|Immunomagnetic Separation|Hemorheology|Mice, Knockout|Cell Movement|Cell Count|Blood Cells|Dendritic Cells|Endothelium|Bone Marrow Cells
+108	Mice|Humans|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Oxazolone|Cell Adhesion|Immunologic Surveillance|Membrane Glycoproteins|Immunomagnetic Separation|Hemorheology|Mice, Knockout|Cell Movement|Cell Count|Blood Cells|Dendritic Cells|Endothelium|Bone Marrow Cells
+109	Mice|Humans|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Oxazolone|Cell Adhesion|Immunologic Surveillance|Membrane Glycoproteins|Immunomagnetic Separation|Hemorheology|Mice, Knockout|Cell Movement|Cell Count|Blood Cells|Dendritic Cells|Endothelium|Bone Marrow Cells
+110	Mice|Humans|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Oxazolone|Cell Adhesion|Immunologic Surveillance|Membrane Glycoproteins|Immunomagnetic Separation|Hemorheology|Mice, Knockout|Cell Movement|Cell Count|Blood Cells|Dendritic Cells|Endothelium|Bone Marrow Cells
+111	Animals|Mice|Humans|SELP protein, human|P-Selectin|Liposomes|Membrane Glycoproteins|Human Umbilical Vein Endothelial Cells|Benzothiazoles|Drug Delivery Systems|Neoplasms|Surface Properties|Diagnostic Tests, Routine
+112	Female|Animals|Mice|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Fireflies|Tumor Necrosis Factor-alpha|Membrane Glycoproteins|Adenoviridae|Acrylamides|Hep G2 Cells|Viral Load|Bacterial Proteins|Selectins|Endothelium|Mice, Nude|Antibodies|Luciferases|Endothelial Cells|Gene Transfer Techniques|Xenograft Model Antitumor Assays|Cell Line|Umbilical Cord
+113	Mice|Animals|Inducible T-Cell Co-Stimulator Protein|T-Lymphocyte Subsets|Plasma Cells|Autoimmunity|Immunoglobulin G|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Immunoglobulin Class Switching|Mice, Knockout|Germinal Center|Interleukins|Antigens|Chemokines|Cell Differentiation
+114	Mice|Male|Animals|Antioxidants|Cyclic N-Oxides|Mice, Inbred C57BL|Spin Labels|Immunohistochemistry|Membrane Glycoproteins|Real-Time Polymerase Chain Reaction|Mice, Knockout|Obesity|Vascular Diseases|Immunoblotting|Endothelium
+115	
+116	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+117	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+118	Mice|Animals|CD4-Positive T-Lymphocytes|Immunologic Memory|Mice, Inbred C57BL|Membrane Glycoproteins|Mice, SCID|Mice, Knockout|Ileitis|Intestinal Mucosa|Cell Movement|Mesentery|Lymph Nodes|Endothelium|Chronic Disease
+119	Adult|Male|Female|Humans|Platelet Adhesiveness|Dinoprostone|Cyclooxygenase 2|Blood Platelets|Cell Aggregation|Monocytes|Influenza, Human|Culture Media|Platelet Activation|Immunization|Vaccination|Cell Movement|Cell Communication|Endothelial Cells|Inflammation|Phenotype|Immunoglobulin G
+120	
+121	Animals|Cricetinae|Humans|L-Selectin|SELE protein, human|E-Selectin|Cricetulus|Membrane Glycoproteins|Ligands|Dimerization|CHO Cells|Cell Membrane|Endothelium
+122	
+123	Male|Mice|Animals|Humans|SELP protein, human|P-Selectin|Blood Platelets|DNA Primers|Ligands|Membrane Glycoproteins|Base Sequence|RNA|Microscopy|Mice, Inbred C57BL|Platelet Activation|Leukocytes|Antibodies|Endothelium
+124	Mice|Animals|Inducible T-Cell Co-Stimulator Protein|T-Lymphocyte Subsets|Plasma Cells|Autoimmunity|Immunoglobulin G|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Immunoglobulin Class Switching|Mice, Knockout|Germinal Center|Interleukins|Antigens|Chemokines|Cell Differentiation
+125	Animals|Cercopithecus aethiops|Humans|SELP protein, human|P-Selectin|Fucosyltransferases|COS Cells|Cysteine|N-Acetylglucosaminyltransferases|Cell Adhesion|Membrane Glycoproteins|Alanine|Dimerization|Ligands|Solubility|Cell Membrane|E-Selectin
+126	Animals|Cercopithecus aethiops|Humans|SELP protein, human|P-Selectin|Fucosyltransferases|COS Cells|Cysteine|N-Acetylglucosaminyltransferases|Cell Adhesion|Membrane Glycoproteins|Alanine|Dimerization|Ligands|Solubility|Cell Membrane|E-Selectin
+127	
+128	Humans|Actins|Microfilament Proteins|Cytoskeletal Proteins|Membrane Proteins|Membrane Glycoproteins|T-Lymphocytes|Cytoskeleton|Microtubules|Chemokines|Cell Count
+129	Humans|SELP protein, human|P-Selectin|Blood Platelets|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Microscopy|Platelet Activation|Cell Movement|Rheology|Antibodies|Surface Properties
+130	
+131	Mice|Animals|Inducible T-Cell Co-Stimulator Protein|T-Lymphocyte Subsets|Plasma Cells|Autoimmunity|Immunoglobulin G|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Immunoglobulin Class Switching|Mice, Knockout|Germinal Center|Interleukins|Antigens|Chemokines|Cell Differentiation
+132	
+133	Male|Female|Swine|Humans|Animals|Zona Pellucida|Sperm-Ovum Interactions|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Acrosome|Microscopy|Ligands|Electrons|Oocytes|Cell Membrane|Calcium, Dietary|Recombinant Proteins|Immunoenzyme Techniques
+134	Animals|Cercopithecus aethiops|Humans|SELP protein, human|P-Selectin|Fucosyltransferases|COS Cells|Cysteine|N-Acetylglucosaminyltransferases|Cell Adhesion|Membrane Glycoproteins|Alanine|Dimerization|Ligands|Solubility|Cell Membrane|E-Selectin
+135	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Mice, Inbred BALB C|Membrane Glycoproteins|Cell Movement|Cell Count|Animals, Laboratory|Dermatitis
+136	
+137	Mice|Animals|Humans|SELE protein, human|E-Selectin|Neutrophils|Mice, Inbred C57BL|Membrane Glycoproteins|Ligands|Mice, Knockout|Cell Line|Endothelial Cells|Cell Differentiation
+138	Humans|Proto-Oncogene Proteins c-vav|Protein-Tyrosine Kinases|Protein Binding|Intracellular Signaling Peptides and Proteins|Intercellular Adhesion Molecule-1|Cell Adhesion|Enzyme Activation|Membrane Glycoproteins|HL-60 Cells|Membrane Microdomains|Protein Transport
+139	Humans|Immunoglobulin Fc Fragments|Capsid Proteins|Amino Acid Sequence|Enterovirus|Viral Fusion Proteins|Lysine|Virus Attachment|Amino Acid Substitution|Recombinant Fusion Proteins|Mutant Proteins|Tyrosine|Membrane Glycoproteins|Jurkat Cells|Host-Pathogen Interactions|Mutagenesis, Site-Directed|Enterovirus Infections|Binding Sites|Conserved Sequence|Protein Interaction Domains and Motifs
+140	Female|Animals|Mice|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Fireflies|Tumor Necrosis Factor-alpha|Membrane Glycoproteins|Adenoviridae|Acrylamides|Hep G2 Cells|Viral Load|Bacterial Proteins|Selectins|Endothelium|Mice, Nude|Antibodies|Luciferases|Endothelial Cells|Gene Transfer Techniques|Xenograft Model Antitumor Assays|Cell Line|Umbilical Cord
+141	Humans|Proto-Oncogene Proteins c-vav|Protein-Tyrosine Kinases|Protein Binding|Intracellular Signaling Peptides and Proteins|Intercellular Adhesion Molecule-1|Cell Adhesion|Enzyme Activation|Membrane Glycoproteins|HL-60 Cells|Membrane Microdomains|Protein Transport
+142	
+143	Cricetinae|Animals|Rats|Horses|Mice|Cattle|Swine|Humans|Cricetulus|Immunophenotyping|Furin|Flow Cytometry|Amino Acid Sequence|Species Specificity|Membrane Glycoproteins|Neutrophil Infiltration|Cell Adhesion|CHO Cells|Transfection
+144	
+145	
+146	Cercopithecus aethiops|Male|Female|Mice|Animals|Leukocyte Rolling|SELP protein, human|P-Selectin|Venules|Capillaries|Sulfotransferases|Mice, Inbred C57BL|Flow Cytometry|Membrane Glycoproteins|Sulfates|Tyrosine|Protein Binding|COS Cells|Mice, Knockout|Leukocytes|Veins|Hematopoietic Stem Cell Transplantation
+147	Mice|Animals|IL4 protein, human|Interleukin-4|IL10 protein, human|Interleukin-10|L-Selectin|Immunoglobulin E|Mice, Inbred BALB C|Membrane Glycoproteins|Sulfotransferases|T-Lymphocytes, Regulatory|Mice, Knockout|Lymphocytes|Nasal Mucosa|Hypersensitivity|Antigens|Lymph Nodes
+148	Mice|Animals|Proto-Oncogene Proteins c-hck|src-Family Kinases|Protein-Tyrosine Kinases|Leukocyte Rolling|SELE protein, human|E-Selectin|Intracellular Signaling Peptides and Proteins|Enzyme Activation|GTP-Binding Protein alpha Subunits|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|GTP-Binding Protein alpha Subunits, Gi-Go|Proto-Oncogenes|Mice, Knockout|Signal Transduction|Proto-Oncogene Proteins|Adaptor Proteins, Signal Transducing|Immunoglobulin G
+149	
+150	Cricetinae|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Cricetulus|Neuraminidase|Cell Adhesion|Membrane Glycoproteins|Tumor Necrosis Factor-alpha|Umbilical Veins|Recombinant Fusion Proteins|Metalloendopeptidases|Ligands|Threonine|Microspheres|CHO Cells|Endothelium|Oligosaccharides
+151	Cricetinae|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Cricetulus|Neuraminidase|Cell Adhesion|Membrane Glycoproteins|Tumor Necrosis Factor-alpha|Umbilical Veins|Recombinant Fusion Proteins|Metalloendopeptidases|Ligands|Threonine|Microspheres|CHO Cells|Endothelium|Oligosaccharides
+152	Animals|Mice|Humans|SELP protein, human|P-Selectin|Liposomes|Membrane Glycoproteins|Human Umbilical Vein Endothelial Cells|Benzothiazoles|Drug Delivery Systems|Neoplasms|Surface Properties|Diagnostic Tests, Routine
+153	
+154	Cricetinae|Animals|Humans|Anaplasma phagocytophilum|Cricetulus|Ehrlichiosis|Amino Acid Substitution|Protein Binding|Molecular Docking Simulation|Bacterial Outer Membrane Proteins|HL-60 Cells|Virulence|CHO Cells|Antibodies|Mutation|Bacteria
+155	
+156	
+157	
+158	Male|Mice|Animals|SELP protein, human|P-Selectin|Thromboplastin|Mice, Inbred C57BL|Microcirculation|Membrane Glycoproteins|Fluorescence|Microscopy|Mice, Knockout|Blood Coagulation|Thrombosis|Antigens|Lasers|Endothelium
+159	Humans|Actins|Microfilament Proteins|Cytoskeletal Proteins|Membrane Proteins|Membrane Glycoproteins|T-Lymphocytes|Cytoskeleton|Microtubules|Chemokines|Cell Count
+160	
+161	
+162	Humans|SELP protein, human|P-Selectin|Membrane Glycoproteins|Mucins|Carrier Proteins|Ligands|Microspheres|K562 Cells|Glycoproteins|Cell Movement|Peptides
+163	Humans|Integrin alpha4beta1|L-Selectin|Cell Adhesion|Chemotaxis|Ligands|Mucins|Leukocytes|Binding Sites|Cell Line|Endothelium
+164	Adult|Male|Female|Humans|Platelet Adhesiveness|Dinoprostone|Cyclooxygenase 2|Blood Platelets|Cell Aggregation|Monocytes|Influenza, Human|Culture Media|Platelet Activation|Immunization|Vaccination|Cell Movement|Cell Communication|Endothelial Cells|Inflammation|Phenotype|Immunoglobulin G
+165	Mice|Animals|Cell Adhesion|Membrane Glycoproteins|Selectins|Glioma|Neovascularization, Pathologic|Hemodynamics|Endothelium|Stem Cells|Biomarkers
+166	
+167	
+168	
+169	
+170	
+171	
+172	Female|Mice|Humans|Animals|Inducible T-Cell Co-Stimulator Protein|Inducible T-Cell Co-Stimulator Ligand|T-Lymphocyte Subsets|Kruppel-Like Transcription Factors|Forkhead Transcription Factors|Down-Regulation|Palatine Tonsil|Protein Binding|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Mice, Knockout|Receptors, CXCR5|Germinal Center|Signal Transduction|Antigens|Cell Differentiation|Phenotype
+173	
+174	Mice|Animals|Proprotein Convertases|Thymus Gland|T-Lymphocytes|SELP protein, human|P-Selectin|Interleukin-7|Serine Endopeptidases|Membrane Glycoproteins|RNA|Receptors, Interleukin-7|Mice, Knockout|Lymphocytes|Lymphocyte Count|Bone Marrow Cells|Homeostasis
+175	Humans|L-Selectin|Polystyrenes|Cell Adhesion|Shear Strength|Neutrophils|Hybridomas|Microspheres|Viscosity|Antibodies|CD18 Antigens|Perfusion|Mathematics
+176	Humans|Leukocyte Rolling|SELP protein, human|P-Selectin|Chemokine CXCL1|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Neutrophils|Lymphocyte Activation|Computer Simulation|Cell Adhesion Molecule-1|Receptors, Leukocyte-Adhesion|Intercellular Adhesion Molecule-1|Leukocytes
+177	
+178	Mice|Animals|L-Selectin|Leukocyte Rolling|Monocytes|Spleen|Chemotaxis|Membrane Glycoproteins|Mice, Inbred C57BL|Leukocytes|Inflammation|Lymph Nodes|Retinitis
+179	Humans|SELP protein, human|P-Selectin|Chemokine CXCL12|Cell Adhesion|Microfluidics|U937 Cells|Cell Count|Bone Marrow Cells|Microvessels
+180	Humans|L-Selectin|Polystyrenes|Cell Adhesion|Shear Strength|Neutrophils|Hybridomas|Microspheres|Viscosity|Antibodies|CD18 Antigens|Perfusion|Mathematics
+181	Mice|Animals|Proprotein Convertases|Thymus Gland|T-Lymphocytes|SELP protein, human|P-Selectin|Interleukin-7|Serine Endopeptidases|Membrane Glycoproteins|RNA|Receptors, Interleukin-7|Mice, Knockout|Lymphocytes|Lymphocyte Count|Bone Marrow Cells|Homeostasis
+182	Mice|Animals|SELP protein, human|P-Selectin|L-Selectin|Venules|Tumor Necrosis Factor-alpha|Membrane Glycoproteins|Leukocytes|Cell Communication|Inflammation
+183	Animals|Mice|Trichuris|Trichuriasis|N-Acetylglucosaminyltransferases|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Membrane Glycoproteins|Real-Time Polymerase Chain Reaction|Virulence|Mice, Knockout|Intestines|Polysaccharides
+184	Mice|Animals|CD4-Positive T-Lymphocytes|Immunologic Memory|Mice, Inbred C57BL|Membrane Glycoproteins|Mice, SCID|Mice, Knockout|Ileitis|Intestinal Mucosa|Cell Movement|Mesentery|Lymph Nodes|Endothelium|Chronic Disease
+185	
+186	
+187	
+188	Mice|Animals|Humans|SELE protein, human|E-Selectin|Neutrophils|Mice, Inbred C57BL|Membrane Glycoproteins|Ligands|Mice, Knockout|Cell Line|Endothelial Cells|Cell Differentiation
+189	Animals|Cricetinae|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Cricetulus|polyacrylamide gels|K562 Cells|HL-60 Cells|Sodium Dodecyl Sulfate|Membrane Glycoproteins|Ligands|Acrylic Resins|CHO Cells|Electrophoresis|Hematopoietic Stem Cells
+190	Middle Aged|Adult|Male|Female|Humans|Nasal Polyps|Rhinitis|Eosinophils|SELE protein, human|E-Selectin|Neutrophils|Down-Regulation|Immunohistochemistry|RNA|European Continental Ancestry Group|Reproducibility of Results|Leukocyte Count|Sinusitis|Cell Adhesion Molecules|Chronic Disease
+191	
+192	Humans|Natalizumab|Integrin alpha4beta1|SELP protein, human|P-Selectin|Leukocyte Rolling|Multiple Sclerosis|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Th17 Cells|Blood-Brain Barrier|Up-Regulation|Membrane Glycoproteins|Ligands|Cell Adhesion Molecule-1|Central Nervous System|Antibodies|Cell Count|Transcriptional Activation|Case-Control Studies
+193	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|SELP protein, human|P-Selectin|Chemokine CXCL2|Platelet Count|Lipoxins|Platelet Activating Factor|Lipopolysaccharides|Escherichia coli|Thrombocytopenia|Bronchoalveolar Lavage|Pneumonia|Mutation
+194	Mice|Animals|Chemokine CXCL12|Blood Platelets|Cell Adhesion|Microscopy|Fluorescence|Recovery of Function|Platelet Activation|Thrombosis|Cell Movement|Arteries|Bone Marrow Cells|Stem Cells|Cell Differentiation|Endothelium|Muscle, Smooth
+195	
+196	Humans|L-Selectin|Tumor Necrosis Factor-alpha|Fucosyltransferases|Membrane Glycoproteins|Cell Adhesion|Immunoglobulin M|Recombinant Fusion Proteins|T-Lymphocytes|Ligands|Antigens, Differentiation, T-Lymphocyte|Lymphocytes|Leukocytes|Fluorescent Antibody Technique|Inflammation|Endothelium|Transfection|Cell Line|Oligosaccharides|Neoplasms
+197	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+198	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+199	Humans|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Vascular Cell Adhesion Molecule-1|NK Cell Lectin-Like Receptor Subfamily D|KRT14 protein, human|Keratin-14|Eosinophils|Mast Cells|Membrane Glycoproteins|Cell Adhesion Molecule-1|T-Lymphocytes|Mice, Knockout|Cell Movement|Leukocyte Count|Dermatitis|Inflammation|Severity of Illness Index
+200	Male|Female|Swine|Humans|Animals|Zona Pellucida|Sperm-Ovum Interactions|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Acrosome|Microscopy|Ligands|Electrons|Oocytes|Cell Membrane|Calcium, Dietary|Recombinant Proteins|Immunoenzyme Techniques
+201	Humans|Carbohydrate Conformation|Molecular Structure|Carbohydrate Sequence|Hexanes|Mannose|Ligands|Colorectal Neoplasms|Selectins|Liver Neoplasms|Molecular Sequence Data|Protein Isoforms
+202	Humans|Leukocyte Rolling|L-Selectin|Cell Adhesion|Shear Strength|Ligands|Monte Carlo Method|Leukocytes|Molecular Conformation
+203	
+204	Humans|SELP protein, human|P-Selectin|Membrane Glycoproteins|Mucins|Carrier Proteins|Ligands|Microspheres|K562 Cells|Glycoproteins|Cell Movement|Peptides
+205	
+206	Mice|Animals|B-Lymphocytes|TOR Serine-Threonine Kinases|Transforming Growth Factor beta|Immunoglobulin Class Switching|Species Specificity|T-Lymphocytes, Helper-Inducer|Germinal Center|Immunoglobulin Isotypes|Antibody Formation|Signal Transduction|Orthomyxoviridae|Orthomyxoviridae Infections|Cell Differentiation|Mucous Membrane
+207	Mice|Animals|B-Lymphocytes|TOR Serine-Threonine Kinases|Transforming Growth Factor beta|Immunoglobulin Class Switching|Species Specificity|T-Lymphocytes, Helper-Inducer|Germinal Center|Immunoglobulin Isotypes|Antibody Formation|Signal Transduction|Orthomyxoviridae|Orthomyxoviridae Infections|Cell Differentiation|Mucous Membrane
+208	Humans|Glycosylation|Enterovirus|Protein Processing, Post-Translational|Virus Internalization|Jurkat Cells|Tyrosine|Flow Cytometry|Membrane Glycoproteins|Virulence|Mutagenesis, Site-Directed|Enterovirus Infections|Virus Replication|Leukocytes|Recombinant Proteins
+209	
+210	
+211	Animals|Humans|SELE protein, human|E-Selectin|Fucosyltransferases|Human Umbilical Vein Endothelial Cells|Leukocytes|P-Selectin
+212	
+213	Cricetinae|Animals|Rats|Horses|Mice|Cattle|Swine|Humans|Cricetulus|Immunophenotyping|Furin|Flow Cytometry|Amino Acid Sequence|Species Specificity|Membrane Glycoproteins|Neutrophil Infiltration|Cell Adhesion|CHO Cells|Transfection
+214	Humans|SELP protein, human|P-Selectin|Membrane Glycoproteins|Mucins|Carrier Proteins|Ligands|Microspheres|K562 Cells|Glycoproteins|Cell Movement|Peptides
+215	Mice|Animals|IL4 protein, human|Interleukin-4|IL5 protein, human|Interleukin-5|Interleukin-2|Interferon-gamma|Ovalbumin|Th1 Cells|Mannose|Enzyme-Linked Immunosorbent Assay|Immunoglobulin G|Recombinant Fusion Proteins|Mucins|T-Lymphocytes, Cytotoxic|Mice, Inbred C57BL|Vaccination|Immunization|Immunologic Factors
+216	
+217	Mice|Animals|Leukocyte Rolling|L-Selectin|Lymphocyte Function-Associated Antigen-1|src-Family Kinases|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Protein Binding|Signal Transduction|Cell Count|Rheology
+218	Mice|Male|Animals|Glutamine|Mice, Inbred C57BL|Heparin|Fluorescence|Microscopy|Acute Disease|T-Lymphocytes|Colitis|Colon|Intestinal Mucosa|Cell Adhesion Molecules|Body Weight|Chemokines|Dietary Supplements|Cell Movement
+219	
+220	Mice|Male|Animals|Glutamine|Mice, Inbred C57BL|Heparin|Fluorescence|Microscopy|Acute Disease|T-Lymphocytes|Colitis|Colon|Intestinal Mucosa|Cell Adhesion Molecules|Body Weight|Chemokines|Dietary Supplements|Cell Movement
+221	Mice|Animals|Cytosine|Programmed Cell Death 1 Receptor|CD4-Positive T-Lymphocytes|DNA Methylation|Mice, Inbred C57BL|Culture Media|Immunotherapy|Inorganic Chemicals|Peptides|Promoter Regions, Genetic
+222	Mice|Animals|Cytosine|Programmed Cell Death 1 Receptor|CD4-Positive T-Lymphocytes|DNA Methylation|Mice, Inbred C57BL|Culture Media|Immunotherapy|Inorganic Chemicals|Peptides|Promoter Regions, Genetic
+223	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+224	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+225	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+226	
+227	Male|Mice|Animals|SELP protein, human|P-Selectin|Thromboplastin|Mice, Inbred C57BL|Microcirculation|Membrane Glycoproteins|Fluorescence|Microscopy|Mice, Knockout|Blood Coagulation|Thrombosis|Antigens|Lasers|Endothelium
+228	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+229	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+230	Mice|Animals|Th2 Cells|Th1 Cells|SELP protein, human|P-Selectin|Interleukin-12|Lymphocyte Activation|Membrane Glycoproteins|Ligands|Mice, Inbred BALB C|Adoptive Transfer|Cell Movement|Cell Count|Allergens|Intestines
+231	Humans|Immunologic Memory|T-Lymphocytes|Epitopes|Antigenic Variation|Cytokines|Lymphocyte Count|Cytodiagnosis
+232	Mice|Animals|Humans|Insulin Resistance|Glucose Tolerance Test|SELP protein, human|P-Selectin|Insulin|DNA Primers|E-Selectin|Mice, Inbred C57BL|Phosphorylation|Reverse Transcriptase Polymerase Chain Reaction|Up-Regulation|Membrane Glycoproteins|Oligonucleotide Array Sequence Analysis|Flow Cytometry|Diet, Fat-Restricted|Mice, Knockout|Fatty Liver|Obesity|Adipocytes|Inflammation
+233	Mice|Humans|Animals|Macrophage-1 Antigen|Cathelicidins|SELP protein, human|P-Selectin|AGER protein, human|Receptor for Advanced Glycation End Products|Antimicrobial Cationic Peptides|Neutrophils|Croton Oil|Glycosaminoglycans|Peptide Hydrolases|Ligands|Sulfates|Rosacea|Inflammation|Drug-Related Side Effects and Adverse Reactions|Iatrogenic Disease
+234	Female|Mice|Humans|Animals|Inducible T-Cell Co-Stimulator Protein|Inducible T-Cell Co-Stimulator Ligand|T-Lymphocyte Subsets|Kruppel-Like Transcription Factors|Forkhead Transcription Factors|Down-Regulation|Palatine Tonsil|Protein Binding|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Mice, Knockout|Receptors, CXCR5|Germinal Center|Signal Transduction|Antigens|Cell Differentiation|Phenotype
+235	
+236	
+237	Animals|Mice|Soybean Oil|Olive Oil|Fish Oils|Mice, Inbred C57BL|Plant Oils|Plants|Cell Count|Leukocytes|In Vitro Techniques
+238	Adult|Male|Female|Humans|Platelet Adhesiveness|Dinoprostone|Cyclooxygenase 2|Blood Platelets|Cell Aggregation|Monocytes|Influenza, Human|Culture Media|Platelet Activation|Immunization|Vaccination|Cell Movement|Cell Communication|Endothelial Cells|Inflammation|Phenotype|Immunoglobulin G
+239	
+240	Animals|Mice|Male|Humans|SELE protein, human|E-Selectin|Fucosyltransferases|Mice, Inbred C57BL|Isoenzymes|Prostatic Neoplasms|Bone Marrow Neoplasms|Adenocarcinoma|Bone Neoplasms|Cell Movement|Cell Line|Mass Spectrometry
+241	Female|Mice|Animals|Humans|Enterovirus|Viral Vaccines|Viral Structural Proteins|Mice, Inbred BALB C|Hand, Foot and Mouth Disease|Epitopes, B-Lymphocyte|Enterovirus Infections|Foot-and-Mouth Disease|Antibodies|Survival Analysis|Treatment Outcome
+242	
+243	Mice|Animals|Proprotein Convertases|Thymus Gland|T-Lymphocytes|SELP protein, human|P-Selectin|Interleukin-7|Serine Endopeptidases|Membrane Glycoproteins|RNA|Receptors, Interleukin-7|Mice, Knockout|Lymphocytes|Lymphocyte Count|Bone Marrow Cells|Homeostasis
+244	Animals|Mice|Humans|Cell-Derived Microparticles|Thromboplastin|Platelet Aggregation|polyacrylamide gels|Flow Cytometry|Fluorescence|Microscopy|Membrane Glycoproteins|Mice, Inbred C57BL|Acrylic Resins|Platelet Function Tests|Thrombosis|Cell Line|Electrophoresis|Neoplasms
+245	Mice|Animals|Proprotein Convertases|Thymus Gland|T-Lymphocytes|SELP protein, human|P-Selectin|Interleukin-7|Serine Endopeptidases|Membrane Glycoproteins|RNA|Receptors, Interleukin-7|Mice, Knockout|Lymphocytes|Lymphocyte Count|Bone Marrow Cells|Homeostasis
+246	Mice|Animals|L-Selectin|Leukocyte Rolling|Monocytes|Spleen|Chemotaxis|Membrane Glycoproteins|Mice, Inbred C57BL|Leukocytes|Inflammation|Lymph Nodes|Retinitis
+247	Animals|Humans|Anaplasma phagocytophilum|Anaplasmosis|Granulocyte Precursor Cells|RNA Interference|RNA|HL-60 Cells|Zoonoses|Reverse Transcriptase Polymerase Chain Reaction|Nuclear Proteins|Bacterial Proteins|Virulence|Genetic Therapy|RNA, Messenger
+248	Animals|Mice|Humans|Cell-Derived Microparticles|Thromboplastin|Platelet Aggregation|polyacrylamide gels|Flow Cytometry|Fluorescence|Microscopy|Membrane Glycoproteins|Mice, Inbred C57BL|Acrylic Resins|Platelet Function Tests|Thrombosis|Cell Line|Electrophoresis|Neoplasms
+249	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+250	Female|Male|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Bromelains|Neutrophils|Membrane Glycoproteins|Proteolysis|L-Selectin|Cell Adhesion|Diagnostic Tests, Routine|Cytodiagnosis
+251	
+252	Mice|Animals|Humans|Insulin Resistance|Glucose Tolerance Test|SELP protein, human|P-Selectin|Insulin|DNA Primers|E-Selectin|Mice, Inbred C57BL|Phosphorylation|Reverse Transcriptase Polymerase Chain Reaction|Up-Regulation|Membrane Glycoproteins|Oligonucleotide Array Sequence Analysis|Flow Cytometry|Diet, Fat-Restricted|Mice, Knockout|Fatty Liver|Obesity|Adipocytes|Inflammation
+253	Mice|Animals|Proto-Oncogene Proteins c-hck|src-Family Kinases|Protein-Tyrosine Kinases|Leukocyte Rolling|SELE protein, human|E-Selectin|Intracellular Signaling Peptides and Proteins|Enzyme Activation|GTP-Binding Protein alpha Subunits|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|GTP-Binding Protein alpha Subunits, Gi-Go|Proto-Oncogenes|Mice, Knockout|Signal Transduction|Proto-Oncogene Proteins|Adaptor Proteins, Signal Transducing|Immunoglobulin G
+254	
+255	Mice|Animals|Humans|SELE protein, human|E-Selectin|Neutrophils|Mice, Inbred C57BL|Membrane Glycoproteins|Ligands|Mice, Knockout|Cell Line|Endothelial Cells|Cell Differentiation
+256	Mice|Animals|L-Selectin|Leukocyte Rolling|Monocytes|Spleen|Chemotaxis|Membrane Glycoproteins|Mice, Inbred C57BL|Leukocytes|Inflammation|Lymph Nodes|Retinitis
+257	Animals|Mice|Humans|Amyloid Precursor Protein Secretases|Aspartic Acid Endopeptidases|Amyloid beta-Peptides|Alzheimer Disease|Nootropic Agents|Saponins|Triterpenes|Proteolysis|Substrate Specificity|Enzyme Activation|Cognition Disorders|Animals, Genetically Modified|Cell Line|Asian Continental Ancestry Group
+258	Pregnancy|Animals|Mice|Female|Bone Marrow|Lymphocyte Function-Associated Antigen-1|Flow Cytometry|Membrane Glycoproteins|Cadherins|Mice, Inbred C57BL|Microscopy|Multiplex Polymerase Chain Reaction|Receptors, Calcium-Sensing|Hematopoietic Stem Cells|CXCR4 protein, human|Receptors, CXCR4|Calcium, Dietary|Fetus|Cell Movement|Liver
+259	
+260	
+261	Mice|Male|Animals|Glutamine|Mice, Inbred C57BL|Heparin|Fluorescence|Microscopy|Acute Disease|T-Lymphocytes|Colitis|Colon|Intestinal Mucosa|Cell Adhesion Molecules|Body Weight|Chemokines|Dietary Supplements|Cell Movement
+262	Mice|Male|Animals|Glutamine|Mice, Inbred C57BL|Heparin|Fluorescence|Microscopy|Acute Disease|T-Lymphocytes|Colitis|Colon|Intestinal Mucosa|Cell Adhesion Molecules|Body Weight|Chemokines|Dietary Supplements|Cell Movement
+263	Adult|Middle Aged|Young Adult|Adolescent|Female|Humans|Th17 Cells|Immunophenotyping|Cytokines|Coculture Techniques|T-Lymphocytes, Regulatory|Dendritic Cells|Lupus Erythematosus, Systemic|Cell Differentiation|Arthritis|Phenotype
+264	
+265	
+266	
+267	
+268	
+269	Middle Aged|Adult|Male|Female|Humans|Nasal Polyps|Rhinitis|Eosinophils|SELE protein, human|E-Selectin|Neutrophils|Down-Regulation|Immunohistochemistry|RNA|European Continental Ancestry Group|Reproducibility of Results|Leukocyte Count|Sinusitis|Cell Adhesion Molecules|Chronic Disease
+270	
+271	
+272	
+273	Humans|L-Selectin|Polystyrenes|Cell Adhesion|Shear Strength|Neutrophils|Hybridomas|Microspheres|Viscosity|Antibodies|CD18 Antigens|Perfusion|Mathematics
+274	
+275	Humans|L-Selectin|Polystyrenes|Cell Adhesion|Shear Strength|Neutrophils|Hybridomas|Microspheres|Viscosity|Antibodies|CD18 Antigens|Perfusion|Mathematics
+276	Humans|Acetylglucosamine|Amino Sugars|beta-Galactosidase|Acetylation|Gas Chromatography-Mass Spectrometry|Lectins|Ligands|Sugars|Oligosaccharides|Polysaccharides|Leukocytes|Hydrolases|Inflammation
+277	Humans|L-Selectin|Polystyrenes|Cell Adhesion|Shear Strength|Neutrophils|Hybridomas|Microspheres|Viscosity|Antibodies|CD18 Antigens|Perfusion|Mathematics
+278	Mice|Animals|Inducible T-Cell Co-Stimulator Protein|T-Lymphocyte Subsets|Plasma Cells|Autoimmunity|Immunoglobulin G|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Immunoglobulin Class Switching|Mice, Knockout|Germinal Center|Interleukins|Antigens|Chemokines|Cell Differentiation
+279	Female|Mice|Humans|Animals|Inducible T-Cell Co-Stimulator Protein|Inducible T-Cell Co-Stimulator Ligand|T-Lymphocyte Subsets|Kruppel-Like Transcription Factors|Forkhead Transcription Factors|Down-Regulation|Palatine Tonsil|Protein Binding|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Mice, Knockout|Receptors, CXCR5|Germinal Center|Signal Transduction|Antigens|Cell Differentiation|Phenotype
+280	
+281	Humans|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Vascular Cell Adhesion Molecule-1|NK Cell Lectin-Like Receptor Subfamily D|KRT14 protein, human|Keratin-14|Eosinophils|Mast Cells|Membrane Glycoproteins|Cell Adhesion Molecule-1|T-Lymphocytes|Mice, Knockout|Cell Movement|Leukocyte Count|Dermatitis|Inflammation|Severity of Illness Index
+282	Animals|Mice|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Leukemia, Myelogenous, Chronic, BCR-ABL Positive|Mice, SCID|Mice, Knockout|Fusion Proteins, bcr-abl|Hypereosinophilic Syndrome|Cell Line
+283	Cricetinae|Animals|Humans|Anaplasma phagocytophilum|Cricetulus|Ehrlichiosis|Amino Acid Substitution|Protein Binding|Molecular Docking Simulation|Bacterial Outer Membrane Proteins|HL-60 Cells|Virulence|CHO Cells|Antibodies|Mutation|Bacteria
+284	Female|Mice|Humans|Animals|Inducible T-Cell Co-Stimulator Protein|Inducible T-Cell Co-Stimulator Ligand|T-Lymphocyte Subsets|Kruppel-Like Transcription Factors|Forkhead Transcription Factors|Down-Regulation|Palatine Tonsil|Protein Binding|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Mice, Knockout|Receptors, CXCR5|Germinal Center|Signal Transduction|Antigens|Cell Differentiation|Phenotype
+285	Male|Female|Swine|Humans|Animals|Zona Pellucida|Sperm-Ovum Interactions|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Acrosome|Microscopy|Ligands|Electrons|Oocytes|Cell Membrane|Calcium, Dietary|Recombinant Proteins|Immunoenzyme Techniques
+286	Animals|Mice|Humans|Cell-Derived Microparticles|Thromboplastin|Platelet Aggregation|polyacrylamide gels|Flow Cytometry|Fluorescence|Microscopy|Membrane Glycoproteins|Mice, Inbred C57BL|Acrylic Resins|Platelet Function Tests|Thrombosis|Cell Line|Electrophoresis|Neoplasms
+287	Animals|Cricetinae|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Cricetulus|polyacrylamide gels|K562 Cells|HL-60 Cells|Sodium Dodecyl Sulfate|Membrane Glycoproteins|Ligands|Acrylic Resins|CHO Cells|Electrophoresis|Hematopoietic Stem Cells
+288	Humans|SELP protein, human|P-Selectin|Blood Platelets|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Microscopy|Platelet Activation|Cell Movement|Rheology|Antibodies|Surface Properties
+289	
+290	
+291	Humans|Immunoglobulin Fc Fragments|Capsid Proteins|Amino Acid Sequence|Enterovirus|Viral Fusion Proteins|Lysine|Virus Attachment|Amino Acid Substitution|Recombinant Fusion Proteins|Mutant Proteins|Tyrosine|Membrane Glycoproteins|Jurkat Cells|Host-Pathogen Interactions|Mutagenesis, Site-Directed|Enterovirus Infections|Binding Sites|Conserved Sequence|Protein Interaction Domains and Motifs
+292	Mice|Animals|Proprotein Convertases|Thymus Gland|T-Lymphocytes|SELP protein, human|P-Selectin|Interleukin-7|Serine Endopeptidases|Membrane Glycoproteins|RNA|Receptors, Interleukin-7|Mice, Knockout|Lymphocytes|Lymphocyte Count|Bone Marrow Cells|Homeostasis
+293	Humans|SELP protein, human|P-Selectin|Blood Platelets|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Microscopy|Platelet Activation|Cell Movement|Rheology|Antibodies|Surface Properties
+294	Male|Female|Swine|Humans|Animals|Zona Pellucida|Sperm-Ovum Interactions|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Acrosome|Microscopy|Ligands|Electrons|Oocytes|Cell Membrane|Calcium, Dietary|Recombinant Proteins|Immunoenzyme Techniques
+295	Animals|Humans|Neutrophils|Selectins|Cell Membrane|Signal Transduction|Carrier Proteins
+296	Mice|Animals|SELP protein, human|P-Selectin|L-Selectin|Macrophage Activation|Vascular Cell Adhesion Molecule-1|Membrane Glycoproteins|Cell Adhesion|Membrane Proteins|Ligands|Cell Adhesion Molecule-1|Mice, Knockout|Cell Membrane|Cell Count|Macrophages|Peritoneum
+297	Humans|SELP protein, human|P-Selectin|Staphylococcus aureus|Blood Platelets|Monocytes|Membrane Glycoproteins|Bacterial Proteins|Staphylococcal Infections|Blood Proteins
+298	
+299	Humans|Mice|Animals|Drug Carriers|Blood-Brain Barrier|Nanoparticles|Biological Transport|Nervous System Diseases
+300	
+301	
+302	Humans|Natalizumab|Integrin alpha4beta1|SELP protein, human|P-Selectin|Leukocyte Rolling|Multiple Sclerosis|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Th17 Cells|Blood-Brain Barrier|Up-Regulation|Membrane Glycoproteins|Ligands|Cell Adhesion Molecule-1|Central Nervous System|Antibodies|Cell Count|Transcriptional Activation|Case-Control Studies
+303	Animals|Humans|Leukocyte Rolling|Cell Adhesion|Leukocytes|Cell Communication|Inflammation|Endothelium
+304	Mice|Animals|Proto-Oncogene Proteins c-hck|src-Family Kinases|Protein-Tyrosine Kinases|Leukocyte Rolling|SELE protein, human|E-Selectin|Intracellular Signaling Peptides and Proteins|Enzyme Activation|GTP-Binding Protein alpha Subunits|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|GTP-Binding Protein alpha Subunits, Gi-Go|Proto-Oncogenes|Mice, Knockout|Signal Transduction|Proto-Oncogene Proteins|Adaptor Proteins, Signal Transducing|Immunoglobulin G
+305	
+306	
+307	
+308	Mice|Animals|Proprotein Convertases|Thymus Gland|T-Lymphocytes|SELP protein, human|P-Selectin|Interleukin-7|Serine Endopeptidases|Membrane Glycoproteins|RNA|Receptors, Interleukin-7|Mice, Knockout|Lymphocytes|Lymphocyte Count|Bone Marrow Cells|Homeostasis
+309	Male|Mice|Animals|SELP protein, human|P-Selectin|Thromboplastin|Mice, Inbred C57BL|Microcirculation|Membrane Glycoproteins|Fluorescence|Microscopy|Mice, Knockout|Blood Coagulation|Thrombosis|Antigens|Lasers|Endothelium
+310	Cricetinae|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Cricetulus|Neuraminidase|Cell Adhesion|Membrane Glycoproteins|Tumor Necrosis Factor-alpha|Umbilical Veins|Recombinant Fusion Proteins|Metalloendopeptidases|Ligands|Threonine|Microspheres|CHO Cells|Endothelium|Oligosaccharides
+311	Cricetinae|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Cricetulus|Neuraminidase|Cell Adhesion|Membrane Glycoproteins|Tumor Necrosis Factor-alpha|Umbilical Veins|Recombinant Fusion Proteins|Metalloendopeptidases|Ligands|Threonine|Microspheres|CHO Cells|Endothelium|Oligosaccharides
+312	Adult|Middle Aged|Young Adult|Adolescent|Female|Humans|Th17 Cells|Immunophenotyping|Cytokines|Coculture Techniques|T-Lymphocytes, Regulatory|Dendritic Cells|Lupus Erythematosus, Systemic|Cell Differentiation|Arthritis|Phenotype
+313	Cricetinae|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Cricetulus|Neuraminidase|Cell Adhesion|Membrane Glycoproteins|Tumor Necrosis Factor-alpha|Umbilical Veins|Recombinant Fusion Proteins|Metalloendopeptidases|Ligands|Threonine|Microspheres|CHO Cells|Endothelium|Oligosaccharides
+314	Animals|Cricetinae|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Cricetulus|polyacrylamide gels|K562 Cells|HL-60 Cells|Sodium Dodecyl Sulfate|Membrane Glycoproteins|Ligands|Acrylic Resins|CHO Cells|Electrophoresis|Hematopoietic Stem Cells
+315	Animals|Cricetinae|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Cricetulus|polyacrylamide gels|K562 Cells|HL-60 Cells|Sodium Dodecyl Sulfate|Membrane Glycoproteins|Ligands|Acrylic Resins|CHO Cells|Electrophoresis|Hematopoietic Stem Cells
+316	Animals|Cricetinae|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Cricetulus|polyacrylamide gels|K562 Cells|HL-60 Cells|Sodium Dodecyl Sulfate|Membrane Glycoproteins|Ligands|Acrylic Resins|CHO Cells|Electrophoresis|Hematopoietic Stem Cells
+317	Mice|Animals|SELP protein, human|P-Selectin|L-Selectin|Venules|Tumor Necrosis Factor-alpha|Membrane Glycoproteins|Leukocytes|Cell Communication|Inflammation
+318	Humans|Acetylglucosamine|Amino Sugars|beta-Galactosidase|Acetylation|Gas Chromatography-Mass Spectrometry|Lectins|Ligands|Sugars|Oligosaccharides|Polysaccharides|Leukocytes|Hydrolases|Inflammation
+319	Middle Aged|Adult|Male|Female|Mice|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Small Cell Lung Carcinoma|Neoplasm Staging|Survival Rate|Tissue Array Analysis|Flow Cytometry|Mice, SCID|Mice, Knockout|Lung Neoplasms|Prognosis|Oligosaccharides|Immunoenzyme Techniques
+320	Animals|Male|Humans|Membrane Glycoproteins|Obesity|Endothelium, Vascular
+321	Humans|Natalizumab|Integrin alpha4beta1|SELP protein, human|P-Selectin|Leukocyte Rolling|Multiple Sclerosis|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Th17 Cells|Blood-Brain Barrier|Up-Regulation|Membrane Glycoproteins|Ligands|Cell Adhesion Molecule-1|Central Nervous System|Antibodies|Cell Count|Transcriptional Activation|Case-Control Studies
+322	Humans|Natalizumab|Integrin alpha4beta1|SELP protein, human|P-Selectin|Leukocyte Rolling|Multiple Sclerosis|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Th17 Cells|Blood-Brain Barrier|Up-Regulation|Membrane Glycoproteins|Ligands|Cell Adhesion Molecule-1|Central Nervous System|Antibodies|Cell Count|Transcriptional Activation|Case-Control Studies
+323	
+324	
+325	
+326	
+327	
+328	polyacrylamide gels|Proteoglycans|Naphthols|Sulfotransferases|Acrylic Resins|Electrophoresis
+329	
+330	Humans|Leukocyte Rolling|L-Selectin|Cell Adhesion|Shear Strength|Ligands|Monte Carlo Method|Leukocytes|Molecular Conformation
+331	
+332	Humans|Leukocyte Rolling|L-Selectin|Cell Adhesion|Shear Strength|Ligands|Monte Carlo Method|Leukocytes|Molecular Conformation
+333	
+334	
+335	Mice|Animals|Chemokine CXCL12|Blood Platelets|Cell Adhesion|Microscopy|Fluorescence|Recovery of Function|Platelet Activation|Thrombosis|Cell Movement|Arteries|Bone Marrow Cells|Stem Cells|Cell Differentiation|Endothelium|Muscle, Smooth
+336	
+337	Humans|Leukocyte Rolling|SELP protein, human|P-Selectin|Chemokine CXCL1|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Neutrophils|Lymphocyte Activation|Computer Simulation|Cell Adhesion Molecule-1|Receptors, Leukocyte-Adhesion|Intercellular Adhesion Molecule-1|Leukocytes
+338	
+339	Mice|Animals|IL4 protein, human|Interleukin-4|IL5 protein, human|Interleukin-5|Interleukin-2|Interferon-gamma|Ovalbumin|Th1 Cells|Mannose|Enzyme-Linked Immunosorbent Assay|Immunoglobulin G|Recombinant Fusion Proteins|Mucins|T-Lymphocytes, Cytotoxic|Mice, Inbred C57BL|Vaccination|Immunization|Immunologic Factors
+340	Mice|Animals|Proprotein Convertases|Thymus Gland|T-Lymphocytes|SELP protein, human|P-Selectin|Interleukin-7|Serine Endopeptidases|Membrane Glycoproteins|RNA|Receptors, Interleukin-7|Mice, Knockout|Lymphocytes|Lymphocyte Count|Bone Marrow Cells|Homeostasis
+341	Cricetinae|Animals|Humans|Platelet Glycoprotein GPIb-IX Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Cricetulus|Blood Platelets|Membrane Glycoproteins|Ligands|CHO Cells|Endothelium
+342	Cricetinae|Animals|Humans|Platelet Glycoprotein GPIb-IX Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Cricetulus|Blood Platelets|Membrane Glycoproteins|Ligands|CHO Cells|Endothelium
+343	Cricetinae|Animals|Humans|Platelet Glycoprotein GPIb-IX Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Cricetulus|Blood Platelets|Membrane Glycoproteins|Ligands|CHO Cells|Endothelium
+344	Mice|Animals|IL4 protein, human|Interleukin-4|IL5 protein, human|Interleukin-5|Interleukin-2|Interferon-gamma|Ovalbumin|Th1 Cells|Mannose|Enzyme-Linked Immunosorbent Assay|Immunoglobulin G|Recombinant Fusion Proteins|Mucins|T-Lymphocytes, Cytotoxic|Mice, Inbred C57BL|Vaccination|Immunization|Immunologic Factors
+345	Humans|SELP protein, human|P-Selectin|Membrane Glycoproteins|Mucins|Carrier Proteins|Ligands|Microspheres|K562 Cells|Glycoproteins|Cell Movement|Peptides
+346	SELP protein, human|P-Selectin|Protein Binding|Allosteric Regulation|Structure-Activity Relationship|Membrane Glycoproteins|Protein Conformation|Protein Interaction Domains and Motifs
+347	Mice|Humans|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Oxazolone|Cell Adhesion|Immunologic Surveillance|Membrane Glycoproteins|Immunomagnetic Separation|Hemorheology|Mice, Knockout|Cell Movement|Cell Count|Blood Cells|Dendritic Cells|Endothelium|Bone Marrow Cells
+348	Humans|SELP protein, human|P-Selectin|Staphylococcus aureus|Blood Platelets|Monocytes|Membrane Glycoproteins|Bacterial Proteins|Staphylococcal Infections|Blood Proteins
+349	
+350	Mice|Animals|IL4 protein, human|Interleukin-4|IL5 protein, human|Interleukin-5|Interleukin-2|Interferon-gamma|Ovalbumin|Th1 Cells|Mannose|Enzyme-Linked Immunosorbent Assay|Immunoglobulin G|Recombinant Fusion Proteins|Mucins|T-Lymphocytes, Cytotoxic|Mice, Inbred C57BL|Vaccination|Immunization|Immunologic Factors
+351	Humans|Vascular Cell Adhesion Molecule-1|Intercellular Adhesion Molecule-1|SELP protein, human|P-Selectin|Integrin alpha3|Integrin alpha5|Cell Adhesion|Blood Platelets|Human Umbilical Vein Endothelial Cells|RNA Interference|RNA|Membrane Glycoproteins|Coculture Techniques|Carcinoma, Non-Small-Cell Lung|Cell Adhesion Molecule-1|Lung Neoplasms|Platelet Activation|Cell Count|Cytodiagnosis|Carcinoma
+352	Male|Female|Humans|Phosphorylation|Phospholipase C gamma|Flow Cytometry|Protein Kinases|Cell Separation|Coronary Artery Bypass|Leukocytes|Systemic Inflammatory Response Syndrome|Signal Transduction
+353	Female|Mice|Animals|Humans|Papillomavirus Vaccines|TLR3 protein, human|Toll-Like Receptor 3|Poly I-C|Papillomavirus E7 Proteins|Papillomaviridae|Papillomavirus Infections|DEAD-box RNA Helicases|Cervix Uteri|CD8-Positive T-Lymphocytes|Interferon-gamma|Oligodeoxyribonucleotides|Fibroblast Growth Factors|Sialoglycoproteins|Toll-Like Receptors|Vaccination|Immunization|CXCR3 protein, human|Receptors, CXCR3|Signal Transduction|Neoplasms
+354	Mice|Animals|L-Selectin|Chemotaxis|Integrin beta Chains|Cell Adhesion|Flow Cytometry|Interferons|Mice, Knockout|CXCR3 protein, human|Receptors, CXCR3|Chemokines|Cell Movement|Lymph Nodes|Lymphatic Vessels|Inflammation|Dendritic Cells
+355	Humans|Enterovirus|Virus Attachment|Host-Pathogen Interactions|Lectins, C-Type|Coculture Techniques|Enterovirus Infections|Cell Adhesion Molecules|Cell Membrane|Dendritic Cells
+356	
+357	
+358	
+359	Animals|Mice|Humans|Cell-Derived Microparticles|Thromboplastin|Platelet Aggregation|polyacrylamide gels|Flow Cytometry|Fluorescence|Microscopy|Membrane Glycoproteins|Mice, Inbred C57BL|Acrylic Resins|Platelet Function Tests|Thrombosis|Cell Line|Electrophoresis|Neoplasms
+360	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|Platelet Activating Factor|Flow Cytometry|Blood Platelets|Membrane Glycoproteins|Endotoxins|Ion Transport|Pneumonia|Signal Transduction
+361	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|Platelet Activating Factor|Flow Cytometry|Blood Platelets|Membrane Glycoproteins|Endotoxins|Ion Transport|Pneumonia|Signal Transduction
+362	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|Platelet Activating Factor|Flow Cytometry|Blood Platelets|Membrane Glycoproteins|Endotoxins|Ion Transport|Pneumonia|Signal Transduction
+363	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|Platelet Activating Factor|Flow Cytometry|Blood Platelets|Membrane Glycoproteins|Endotoxins|Ion Transport|Pneumonia|Signal Transduction
+364	Male|Female|Swine|Humans|Animals|Zona Pellucida|Sperm-Ovum Interactions|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Acrosome|Microscopy|Ligands|Electrons|Oocytes|Cell Membrane|Calcium, Dietary|Recombinant Proteins|Immunoenzyme Techniques
+365	Cricetinae|Animals|Humans|Platelet Glycoprotein GPIb-IX Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Cricetulus|Blood Platelets|Membrane Glycoproteins|Ligands|CHO Cells|Endothelium
+366	Cricetinae|Animals|Humans|Platelet Glycoprotein GPIb-IX Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Cricetulus|Blood Platelets|Membrane Glycoproteins|Ligands|CHO Cells|Endothelium
+367	Cricetinae|Animals|Humans|Platelet Glycoprotein GPIb-IX Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Cricetulus|Blood Platelets|Membrane Glycoproteins|Ligands|CHO Cells|Endothelium
+368	Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Leukocyte Rolling|Intercellular Adhesion Molecule-1|Lymphocyte Function-Associated Antigen-1|Cell Adhesion|Venules|Neutrophils|Membrane Glycoproteins|Th1 Cells|Shear Strength|Adhesiveness|Mice, Inbred C57BL|Cell Adhesion Molecules|Inflammation|Microvessels
+369	Humans|Leukocyte Rolling|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Dimethyl Sulfoxide|Cell Adhesion|Recombinant Fusion Proteins|HL-60 Cells|Membrane Glycoproteins|Immobilized Proteins|Cell Shape|Cytoplasm|Cell Nucleus
+370	Animals|Mice|Humans|Enterovirus|Lysosome-Associated Membrane Glycoproteins|Brain Chemistry|Dependovirus|Green Fluorescent Proteins|Membrane Glycoproteins|Cytokines|Mice, Inbred ICR|Enterovirus Infections|Inflammation|Cell Line|Transfection|Intestines|Brain
+371	Humans|Leukocyte Rolling|SELP protein, human|P-Selectin|Chemokine CXCL1|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Neutrophils|Lymphocyte Activation|Computer Simulation|Cell Adhesion Molecule-1|Receptors, Leukocyte-Adhesion|Intercellular Adhesion Molecule-1|Leukocytes
+372	Animals|Mice|Humans|Cell-Derived Microparticles|Thromboplastin|Platelet Aggregation|polyacrylamide gels|Flow Cytometry|Fluorescence|Microscopy|Membrane Glycoproteins|Mice, Inbred C57BL|Acrylic Resins|Platelet Function Tests|Thrombosis|Cell Line|Electrophoresis|Neoplasms
+373	Cricetinae|Animals|Humans|Anaplasma phagocytophilum|Cricetulus|Ehrlichiosis|Amino Acid Substitution|Protein Binding|Molecular Docking Simulation|Bacterial Outer Membrane Proteins|HL-60 Cells|Virulence|CHO Cells|Antibodies|Mutation|Bacteria
+374	
+375	
+376	Mice|Animals|Lymphocyte Function-Associated Antigen-1|Leukocyte Rolling|SELP protein, human|P-Selectin|Intercellular Adhesion Molecule-1|Class Ib Phosphatidylinositol 3-Kinase|Cell Adhesion|Phosphatidylinositol 3-Kinases|Lymphocyte Activation|Isoenzymes|Computer Simulation|Reproducibility of Results|Mice, Knockout|Leukocytes|L-Selectin|Phenotype
+377	Cricetinae|Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Th1 Cells|Oxazolone|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Cricetulus|Membrane Glycoproteins|Chemotaxis|Ligands|Mice, Knockout|Adjuvants, Immunologic|CHO Cells|Dermatitis|Skin
+378	Cricetinae|Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Th1 Cells|Oxazolone|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Cricetulus|Membrane Glycoproteins|Chemotaxis|Ligands|Mice, Knockout|Adjuvants, Immunologic|CHO Cells|Dermatitis|Skin
+379	Cricetinae|Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Th1 Cells|Oxazolone|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Cricetulus|Membrane Glycoproteins|Chemotaxis|Ligands|Mice, Knockout|Adjuvants, Immunologic|CHO Cells|Dermatitis|Skin
+380	Cricetinae|Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Th1 Cells|Oxazolone|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Cricetulus|Membrane Glycoproteins|Chemotaxis|Ligands|Mice, Knockout|Adjuvants, Immunologic|CHO Cells|Dermatitis|Skin
+381	Cricetinae|Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Th1 Cells|Oxazolone|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Cricetulus|Membrane Glycoproteins|Chemotaxis|Ligands|Mice, Knockout|Adjuvants, Immunologic|CHO Cells|Dermatitis|Skin
+382	Humans|Cricetinae|Mice|Animals|L-Selectin|SELE protein, human|E-Selectin|Mannosyl-Glycoprotein Endo-beta-N-Acetylglucosaminidase|Immunoglobulin G|Cricetulus|Recombinant Fusion Proteins|Neutrophils|Sialic Acids|CHO Cells|Bone Marrow Cells
+383	
+384	Humans|SELP protein, human|P-Selectin|Stromal Cells|Adipose Tissue|Ischemia|Cell Movement|Cell Transplantation
+385	
+386	
+387	
+388	
+389	Humans|Cricetinae|Mice|Animals|L-Selectin|SELE protein, human|E-Selectin|Mannosyl-Glycoprotein Endo-beta-N-Acetylglucosaminidase|Immunoglobulin G|Cricetulus|Recombinant Fusion Proteins|Neutrophils|Sialic Acids|CHO Cells|Bone Marrow Cells
+390	Female|Mice|Animals|Mice, Inbred BALB C|Mice, Inbred C57BL|Th1 Cells|CD4-Positive T-Lymphocytes|Tretinoin|Lipopolysaccharides|Integrins|Membrane Glycoproteins|Mice, SCID|Colitis|Intestines|Dendritic Cells|Gastroenteritis|Cell Movement
+391	
+392	
+393	
+394	
+395	
+396	Animals|Humans|Risk Factors|Hyperlipidemias|Atherosclerosis|Myeloid Cells|Biological Phenomena
+397	
+398	Female|Mice|Humans|Animals|Platelet Glycoprotein GPIIb-IIIa Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Insulinoma|Talin|Blood Platelets|Protein Binding|Tumor Burden|Mice, Inbred C57BL|Time Factors|Mice, Knockout|Signal Transduction|Pancreatic Neoplasms|Melanoma
+399	Humans|Monocytes|Oligonucleotide Array Sequence Analysis|RNA|Macrophages|Dendritic Cells|Cell Differentiation|Blood Cell Count|Immunoglobulin G
+400	Animals|Mice|Thymus Gland|T-Lymphocytes|Osteocalcin|Mesenchymal Stromal Cells|Intracellular Signaling Peptides and Proteins|Membrane Proteins|Receptors, Antigen, T-Cell, alpha-beta|Bone Marrow Cells|Animals, Genetically Modified|Lymphocyte Count
+401	
+402	Mice|Animals|Male|Humans|Cell Adhesion|Fibroblast Growth Factors|Sialoglycoproteins|Immunohistochemistry|Heterografts|Transcriptome|Neoplasm Invasiveness|Cell Movement|Prostatic Neoplasms|Biological Phenomena
+403	Pregnancy|Animals|Mice|Female|Bone Marrow|Lymphocyte Function-Associated Antigen-1|Flow Cytometry|Membrane Glycoproteins|Cadherins|Mice, Inbred C57BL|Microscopy|Multiplex Polymerase Chain Reaction|Receptors, Calcium-Sensing|Hematopoietic Stem Cells|CXCR4 protein, human|Receptors, CXCR4|Calcium, Dietary|Fetus|Cell Movement|Liver
+404	
+405	
+406	
+407	Mice|Animals|Humans|Neutrophils|Peptide Fragments|Chemotactic Factors|Myocardial Reperfusion Injury|Protein Sorting Signals|Up-Regulation|Mice, Inbred C57BL|Peptides|Chemokines|GTP-Binding Proteins|Microvessels|Inflammation|Endothelial Cells|Cell Communication
+408	Humans|Integrin alpha4beta1|L-Selectin|Cell Adhesion|Chemotaxis|Ligands|Mucins|Leukocytes|Binding Sites|Cell Line|Endothelium
+409	Humans|SELP protein, human|P-Selectin|Blood Platelets|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Microscopy|Platelet Activation|Cell Movement|Rheology|Antibodies|Surface Properties
+410	
+411	Humans|SELP protein, human|P-Selectin|Membrane Glycoproteins|Mucins|Carrier Proteins|Ligands|Microspheres|K562 Cells|Glycoproteins|Cell Movement|Peptides
+412	Male|Female|Mice|Animals|Humans|rap GTP-Binding Proteins|rap1 GTP-Binding Proteins|Mice, Inbred BALB C|Membrane Proteins|T-Lymphocytes|Cell Movement|Colitis|Lymph Nodes|Homeostasis
+413	Humans|Female|Mice|Animals|Th1 Cells|Th17 Cells|Cross-Priming|CD8-Positive T-Lymphocytes|CD4-Positive T-Lymphocytes|Class Ib Phosphatidylinositol 3-Kinase|Thiazolidinediones|Cytokines|Cell Survival|Protein Kinase Inhibitors|Quinoxalines|Encephalomyelitis, Autoimmune, Experimental|Gene Deletion|Mice, Inbred C57BL|Dendritic Cells|Cell Movement|Signal Transduction|Central Nervous System|Apoptosis
+414	
+415	Cercopithecus aethiops|Male|Female|Mice|Animals|Leukocyte Rolling|SELP protein, human|P-Selectin|Venules|Capillaries|Sulfotransferases|Mice, Inbred C57BL|Flow Cytometry|Membrane Glycoproteins|Sulfates|Tyrosine|Protein Binding|COS Cells|Mice, Knockout|Leukocytes|Veins|Hematopoietic Stem Cell Transplantation
+416	Cercopithecus aethiops|Male|Female|Mice|Animals|Leukocyte Rolling|SELP protein, human|P-Selectin|Venules|Capillaries|Sulfotransferases|Mice, Inbred C57BL|Flow Cytometry|Membrane Glycoproteins|Sulfates|Tyrosine|Protein Binding|COS Cells|Mice, Knockout|Leukocytes|Veins|Hematopoietic Stem Cell Transplantation
+417	Animals|Humans|Amyloid beta-Peptides|Alzheimer Disease|Amino Acid Sequence|Proteolysis|Molecular Sequence Data|Amyloid beta-Protein Precursor|Drug Combinations|Biological Phenomena
+418	
+419	
+420	Mice|Humans|Animals|Neutrophil Activation|Membrane Glycoproteins|Neutrophils|Membrane Proteins|Cell Polarity|HL-60 Cells|Membrane Microdomains|Cell Count
+421	Mice|Humans|Animals|Neutrophil Activation|Membrane Glycoproteins|Neutrophils|Membrane Proteins|Cell Polarity|HL-60 Cells|Membrane Microdomains|Cell Count
+422	Mice|Humans|Animals|Neutrophil Activation|Membrane Glycoproteins|Neutrophils|Membrane Proteins|Cell Polarity|HL-60 Cells|Membrane Microdomains|Cell Count
+423	Humans|Cell-Derived Microparticles|Venous Thromboembolism|Endothelial Cells|Apoptosis|Neoplasms
+424	Mice|Humans|Animals|Lymphocyte Function-Associated Antigen-1|Integrin alpha4beta1|Transendothelial and Transepithelial Migration|Cell Adhesion|Jurkat Cells|Tumor Necrosis Factor-alpha|Mice, Inbred C57BL|Protein Binding|Microscopy|Fluorescence|Mice, Knockout|Cell Count|Endothelial Cells|Immunoblotting
+425	
+426	Mice|Animals|SELP protein, human|P-Selectin|L-Selectin|Macrophage Activation|Vascular Cell Adhesion Molecule-1|Membrane Glycoproteins|Cell Adhesion|Membrane Proteins|Ligands|Cell Adhesion Molecule-1|Mice, Knockout|Cell Membrane|Cell Count|Macrophages|Peritoneum
+427	Humans|Mesenchymal Stromal Cells|Cell-Derived Microparticles|Cell Differentiation|Stromal Cells|Cytodiagnosis
+428	Humans|L-Selectin|Polystyrenes|Cell Adhesion|Shear Strength|Neutrophils|Hybridomas|Microspheres|Viscosity|Antibodies|CD18 Antigens|Perfusion|Mathematics
+429	
+430	Mice|Animals|IL4 protein, human|Interleukin-4|IL5 protein, human|Interleukin-5|Interleukin-2|Interferon-gamma|Ovalbumin|Th1 Cells|Mannose|Enzyme-Linked Immunosorbent Assay|Immunoglobulin G|Recombinant Fusion Proteins|Mucins|T-Lymphocytes, Cytotoxic|Mice, Inbred C57BL|Vaccination|Immunization|Immunologic Factors
+431	Mice|Animals|IL4 protein, human|Interleukin-4|IL5 protein, human|Interleukin-5|Interleukin-2|Interferon-gamma|Ovalbumin|Th1 Cells|Mannose|Enzyme-Linked Immunosorbent Assay|Immunoglobulin G|Recombinant Fusion Proteins|Mucins|T-Lymphocytes, Cytotoxic|Mice, Inbred C57BL|Vaccination|Immunization|Immunologic Factors
+432	
+433	Humans|Platelet Aggregation|Blood Platelets|Hemostatics|Platelet Activation|Platelet Function Tests
+434	Humans|Fibrinolysis|Nitric Oxide|Chemotaxis|Pulsatile Flow|Cell Adhesion|HL-60 Cells|Hemostasis|Blood Coagulation|Thrombosis|Leukocytes|Endothelial Cells
+435	Mice|Animals|Humans|SELE protein, human|E-Selectin|Neutrophils|Mice, Inbred C57BL|Membrane Glycoproteins|Ligands|Mice, Knockout|Cell Line|Endothelial Cells|Cell Differentiation
+436	Computer Simulation|Computational Biology|Biomechanical Phenomena|Protein Binding|Microspheres|Reproducibility of Results|Motion|Selectins|Surface Properties|Nanotechnology
+437	Humans|Natalizumab|Integrin alpha4beta1|SELP protein, human|P-Selectin|Leukocyte Rolling|Multiple Sclerosis|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Th17 Cells|Blood-Brain Barrier|Up-Regulation|Membrane Glycoproteins|Ligands|Cell Adhesion Molecule-1|Central Nervous System|Antibodies|Cell Count|Transcriptional Activation|Case-Control Studies
+438	Humans|Natalizumab|Integrin alpha4beta1|SELP protein, human|P-Selectin|Leukocyte Rolling|Multiple Sclerosis|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Th17 Cells|Blood-Brain Barrier|Up-Regulation|Membrane Glycoproteins|Ligands|Cell Adhesion Molecule-1|Central Nervous System|Antibodies|Cell Count|Transcriptional Activation|Case-Control Studies
+439	Computer Simulation|Computational Biology|Biomechanical Phenomena|Protein Binding|Microspheres|Reproducibility of Results|Motion|Selectins|Surface Properties|Nanotechnology
+440	Computer Simulation|Computational Biology|Biomechanical Phenomena|Protein Binding|Microspheres|Reproducibility of Results|Motion|Selectins|Surface Properties|Nanotechnology
+441	
+442	Computer Simulation|Computational Biology|Biomechanical Phenomena|Protein Binding|Microspheres|Reproducibility of Results|Motion|Selectins|Surface Properties|Nanotechnology
+443	Mice|Animals|Proto-Oncogene Proteins c-hck|src-Family Kinases|Protein-Tyrosine Kinases|Leukocyte Rolling|SELE protein, human|E-Selectin|Intracellular Signaling Peptides and Proteins|Enzyme Activation|GTP-Binding Protein alpha Subunits|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|GTP-Binding Protein alpha Subunits, Gi-Go|Proto-Oncogenes|Mice, Knockout|Signal Transduction|Proto-Oncogene Proteins|Adaptor Proteins, Signal Transducing|Immunoglobulin G
+444	Mice|Animals|Proto-Oncogene Proteins c-hck|src-Family Kinases|Protein-Tyrosine Kinases|Leukocyte Rolling|SELE protein, human|E-Selectin|Intracellular Signaling Peptides and Proteins|Enzyme Activation|GTP-Binding Protein alpha Subunits|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|GTP-Binding Protein alpha Subunits, Gi-Go|Proto-Oncogenes|Mice, Knockout|Signal Transduction|Proto-Oncogene Proteins|Adaptor Proteins, Signal Transducing|Immunoglobulin G
+445	Mice|Animals|Proto-Oncogene Proteins c-hck|src-Family Kinases|Protein-Tyrosine Kinases|Leukocyte Rolling|SELE protein, human|E-Selectin|Intracellular Signaling Peptides and Proteins|Enzyme Activation|GTP-Binding Protein alpha Subunits|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|GTP-Binding Protein alpha Subunits, Gi-Go|Proto-Oncogenes|Mice, Knockout|Signal Transduction|Proto-Oncogene Proteins|Adaptor Proteins, Signal Transducing|Immunoglobulin G
+446	Animals|Mice|Humans|Enterovirus|Lysosome-Associated Membrane Glycoproteins|Brain Chemistry|Dependovirus|Green Fluorescent Proteins|Membrane Glycoproteins|Cytokines|Mice, Inbred ICR|Enterovirus Infections|Inflammation|Cell Line|Transfection|Intestines|Brain
+447	Animals|Mice|Humans|Enterovirus|Lysosome-Associated Membrane Glycoproteins|Brain Chemistry|Dependovirus|Green Fluorescent Proteins|Membrane Glycoproteins|Cytokines|Mice, Inbred ICR|Enterovirus Infections|Inflammation|Cell Line|Transfection|Intestines|Brain
+448	Cricetinae|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Cricetulus|Neuraminidase|Cell Adhesion|Membrane Glycoproteins|Tumor Necrosis Factor-alpha|Umbilical Veins|Recombinant Fusion Proteins|Metalloendopeptidases|Ligands|Threonine|Microspheres|CHO Cells|Endothelium|Oligosaccharides
+449	Mice|Animals|Humans|Enterovirus|Membrane Glycoproteins|Enterovirus Infections|Molecular Sequence Data|Virus Replication|Cell Line|Mutation
+450	
+451	
+452	Animals|Humans|Glycogen Synthase Kinase 3|Cathepsin B|Cell- and Tissue-Based Therapy|Enzyme Inhibitors|Diabetic Angiopathies|Stem Cells
+453	Humans|SELP protein, human|P-Selectin|L-Selectin|SELE protein, human|E-Selectin|Neutrophils|Cell Adhesion|Chemotaxis|Kinetics|Membrane Proteins|Palatine Tonsil|Time Factors|Lymphocytes|Leukocytes|Cell Communication|Elasticity
+454	Mice|Animals|Proprotein Convertases|Thymus Gland|T-Lymphocytes|SELP protein, human|P-Selectin|Interleukin-7|Serine Endopeptidases|Membrane Glycoproteins|RNA|Receptors, Interleukin-7|Mice, Knockout|Lymphocytes|Lymphocyte Count|Bone Marrow Cells|Homeostasis
+455	Mice|Animals|B-Lymphocytes|TOR Serine-Threonine Kinases|Transforming Growth Factor beta|Immunoglobulin Class Switching|Species Specificity|T-Lymphocytes, Helper-Inducer|Germinal Center|Immunoglobulin Isotypes|Antibody Formation|Signal Transduction|Orthomyxoviridae|Orthomyxoviridae Infections|Cell Differentiation|Mucous Membrane
+456	Female|Mice|Humans|Animals|Inducible T-Cell Co-Stimulator Protein|Inducible T-Cell Co-Stimulator Ligand|T-Lymphocyte Subsets|Kruppel-Like Transcription Factors|Forkhead Transcription Factors|Down-Regulation|Palatine Tonsil|Protein Binding|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Mice, Knockout|Receptors, CXCR5|Germinal Center|Signal Transduction|Antigens|Cell Differentiation|Phenotype
+457	Humans|Radiopharmaceuticals|Radioactive Tracers|Radionuclide Imaging|Inflammation
+458	Animals|Humans|Leukocyte Rolling|Cell-Derived Microparticles|Cell Aggregation|Blood Platelets|Cell Adhesion|Chemotaxis|Leukocytes|Cell Communication|Atherosclerosis|Inflammation|Endothelial Cells
+459	Humans|Integrin alpha4beta1|L-Selectin|Cell Adhesion|Chemotaxis|Ligands|Mucins|Leukocytes|Binding Sites|Cell Line|Endothelium
+460	
+461	Animals|Humans|ADP-Ribosylation Factor 1|Guanine Nucleotide Exchange Factors|GTPase-Activating Proteins|GTP Phosphohydrolases|Reactive Oxygen Species|Neutrophils|ADP-Ribosylation|Signal Transduction|Cell Membrane
+462	Humans|Platelet Glycoprotein GPIb-IX Complex|Macrophage-1 Antigen|Blood Platelets|Amino Acid Sequence|Cell Adhesion|Structure-Activity Relationship|Binding Sites|Leukocytes|Molecular Sequence Data|Cell Communication|Cell Line
+463	Humans|Platelet Glycoprotein GPIb-IX Complex|Macrophage-1 Antigen|Blood Platelets|Amino Acid Sequence|Cell Adhesion|Structure-Activity Relationship|Binding Sites|Leukocytes|Molecular Sequence Data|Cell Communication|Cell Line
+464	Humans|Enterovirus|Virus Attachment|Host-Pathogen Interactions|Lectins, C-Type|Coculture Techniques|Enterovirus Infections|Cell Adhesion Molecules|Cell Membrane|Dendritic Cells
+465	Animals|Mice|Leukocyte Rolling|SELP protein, human|P-Selectin|Green Fluorescent Proteins|Muramidase|Neutrophils|Protein Footprinting|Membrane Glycoproteins|Fluorescence|Microscopy|Animals, Genetically Modified|L-Selectin|Microfluidic Analytical Techniques
+466	
+467	Mice|Humans|Animals|TLR4 protein, human|Toll-Like Receptor 4|Macrophage-1 Antigen|Monocytes|Arachidonate 5-Lipoxygenase|Cell Adhesion|Human Umbilical Vein Endothelial Cells|Mice, Knockout|Aorta|Cell Line|Endothelium
+468	Mice|Animals|Cytokine Receptor gp130|B-Lymphocytes|Lymphoid Enhancer-Binding Factor 1|Hepatocyte Nuclear Factor 1-alpha|T-Lymphocytes, Helper-Inducer|Receptors, Interleukin-6|Germinal Center|IL6 protein, human|Interleukin-6|Cell Differentiation
+469	Humans|Actins|Microfilament Proteins|Cytoskeletal Proteins|Membrane Proteins|Membrane Glycoproteins|T-Lymphocytes|Cytoskeleton|Microtubules|Chemokines|Cell Count
+470	
+471	Humans|Glycomics|Aquatic Organisms|Sulfuric Acid Esters|Biological Products|Structure-Activity Relationship|Polysaccharides
+472	
+473	Animals|Mice|Molecular Mimicry|Flow Cytometry|Surface Plasmon Resonance|Melanoma|Disease Progression|Heparitin Sulfate|Cell Line
+474	Mice|Male|Animals|Glutamine|Mice, Inbred C57BL|Heparin|Fluorescence|Microscopy|Acute Disease|T-Lymphocytes|Colitis|Colon|Intestinal Mucosa|Cell Adhesion Molecules|Body Weight|Chemokines|Dietary Supplements|Cell Movement
+475	Mice|Animals|Cytokine Receptor gp130|B-Lymphocytes|Lymphoid Enhancer-Binding Factor 1|Hepatocyte Nuclear Factor 1-alpha|T-Lymphocytes, Helper-Inducer|Receptors, Interleukin-6|Germinal Center|IL6 protein, human|Interleukin-6|Cell Differentiation
+476	Cricetinae|Animals|Humans|Platelet Glycoprotein GPIb-IX Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Cricetulus|Blood Platelets|Membrane Glycoproteins|Ligands|CHO Cells|Endothelium
+477	Humans|Amino Acid Sequence|Protein Binding|Integrin beta Chains|Tumor Suppressor Proteins|Molecular Sequence Data|Myosins|Protein Interaction Domains and Motifs|Sequence Homology|Amino Acids|Protein Transport|Microtubules
+478	Male|Female|Mice|Animals|Humans|WAS protein, human|Wiskott-Aldrich Syndrome Protein|Integrins|Cell Adhesion|Myelin Sheath|Microglia|Lymphocyte Activation|Mice, Inbred C57BL|Autoimmunity|Cytokines|Encephalomyelitis, Autoimmune, Experimental|Mice, Knockout|Cell Movement|Central Nervous System|Cell Count|Immunoenzyme Techniques
+479	Humans|Capsid|Enterovirus|Cyclophilin A|Capsid Proteins|Antiviral Agents|Enterovirus Infections|Virus Replication|Antigens, Viral
+480	Animals|Mice|Humans|Cell-Derived Microparticles|Thromboplastin|Platelet Aggregation|polyacrylamide gels|Flow Cytometry|Fluorescence|Microscopy|Membrane Glycoproteins|Mice, Inbred C57BL|Acrylic Resins|Platelet Function Tests|Thrombosis|Cell Line|Electrophoresis|Neoplasms
+481	Mice|Humans|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Oxazolone|Cell Adhesion|Immunologic Surveillance|Membrane Glycoproteins|Immunomagnetic Separation|Hemorheology|Mice, Knockout|Cell Movement|Cell Count|Blood Cells|Dendritic Cells|Endothelium|Bone Marrow Cells
+482	Humans|SELP protein, human|P-Selectin|Membrane Glycoproteins|Mucins|Carrier Proteins|Ligands|Microspheres|K562 Cells|Glycoproteins|Cell Movement|Peptides
+483	Mice|Animals|IL4 protein, human|Interleukin-4|IL10 protein, human|Interleukin-10|L-Selectin|Immunoglobulin E|Mice, Inbred BALB C|Membrane Glycoproteins|Sulfotransferases|T-Lymphocytes, Regulatory|Mice, Knockout|Lymphocytes|Nasal Mucosa|Hypersensitivity|Antigens|Lymph Nodes
+484	Mice|Animals|IL4 protein, human|Interleukin-4|IL10 protein, human|Interleukin-10|L-Selectin|Immunoglobulin E|Mice, Inbred BALB C|Membrane Glycoproteins|Sulfotransferases|T-Lymphocytes, Regulatory|Mice, Knockout|Lymphocytes|Nasal Mucosa|Hypersensitivity|Antigens|Lymph Nodes
+485	
+486	
+487	
+488	Animals|Mice|Humans|Enterovirus|Lysosome-Associated Membrane Glycoproteins|Brain Chemistry|Dependovirus|Green Fluorescent Proteins|Membrane Glycoproteins|Cytokines|Mice, Inbred ICR|Enterovirus Infections|Inflammation|Cell Line|Transfection|Intestines|Brain
+489	Animals|Mice|Lymphocyte Activation|Inducible T-Cell Co-Stimulator Protein|Phosphatidylinositol 3-Kinases|Forkhead Transcription Factors|Mice, Inbred C57BL|Enzyme Activation|T-Lymphocytes, Helper-Inducer|Signal Transduction|Animals, Genetically Modified|Cell Differentiation|Lymphocyte Count
+490	Mice|Animals|B-Lymphocytes|TOR Serine-Threonine Kinases|Transforming Growth Factor beta|Immunoglobulin Class Switching|Species Specificity|T-Lymphocytes, Helper-Inducer|Germinal Center|Immunoglobulin Isotypes|Antibody Formation|Signal Transduction|Orthomyxoviridae|Orthomyxoviridae Infections|Cell Differentiation|Mucous Membrane
+491	
+492	Humans|Leukocyte Rolling|L-Selectin|Cell Adhesion|Shear Strength|Ligands|Monte Carlo Method|Leukocytes|Molecular Conformation
+493	Humans|Allosteric Site|Ligands|Computational Biology|SELP protein, human|P-Selectin|Computer Simulation|Kinetics|Crystallography, X-Ray|Lectins|Epidermal Growth Factor|Gene Deletion|Protein Conformation|Radiography
+494	Animals|Humans|Anaplasma phagocytophilum|Anaplasmosis|Granulocyte Precursor Cells|RNA Interference|RNA|HL-60 Cells|Zoonoses|Reverse Transcriptase Polymerase Chain Reaction|Nuclear Proteins|Bacterial Proteins|Virulence|Genetic Therapy|RNA, Messenger
+495	Animals|Humans|Cardiotonic Agents|Translational Medical Research|Myocardial Ischemia|Coronary Artery Disease|Heart Arrest|Electrophysiological Phenomena
+496	Humans|Leukocyte Rolling|L-Selectin|Cell Adhesion|Shear Strength|Ligands|Monte Carlo Method|Leukocytes|Molecular Conformation
+497	
+498	Humans|SELP protein, human|P-Selectin|Stromal Cells|Adipose Tissue|Ischemia|Cell Movement|Cell Transplantation
+499	Humans|L-Selectin|Tumor Necrosis Factor-alpha|Fucosyltransferases|Membrane Glycoproteins|Cell Adhesion|Immunoglobulin M|Recombinant Fusion Proteins|T-Lymphocytes|Ligands|Antigens, Differentiation, T-Lymphocyte|Lymphocytes|Leukocytes|Fluorescent Antibody Technique|Inflammation|Endothelium|Transfection|Cell Line|Oligosaccharides|Neoplasms
+500	Humans|L-Selectin|Tumor Necrosis Factor-alpha|Fucosyltransferases|Membrane Glycoproteins|Cell Adhesion|Immunoglobulin M|Recombinant Fusion Proteins|T-Lymphocytes|Ligands|Antigens, Differentiation, T-Lymphocyte|Lymphocytes|Leukocytes|Fluorescent Antibody Technique|Inflammation|Endothelium|Transfection|Cell Line|Oligosaccharides|Neoplasms
+501	
+502	
+503	
+504	
+505	
+506	Mice|Animals|Lymphocytic Choriomeningitis|Lymphocytic choriomeningitis virus|L-Selectin|Immunologic Memory|CD8-Positive T-Lymphocytes|Mice, Knockout|Lymph Nodes|Cell Movement
+507	Humans|Cricetinae|Mice|Animals|L-Selectin|SELE protein, human|E-Selectin|Mannosyl-Glycoprotein Endo-beta-N-Acetylglucosaminidase|Immunoglobulin G|Cricetulus|Recombinant Fusion Proteins|Neutrophils|Sialic Acids|CHO Cells|Bone Marrow Cells
+508	Humans|SELP protein, human|P-Selectin|Stromal Cells|Adipose Tissue|Ischemia|Cell Movement|Cell Transplantation
+509	
+510	
+511	Humans|SELP protein, human|P-Selectin|Blood Platelets|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Microscopy|Platelet Activation|Cell Movement|Rheology|Antibodies|Surface Properties
+512	Humans|SELP protein, human|P-Selectin|Blood Platelets|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Microscopy|Platelet Activation|Cell Movement|Rheology|Antibodies|Surface Properties
+513	Animals|Mice|Humans|Lymphocyte Activation|H-2 Antigens|T-Lymphocytes|Ligands|Kinetics|Imaging, Three-Dimensional|HLA Antigens|Animals, Genetically Modified|Lymphocyte Count|Immunosuppressive Agents
+514	
+515	Mice|Animals|Th2 Cells|Th1 Cells|CD8-Positive T-Lymphocytes|Cytokines|Venules|RNA|Mice, Inbred C57BL|Dendritic Cells|Lymphoid Tissue|Cell Movement|Inflammation|Gastrointestinal Tract
+516	
+517	Humans|Capsid|Enterovirus|Cyclophilin A|Capsid Proteins|Antiviral Agents|Enterovirus Infections|Virus Replication|Antigens, Viral
+518	Humans|Leukocyte Rolling|L-Selectin|Cell Adhesion|Shear Strength|Ligands|Monte Carlo Method|Leukocytes|Molecular Conformation
+519	
+520	Humans|L-Selectin|Up-Regulation|Equipment Failure Analysis|Hydrogen-Ion Concentration|Cell Count|Cell Separation|Hematopoietic Stem Cells|Transcriptional Activation|Equipment Design
+521	Mice|Animals|IL4 protein, human|Interleukin-4|IL5 protein, human|Interleukin-5|Interleukin-2|Interferon-gamma|Ovalbumin|Th1 Cells|Mannose|Enzyme-Linked Immunosorbent Assay|Immunoglobulin G|Recombinant Fusion Proteins|Mucins|T-Lymphocytes, Cytotoxic|Mice, Inbred C57BL|Vaccination|Immunization|Immunologic Factors
+522	Humans|L-Selectin|Polystyrenes|Cell Adhesion|Shear Strength|Neutrophils|Hybridomas|Microspheres|Viscosity|Antibodies|CD18 Antigens|Perfusion|Mathematics
+523	
+524	Mice|Animals|Inducible T-Cell Co-Stimulator Protein|T-Lymphocyte Subsets|Plasma Cells|Autoimmunity|Immunoglobulin G|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Immunoglobulin Class Switching|Mice, Knockout|Germinal Center|Interleukins|Antigens|Chemokines|Cell Differentiation
+525	Mice|Animals|Inducible T-Cell Co-Stimulator Protein|T-Lymphocyte Subsets|Plasma Cells|Autoimmunity|Immunoglobulin G|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Immunoglobulin Class Switching|Mice, Knockout|Germinal Center|Interleukins|Antigens|Chemokines|Cell Differentiation
+526	Humans|SELP protein, human|P-Selectin|Staphylococcus aureus|Blood Platelets|Monocytes|Membrane Glycoproteins|Bacterial Proteins|Staphylococcal Infections|Blood Proteins
+527	Humans|SELP protein, human|P-Selectin|Staphylococcus aureus|Blood Platelets|Monocytes|Membrane Glycoproteins|Bacterial Proteins|Staphylococcal Infections|Blood Proteins
+528	Humans|SELP protein, human|P-Selectin|Staphylococcus aureus|Blood Platelets|Monocytes|Membrane Glycoproteins|Bacterial Proteins|Staphylococcal Infections|Blood Proteins
+529	Humans|SELP protein, human|P-Selectin|Staphylococcus aureus|Blood Platelets|Monocytes|Membrane Glycoproteins|Bacterial Proteins|Staphylococcal Infections|Blood Proteins
+530	Humans|SELP protein, human|P-Selectin|Staphylococcus aureus|Blood Platelets|Monocytes|Membrane Glycoproteins|Bacterial Proteins|Staphylococcal Infections|Blood Proteins
+531	Humans|SELP protein, human|P-Selectin|Staphylococcus aureus|Blood Platelets|Monocytes|Membrane Glycoproteins|Bacterial Proteins|Staphylococcal Infections|Blood Proteins
+532	Humans|Thymus Gland|SELP protein, human|P-Selectin|T-Lymphocytes|Chemokines|Receptors, Chemokine|Lymphocyte Count|Diagnostic Tests, Routine
+533	
+534	Animals|Cercopithecus aethiops|Humans|Leukocyte Rolling|L-Selectin|Calmodulin|Membrane Proteins|Cytoskeletal Proteins|Protein Binding|Microfilament Proteins|COS Cells|U937 Cells|Recombinant Proteins|Signal Transduction|Multiprotein Complexes
+535	Humans|Flow Cytometry|Cell Fractionation|Neutrophils|Microfluidics|Cell Count|Cytodiagnosis|Blood Proteins
+536	Mice|Animals|L-Selectin|Leukocyte Rolling|Monocytes|Spleen|Chemotaxis|Membrane Glycoproteins|Mice, Inbred C57BL|Leukocytes|Inflammation|Lymph Nodes|Retinitis
+537	
+538	Humans|Integrin alpha4beta1|Cell Adhesion|Actins|U937 Cells|Cell Count|Leukocytes|Cytodiagnosis
+539	Humans|Integrin alpha4beta1|Cell Adhesion|Actins|U937 Cells|Cell Count|Leukocytes|Cytodiagnosis
+540	Mice|Animals|Lymphocyte Activation|CD4-Positive T-Lymphocytes|CHUK protein, human|I-kappa B Kinase|Sirtuin 1|Forkhead Transcription Factors|PPAR gamma|Cytokines|T-Lymphocytes, Helper-Inducer|Germinal Center|Lymphocyte Count
+541	Animals|Mice|Trichuris|Trichuriasis|N-Acetylglucosaminyltransferases|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Membrane Glycoproteins|Real-Time Polymerase Chain Reaction|Virulence|Mice, Knockout|Intestines|Polysaccharides
+542	Humans|Integrin alpha4beta1|L-Selectin|Cell Adhesion|Chemotaxis|Ligands|Mucins|Leukocytes|Binding Sites|Cell Line|Endothelium
+543	Humans|Integrin alpha4beta1|L-Selectin|Cell Adhesion|Chemotaxis|Ligands|Mucins|Leukocytes|Binding Sites|Cell Line|Endothelium
+544	
+545	
+546	Humans|Allosteric Site|Ligands|Computational Biology|SELP protein, human|P-Selectin|Computer Simulation|Kinetics|Crystallography, X-Ray|Lectins|Epidermal Growth Factor|Gene Deletion|Protein Conformation|Radiography
+547	Humans|L-Selectin|SELP protein, human|P-Selectin|Protein Binding|Ligands|Protein Conformation|Adhesins, Bacterial|Bacteria
+548	Animals|Humans|Lectins|Carbohydrate Sequence|Ligands|Selectins|Molecular Sequence Data|Lymphocytes|Cell Communication|Oligosaccharides
+549	Infant, Newborn|Child|Child, Preschool|Humans|Infant|HIV-1|Interleukin-3 Receptor alpha Subunit|Virus Internalization|Thymus Gland|CXCR4 protein, human|Receptors, CXCR4|Dendritic Cells|Lymphocyte Subsets|HIV Infections
+550	Animals|Cricetinae|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Cricetulus|polyacrylamide gels|K562 Cells|HL-60 Cells|Sodium Dodecyl Sulfate|Membrane Glycoproteins|Ligands|Acrylic Resins|CHO Cells|Electrophoresis|Hematopoietic Stem Cells
+551	Animals|Cercopithecus aethiops|Mice|Humans|Enterovirus|HSP90 Heat-Shock Proteins|Capsid Proteins|Vero Cells|Proteasome Endopeptidase Complex|Proteolysis|Benzoquinones|Virus Internalization|Virion|Molecular Targeted Therapy|Host-Pathogen Interactions|Protein Binding|Virulence|RNA|Lactams|Enterovirus Infections|Virus Replication|Cell Line|Animals, Genetically Modified|Neoplasms
+552	
+553	Humans|Allosteric Site|Ligands|Computational Biology|SELP protein, human|P-Selectin|Computer Simulation|Kinetics|Crystallography, X-Ray|Lectins|Epidermal Growth Factor|Gene Deletion|Protein Conformation|Radiography
+554	Mice|Humans|Animals|Lymphocyte Function-Associated Antigen-1|Integrin alpha4beta1|Transendothelial and Transepithelial Migration|Cell Adhesion|Jurkat Cells|Tumor Necrosis Factor-alpha|Mice, Inbred C57BL|Protein Binding|Microscopy|Fluorescence|Mice, Knockout|Cell Count|Endothelial Cells|Immunoblotting
+555	
+556	
+557	
+558	
+559	Computer Simulation|Computational Biology|Biomechanical Phenomena|Protein Binding|Microspheres|Reproducibility of Results|Motion|Selectins|Surface Properties|Nanotechnology
+560	Computer Simulation|Computational Biology|Biomechanical Phenomena|Protein Binding|Microspheres|Reproducibility of Results|Motion|Selectins|Surface Properties|Nanotechnology
+561	Computer Simulation|Computational Biology|Biomechanical Phenomena|Protein Binding|Microspheres|Reproducibility of Results|Motion|Selectins|Surface Properties|Nanotechnology
+562	Computer Simulation|Computational Biology|Biomechanical Phenomena|Protein Binding|Microspheres|Reproducibility of Results|Motion|Selectins|Surface Properties|Nanotechnology
+563	Humans|Vascular Cell Adhesion Molecule-1|Intercellular Adhesion Molecule-1|SELP protein, human|P-Selectin|Integrin alpha3|Integrin alpha5|Cell Adhesion|Blood Platelets|Human Umbilical Vein Endothelial Cells|RNA Interference|RNA|Membrane Glycoproteins|Coculture Techniques|Carcinoma, Non-Small-Cell Lung|Cell Adhesion Molecule-1|Lung Neoplasms|Platelet Activation|Cell Count|Cytodiagnosis|Carcinoma
+564	Male|Female|Swine|Humans|Animals|Zona Pellucida|Sperm-Ovum Interactions|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Acrosome|Microscopy|Ligands|Electrons|Oocytes|Cell Membrane|Calcium, Dietary|Recombinant Proteins|Immunoenzyme Techniques
+565	Male|Female|Swine|Humans|Animals|Zona Pellucida|Sperm-Ovum Interactions|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Acrosome|Microscopy|Ligands|Electrons|Oocytes|Cell Membrane|Calcium, Dietary|Recombinant Proteins|Immunoenzyme Techniques
+566	
+567	Humans|Chemokine CX3CL1|Monocytes|Protein Binding|Cell Movement|Lymphocyte Subsets|Phenotype|Immunoglobulin G
+568	Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Leukocyte Rolling|Intercellular Adhesion Molecule-1|Lymphocyte Function-Associated Antigen-1|Cell Adhesion|Venules|Neutrophils|Membrane Glycoproteins|Th1 Cells|Shear Strength|Adhesiveness|Mice, Inbred C57BL|Cell Adhesion Molecules|Inflammation|Microvessels
+569	Humans|Enterovirus|Phylogeny|Viral Structural Proteins|Amino Acid Substitution|Virulence|Enterovirus Infections|Genotype|Genetic Variation|Nervous System Diseases|Nervous System
+570	
+571	
+572	Humans|Vascular Cell Adhesion Molecule-1|Intercellular Adhesion Molecule-1|SELP protein, human|P-Selectin|Integrin alpha3|Integrin alpha5|Cell Adhesion|Blood Platelets|Human Umbilical Vein Endothelial Cells|RNA Interference|RNA|Membrane Glycoproteins|Coculture Techniques|Carcinoma, Non-Small-Cell Lung|Cell Adhesion Molecule-1|Lung Neoplasms|Platelet Activation|Cell Count|Cytodiagnosis|Carcinoma
+573	
+574	Female|Animals|Mice|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Fireflies|Tumor Necrosis Factor-alpha|Membrane Glycoproteins|Adenoviridae|Acrylamides|Hep G2 Cells|Viral Load|Bacterial Proteins|Selectins|Endothelium|Mice, Nude|Antibodies|Luciferases|Endothelial Cells|Gene Transfer Techniques|Xenograft Model Antitumor Assays|Cell Line|Umbilical Cord
+575	Female|Animals|Mice|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Fireflies|Tumor Necrosis Factor-alpha|Membrane Glycoproteins|Adenoviridae|Acrylamides|Hep G2 Cells|Viral Load|Bacterial Proteins|Selectins|Endothelium|Mice, Nude|Antibodies|Luciferases|Endothelial Cells|Gene Transfer Techniques|Xenograft Model Antitumor Assays|Cell Line|Umbilical Cord
+576	Female|Animals|Mice|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Fireflies|Tumor Necrosis Factor-alpha|Membrane Glycoproteins|Adenoviridae|Acrylamides|Hep G2 Cells|Viral Load|Bacterial Proteins|Selectins|Endothelium|Mice, Nude|Antibodies|Luciferases|Endothelial Cells|Gene Transfer Techniques|Xenograft Model Antitumor Assays|Cell Line|Umbilical Cord
+577	
+578	
+579	Mice|Male|Female|Animals|SELP protein, human|P-Selectin|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Immunohistochemistry|RNA|Inflammation|Shock|Hemodynamics|Hemorrhage|Endothelium
+580	Mice|Male|Female|Animals|SELP protein, human|P-Selectin|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Immunohistochemistry|RNA|Inflammation|Shock|Hemodynamics|Hemorrhage|Endothelium
+581	Mice|Male|Female|Animals|SELP protein, human|P-Selectin|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Immunohistochemistry|RNA|Inflammation|Shock|Hemodynamics|Hemorrhage|Endothelium
+582	Mice|Male|Female|Animals|SELP protein, human|P-Selectin|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Immunohistochemistry|RNA|Inflammation|Shock|Hemodynamics|Hemorrhage|Endothelium
+583	Mice|Male|Female|Animals|SELP protein, human|P-Selectin|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Immunohistochemistry|RNA|Inflammation|Shock|Hemodynamics|Hemorrhage|Endothelium
+584	
+585	
+586	Humans|Leukocyte Rolling|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Dimethyl Sulfoxide|Cell Adhesion|Recombinant Fusion Proteins|HL-60 Cells|Membrane Glycoproteins|Immobilized Proteins|Cell Shape|Cytoplasm|Cell Nucleus
+587	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|Platelet Activating Factor|Flow Cytometry|Blood Platelets|Membrane Glycoproteins|Endotoxins|Ion Transport|Pneumonia|Signal Transduction
+588	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|Platelet Activating Factor|Flow Cytometry|Blood Platelets|Membrane Glycoproteins|Endotoxins|Ion Transport|Pneumonia|Signal Transduction
+589	
+590	
+591	
+592	
+593	
+594	Humans|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Vascular Cell Adhesion Molecule-1|NK Cell Lectin-Like Receptor Subfamily D|KRT14 protein, human|Keratin-14|Eosinophils|Mast Cells|Membrane Glycoproteins|Cell Adhesion Molecule-1|T-Lymphocytes|Mice, Knockout|Cell Movement|Leukocyte Count|Dermatitis|Inflammation|Severity of Illness Index
+595	Humans|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Vascular Cell Adhesion Molecule-1|NK Cell Lectin-Like Receptor Subfamily D|KRT14 protein, human|Keratin-14|Eosinophils|Mast Cells|Membrane Glycoproteins|Cell Adhesion Molecule-1|T-Lymphocytes|Mice, Knockout|Cell Movement|Leukocyte Count|Dermatitis|Inflammation|Severity of Illness Index
+596	Cercopithecus aethiops|Mice|Humans|Animals|Immunoglobulin Fab Fragments|Enterovirus|Base Sequence|Immunoglobulin G|Vero Cells|Sequence Alignment|Cryoelectron Microscopy|Virion|Molecular Sequence Data|Enterovirus Infections|Molecular Conformation|Sequence Analysis|DNA|Mutation
+597	
+598	
+599	
+600	Animals|Thymus Gland|T-Lymphocytes|Mesenchymal Stromal Cells|Intracellular Signaling Peptides and Proteins|Membrane Proteins|Bone Marrow Cells|Lymphocyte Count
+601	
+602	Humans|Leukocyte Rolling|SELP protein, human|P-Selectin|Chemokine CXCL1|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Neutrophils|Lymphocyte Activation|Computer Simulation|Cell Adhesion Molecule-1|Receptors, Leukocyte-Adhesion|Intercellular Adhesion Molecule-1|Leukocytes
+603	Mice|Animals|B-Lymphocytes|TOR Serine-Threonine Kinases|Transforming Growth Factor beta|Immunoglobulin Class Switching|Species Specificity|T-Lymphocytes, Helper-Inducer|Germinal Center|Immunoglobulin Isotypes|Antibody Formation|Signal Transduction|Orthomyxoviridae|Orthomyxoviridae Infections|Cell Differentiation|Mucous Membrane
+604	
+605	
+606	
+607	Humans|Platelet Glycoprotein GPIb-IX Complex|Blood Platelets|Staphylococcus aureus|Superantigens|Carbohydrate Sequence|Membrane Glycoproteins|Epitopes|Sulfates|Tyrosine|HL-60 Cells|Substrate Specificity|Dose-Response Relationship, Drug|Platelet Activation|Molecular Sequence Data|Staphylococcal Infections|Polysaccharides
+608	
+609	
+610	Mice|Animals|L-Selectin|SELE protein, human|E-Selectin|Macrophage-1 Antigen|Neutrophils|Blood Platelets|Tumor Necrosis Factor-alpha|Microscopy|Fluorescence|Leukocytes|Erythrocytes|Inflammation|Membrane Microdomains
+611	
+612	Humans|Animals|Cattle|Heparan Sulfate Proteoglycans|L-Selectin|Cell Adhesion|Monocytes|Kinetics|Cytokines|Ligands|Heparitin Sulfate|Cell Count|Aorta|Endothelium
+613	Carbohydrate Sequence|Glycomics|Glycosylation|Glycosyltransferases|Glycoside Hydrolases|Substrate Specificity|Molecular Sequence Data|Polysaccharides|Metabolic Networks and Pathways|Mass Spectrometry|Software
+614	Humans|SELP protein, human|P-Selectin|Stromal Cells|Adipose Tissue|Ischemia|Cell Movement|Cell Transplantation
+615	Humans|Mice|Animals|Cross-Priming|Langerhans Cells|Integrin alpha Chains|Chemokine CXCL10|Immunophenotyping|Tumor Necrosis Factor-alpha|Transcriptome|Dendritic Cells|Skin|Lymph Nodes|Cell Movement
+616	Cercopithecus aethiops|Animals|Mice|Humans|Clathrin|Capsid Proteins|Lysosome-Associated Membrane Glycoproteins|Enterovirus|Vero Cells|Virus Internalization|RNA Interference|Protein Binding|Hydrogen-Ion Concentration|NIH 3T3 Cells|Mice, Inbred BALB C|Dynamins|Endosomes|Enterovirus Infections|Endocytosis|Cell Membrane|Cholesterol|Transfection|Immunoprecipitation|Neoplasms
+617	
+618	Humans|L-Selectin|SELE protein, human|E-Selectin|CA-125 Antigen|Protein Binding|Sialoglycoproteins|Cell Adhesion|Kinetics|Membrane Proteins|Microspheres|Protein Interaction Mapping|Pancreatic Neoplasms|Microfluidic Analytical Techniques|Cell Line
+619	Humans|L-Selectin|Tumor Necrosis Factor-alpha|Fucosyltransferases|Membrane Glycoproteins|Cell Adhesion|Immunoglobulin M|Recombinant Fusion Proteins|T-Lymphocytes|Ligands|Antigens, Differentiation, T-Lymphocyte|Lymphocytes|Leukocytes|Fluorescent Antibody Technique|Inflammation|Endothelium|Transfection|Cell Line|Oligosaccharides|Neoplasms
+620	Humans|L-Selectin|Tumor Necrosis Factor-alpha|Fucosyltransferases|Membrane Glycoproteins|Cell Adhesion|Immunoglobulin M|Recombinant Fusion Proteins|T-Lymphocytes|Ligands|Antigens, Differentiation, T-Lymphocyte|Lymphocytes|Leukocytes|Fluorescent Antibody Technique|Inflammation|Endothelium|Transfection|Cell Line|Oligosaccharides|Neoplasms
+621	Humans|L-Selectin|Tumor Necrosis Factor-alpha|Fucosyltransferases|Membrane Glycoproteins|Cell Adhesion|Immunoglobulin M|Recombinant Fusion Proteins|T-Lymphocytes|Ligands|Antigens, Differentiation, T-Lymphocyte|Lymphocytes|Leukocytes|Fluorescent Antibody Technique|Inflammation|Endothelium|Transfection|Cell Line|Oligosaccharides|Neoplasms
+622	Humans|L-Selectin|Tumor Necrosis Factor-alpha|Fucosyltransferases|Membrane Glycoproteins|Cell Adhesion|Immunoglobulin M|Recombinant Fusion Proteins|T-Lymphocytes|Ligands|Antigens, Differentiation, T-Lymphocyte|Lymphocytes|Leukocytes|Fluorescent Antibody Technique|Inflammation|Endothelium|Transfection|Cell Line|Oligosaccharides|Neoplasms
+623	Female|Mice|Animals|Humans|Enterovirus|Viral Vaccines|Viral Structural Proteins|Mice, Inbred BALB C|Hand, Foot and Mouth Disease|Epitopes, B-Lymphocyte|Enterovirus Infections|Foot-and-Mouth Disease|Antibodies|Survival Analysis|Treatment Outcome
+624	Humans|cdc42 GTP-Binding Protein|rac GTP-Binding Proteins|Proto-Oncogene Proteins c-bcr|rho GTP-Binding Proteins|Fusion Proteins, bcr-abl|Leukemia, Myelogenous, Chronic, BCR-ABL Positive|Cytoskeleton|Cell Movement|Microtubules
+625	Humans|Actins|Microfilament Proteins|Cytoskeletal Proteins|Membrane Proteins|Membrane Glycoproteins|T-Lymphocytes|Cytoskeleton|Microtubules|Chemokines|Cell Count
+626	Humans|Actins|Microfilament Proteins|Cytoskeletal Proteins|Membrane Proteins|Membrane Glycoproteins|T-Lymphocytes|Cytoskeleton|Microtubules|Chemokines|Cell Count
+627	Animals|Mice|Leukocyte Rolling|Talin|Neutrophils|DNA Primers|Animals, Genetically Modified|Reperfusion Injury|Cell Movement|Kidney Diseases|Immunoprecipitation|Mutation
+628	Animals|Mice|Leukocyte Rolling|Talin|Neutrophils|DNA Primers|Animals, Genetically Modified|Reperfusion Injury|Cell Movement|Kidney Diseases|Immunoprecipitation|Mutation
+629	Animals|Mice|Leukocyte Rolling|Talin|Neutrophils|DNA Primers|Animals, Genetically Modified|Reperfusion Injury|Cell Movement|Kidney Diseases|Immunoprecipitation|Mutation
+630	Cricetinae|Animals|Humans|Coated Pits, Cell-Membrane|rhoA GTP-Binding Protein|rho-Associated Kinases|Clathrin|Leukocyte Rolling|SELP protein, human|P-Selectin|Thrombin|Histamine|Cricetulus|Regional Blood Flow|Endocytosis|Signal Transduction|CHO Cells|Cell Membrane|Exocytosis|Endothelial Cells
+631	
+632	
+633	Humans|Platelet Membrane Glycoproteins|Membrane Glycoproteins|Lectins, C-Type|Platelet Activation|Hemostasis
+634	Cercopithecus aethiops|Animals|Mice|Humans|Clathrin|Capsid Proteins|Lysosome-Associated Membrane Glycoproteins|Enterovirus|Vero Cells|Virus Internalization|RNA Interference|Protein Binding|Hydrogen-Ion Concentration|NIH 3T3 Cells|Mice, Inbred BALB C|Dynamins|Endosomes|Enterovirus Infections|Endocytosis|Cell Membrane|Cholesterol|Transfection|Immunoprecipitation|Neoplasms
+635	Humans|Monocytes|Oligonucleotide Array Sequence Analysis|RNA|Macrophages|Dendritic Cells|Cell Differentiation|Blood Cell Count|Immunoglobulin G
+636	Humans|Monocytes|Oligonucleotide Array Sequence Analysis|RNA|Macrophages|Dendritic Cells|Cell Differentiation|Blood Cell Count|Immunoglobulin G
+637	Humans|Chemokine CX3CL1|Monocytes|Protein Binding|Cell Movement|Lymphocyte Subsets|Phenotype|Immunoglobulin G
+638	
+639	Animals|Humans|Monocytes|Risk Factors|Mast Cells|Atherosclerosis|Plaque, Atherosclerotic|Thrombosis|Cardiovascular Diseases|Dyslipidemias|Inflammation|Lymphocytes|Endothelium
+640	Humans|Acetylglucosamine|Amino Sugars|beta-Galactosidase|Acetylation|Gas Chromatography-Mass Spectrometry|Lectins|Ligands|Sugars|Oligosaccharides|Polysaccharides|Leukocytes|Hydrolases|Inflammation
+641	Humans|Acetylglucosamine|Amino Sugars|beta-Galactosidase|Acetylation|Gas Chromatography-Mass Spectrometry|Lectins|Ligands|Sugars|Oligosaccharides|Polysaccharides|Leukocytes|Hydrolases|Inflammation
+642	Humans|Allosteric Site|Ligands|Computational Biology|SELP protein, human|P-Selectin|Computer Simulation|Kinetics|Crystallography, X-Ray|Lectins|Epidermal Growth Factor|Gene Deletion|Protein Conformation|Radiography
+643	
+644	Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Lymphocyte Activation|Fucosyltransferases|Th1 Cells|Langerhans Cells|Flow Cytometry|Mice, Inbred C57BL|Cell Polarity|Ligands|T-Lymphocytes, Cytotoxic|Mice, Knockout|Selectins|Lymph Nodes|Cell Differentiation|Inflammation
+645	Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Lymphocyte Activation|Fucosyltransferases|Th1 Cells|Langerhans Cells|Flow Cytometry|Mice, Inbred C57BL|Cell Polarity|Ligands|T-Lymphocytes, Cytotoxic|Mice, Knockout|Selectins|Lymph Nodes|Cell Differentiation|Inflammation
+646	Mice|Male|Animals|Glutamine|Mice, Inbred C57BL|Heparin|Fluorescence|Microscopy|Acute Disease|T-Lymphocytes|Colitis|Colon|Intestinal Mucosa|Cell Adhesion Molecules|Body Weight|Chemokines|Dietary Supplements|Cell Movement
+647	Mice|Male|Animals|Glutamine|Mice, Inbred C57BL|Heparin|Fluorescence|Microscopy|Acute Disease|T-Lymphocytes|Colitis|Colon|Intestinal Mucosa|Cell Adhesion Molecules|Body Weight|Chemokines|Dietary Supplements|Cell Movement
+648	Mice|Male|Animals|Glutamine|Mice, Inbred C57BL|Heparin|Fluorescence|Microscopy|Acute Disease|T-Lymphocytes|Colitis|Colon|Intestinal Mucosa|Cell Adhesion Molecules|Body Weight|Chemokines|Dietary Supplements|Cell Movement
+649	Mice|Animals|L-Selectin|Chemotaxis|Integrin beta Chains|Cell Adhesion|Flow Cytometry|Interferons|Mice, Knockout|CXCR3 protein, human|Receptors, CXCR3|Chemokines|Cell Movement|Lymph Nodes|Lymphatic Vessels|Inflammation|Dendritic Cells
+650	Humans|HIV-1|Gene Products, gag|Immunological Synapses|Myosin-Light-Chain Kinase|Nucleocapsid|Luminescent Proteins|Recombinant Fusion Proteins|Cell Polarity|Bacterial Proteins|Tissue Distribution|Protein Kinase Inhibitors|T-Lymphocytes|HIV Infections|Membrane Microdomains|Cell Surface Extensions|Cell Membrane|Fluorescent Antibody Technique
+651	Humans|Allosteric Site|Ligands|Computational Biology|SELP protein, human|P-Selectin|Computer Simulation|Kinetics|Crystallography, X-Ray|Lectins|Epidermal Growth Factor|Gene Deletion|Protein Conformation|Radiography
+652	
+653	
+654	
+655	
+656	
+657	
+658	
+659	Child|Adult|Adolescent|Male|Female|Humans|Chemokine CXCL12|Thymus Gland|T-Lymphocytes|Neprilysin|Down-Regulation|Transplantation, Homologous|CXCR4 protein, human|Receptors, CXCR4|Hematopoietic Stem Cell Transplantation|Bone Marrow Cells|Host vs Graft Reaction
+660	Humans|Antigen Presentation|T-Lymphocytes|Amino Sugars|Membrane Glycoproteins|Sugars|Immunotherapy|Dendritic Cells|Vaccines
+661	Humans|Antigen Presentation|T-Lymphocytes|Amino Sugars|Membrane Glycoproteins|Sugars|Immunotherapy|Dendritic Cells|Vaccines
+662	Humans|Antigen Presentation|T-Lymphocytes|Amino Sugars|Membrane Glycoproteins|Sugars|Immunotherapy|Dendritic Cells|Vaccines
+663	Humans|Antigen Presentation|T-Lymphocytes|Amino Sugars|Membrane Glycoproteins|Sugars|Immunotherapy|Dendritic Cells|Vaccines
+664	Humans|Antigen Presentation|T-Lymphocytes|Amino Sugars|Membrane Glycoproteins|Sugars|Immunotherapy|Dendritic Cells|Vaccines
+665	Humans|Antigen Presentation|T-Lymphocytes|Amino Sugars|Membrane Glycoproteins|Sugars|Immunotherapy|Dendritic Cells|Vaccines
+666	Humans|Antigen Presentation|T-Lymphocytes|Amino Sugars|Membrane Glycoproteins|Sugars|Immunotherapy|Dendritic Cells|Vaccines
+667	Humans|Antigen Presentation|T-Lymphocytes|Amino Sugars|Membrane Glycoproteins|Sugars|Immunotherapy|Dendritic Cells|Vaccines
+668	Humans|Antigen Presentation|T-Lymphocytes|Amino Sugars|Membrane Glycoproteins|Sugars|Immunotherapy|Dendritic Cells|Vaccines
+669	
+670	Mice|Animals|NT5E protein, human|5'-Nucleotidase|Plasma Cells|Bone Marrow|Spleen|Mice, Inbred C57BL|Kinetics|Immunization|Germinal Center|Vaccination|GPI-Linked Proteins|Cell Size
+671	Humans|Mice|Animals|Platelet Glycoprotein GPIb-IX Complex|Macrophage-1 Antigen|Lymphocyte Function-Associated Antigen-1|Blood Platelets|Cell Adhesion|Neutrophils|Mice, Inbred C57BL|Platelet Adhesiveness|Binding Sites|Cell Line
+672	Mice|Humans|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Oxazolone|Cell Adhesion|Immunologic Surveillance|Membrane Glycoproteins|Immunomagnetic Separation|Hemorheology|Mice, Knockout|Cell Movement|Cell Count|Blood Cells|Dendritic Cells|Endothelium|Bone Marrow Cells
+673	Mice|Humans|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Oxazolone|Cell Adhesion|Immunologic Surveillance|Membrane Glycoproteins|Immunomagnetic Separation|Hemorheology|Mice, Knockout|Cell Movement|Cell Count|Blood Cells|Dendritic Cells|Endothelium|Bone Marrow Cells
+674	Mice|Humans|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Oxazolone|Cell Adhesion|Immunologic Surveillance|Membrane Glycoproteins|Immunomagnetic Separation|Hemorheology|Mice, Knockout|Cell Movement|Cell Count|Blood Cells|Dendritic Cells|Endothelium|Bone Marrow Cells
+675	Animals|Mice|Thymus Gland|T-Lymphocytes|Osteocalcin|Mesenchymal Stromal Cells|Intracellular Signaling Peptides and Proteins|Membrane Proteins|Receptors, Antigen, T-Cell, alpha-beta|Bone Marrow Cells|Animals, Genetically Modified|Lymphocyte Count
+676	Animals|Mice|Thymus Gland|T-Lymphocytes|Osteocalcin|Mesenchymal Stromal Cells|Intracellular Signaling Peptides and Proteins|Membrane Proteins|Receptors, Antigen, T-Cell, alpha-beta|Bone Marrow Cells|Animals, Genetically Modified|Lymphocyte Count
+677	Humans|Female|Mice|Animals|Th1 Cells|Th17 Cells|Cross-Priming|CD8-Positive T-Lymphocytes|CD4-Positive T-Lymphocytes|Class Ib Phosphatidylinositol 3-Kinase|Thiazolidinediones|Cytokines|Cell Survival|Protein Kinase Inhibitors|Quinoxalines|Encephalomyelitis, Autoimmune, Experimental|Gene Deletion|Mice, Inbred C57BL|Dendritic Cells|Cell Movement|Signal Transduction|Central Nervous System|Apoptosis
+678	Humans|Umbilical Veins|Coculture Techniques|Cell Survival|Stem Cells|Endothelial Cells|Cell Differentiation|Wound Healing|Inflammation
+679	Cricetinae|Animals|Humans|Platelet Glycoprotein GPIb-IX Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Cricetulus|Blood Platelets|Membrane Glycoproteins|Ligands|CHO Cells|Endothelium
+680	Cricetinae|Animals|Humans|Platelet Glycoprotein GPIb-IX Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Cricetulus|Blood Platelets|Membrane Glycoproteins|Ligands|CHO Cells|Endothelium
+681	
+682	
+683	
+684	Animals|Mice|Male|Female|Escherichia coli|Neutrophils|Tumor Necrosis Factor-alpha|Venules|Omentum|Genes, Transgenic, Suicide|Mice, Knockout|Escherichia coli Infections|Sepsis|Peritonitis|Cell Adhesion Molecules
+685	
+686	Animals|Humans|Inflammatory Bowel Diseases|Intestines|Leukocytes|Biological Phenomena
+687	
+688	
+689	
+690	
+691	
+692	
+693	
+694	Humans|SELP protein, human|P-Selectin|Membrane Glycoproteins|Mucins|Carrier Proteins|Ligands|Microspheres|K562 Cells|Glycoproteins|Cell Movement|Peptides
+695	Humans|SELE protein, human|E-Selectin|Cell Adhesion|Human Umbilical Vein Endothelial Cells|Coculture Techniques|Antineoplastic Agents|Cell Communication|Signal Transduction|Cell Line|Drug Resistance|Leukemia, Myeloid, Acute
+696	
+697	
+698	Female|Mice|Animals|Humans|Papillomavirus Vaccines|TLR3 protein, human|Toll-Like Receptor 3|Poly I-C|Papillomavirus E7 Proteins|Papillomaviridae|Papillomavirus Infections|DEAD-box RNA Helicases|Cervix Uteri|CD8-Positive T-Lymphocytes|Interferon-gamma|Oligodeoxyribonucleotides|Fibroblast Growth Factors|Sialoglycoproteins|Toll-Like Receptors|Vaccination|Immunization|CXCR3 protein, human|Receptors, CXCR3|Signal Transduction|Neoplasms
+699	
+700	
+701	Mice|Animals|IL4 protein, human|Interleukin-4|IL10 protein, human|Interleukin-10|L-Selectin|Immunoglobulin E|Mice, Inbred BALB C|Membrane Glycoproteins|Sulfotransferases|T-Lymphocytes, Regulatory|Mice, Knockout|Lymphocytes|Nasal Mucosa|Hypersensitivity|Antigens|Lymph Nodes
+702	Mice|Animals|IL4 protein, human|Interleukin-4|IL10 protein, human|Interleukin-10|L-Selectin|Immunoglobulin E|Mice, Inbred BALB C|Membrane Glycoproteins|Sulfotransferases|T-Lymphocytes, Regulatory|Mice, Knockout|Lymphocytes|Nasal Mucosa|Hypersensitivity|Antigens|Lymph Nodes
+703	Mice|Animals|IL4 protein, human|Interleukin-4|IL10 protein, human|Interleukin-10|L-Selectin|Immunoglobulin E|Mice, Inbred BALB C|Membrane Glycoproteins|Sulfotransferases|T-Lymphocytes, Regulatory|Mice, Knockout|Lymphocytes|Nasal Mucosa|Hypersensitivity|Antigens|Lymph Nodes
+704	
+705	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|SELP protein, human|P-Selectin|Chemokine CXCL2|Platelet Count|Lipoxins|Platelet Activating Factor|Lipopolysaccharides|Escherichia coli|Thrombocytopenia|Bronchoalveolar Lavage|Pneumonia|Mutation
+706	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|SELP protein, human|P-Selectin|Chemokine CXCL2|Platelet Count|Lipoxins|Platelet Activating Factor|Lipopolysaccharides|Escherichia coli|Thrombocytopenia|Bronchoalveolar Lavage|Pneumonia|Mutation
+707	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|SELP protein, human|P-Selectin|Chemokine CXCL2|Platelet Count|Lipoxins|Platelet Activating Factor|Lipopolysaccharides|Escherichia coli|Thrombocytopenia|Bronchoalveolar Lavage|Pneumonia|Mutation
+708	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|SELP protein, human|P-Selectin|Chemokine CXCL2|Platelet Count|Lipoxins|Platelet Activating Factor|Lipopolysaccharides|Escherichia coli|Thrombocytopenia|Bronchoalveolar Lavage|Pneumonia|Mutation
+709	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|SELP protein, human|P-Selectin|Chemokine CXCL2|Platelet Count|Lipoxins|Platelet Activating Factor|Lipopolysaccharides|Escherichia coli|Thrombocytopenia|Bronchoalveolar Lavage|Pneumonia|Mutation
+710	Animals|Mice|CFTR protein, human|Cystic Fibrosis Transmembrane Conductance Regulator|SELP protein, human|P-Selectin|Chemokine CXCL2|Platelet Count|Lipoxins|Platelet Activating Factor|Lipopolysaccharides|Escherichia coli|Thrombocytopenia|Bronchoalveolar Lavage|Pneumonia|Mutation
+711	Animals|Humans|DNA Viruses|Influenza A virus
+712	
+713	Adult|Male|Female|Humans|Platelet Adhesiveness|Dinoprostone|Cyclooxygenase 2|Blood Platelets|Cell Aggregation|Monocytes|Influenza, Human|Culture Media|Platelet Activation|Immunization|Vaccination|Cell Movement|Cell Communication|Endothelial Cells|Inflammation|Phenotype|Immunoglobulin G
+714	Adult|Male|Female|Humans|Platelet Adhesiveness|Dinoprostone|Cyclooxygenase 2|Blood Platelets|Cell Aggregation|Monocytes|Influenza, Human|Culture Media|Platelet Activation|Immunization|Vaccination|Cell Movement|Cell Communication|Endothelial Cells|Inflammation|Phenotype|Immunoglobulin G
+715	
+716	Animals|Humans|Hemorheology|Microfluidics|Blood Platelets
+717	
+718	Male|Female|Humans|Genome-Wide Association Study|Quantitative Trait Loci|Monocytes|Genetic Predisposition to Disease|Neutrophils|Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis|T-Lymphocytes|Phenotype|Lymphocyte Count|Inflammatory Bowel Diseases
+719	Animals|Mice|Humans|Enterovirus|Lysosome-Associated Membrane Glycoproteins|Brain Chemistry|Dependovirus|Green Fluorescent Proteins|Membrane Glycoproteins|Cytokines|Mice, Inbred ICR|Enterovirus Infections|Inflammation|Cell Line|Transfection|Intestines|Brain
+720	
+721	
+722	Animals|Mice|Humans|Amyloid Precursor Protein Secretases|Aspartic Acid Endopeptidases|Amyloid beta-Protein Precursor|ADAM Proteins|Membrane Proteins|Amino Acid Sequence|Nerve Tissue Proteins|Protein Binding|Valine|Arginine|Gene Knockdown Techniques|HEK293 Cells|Amyloid beta-Peptides|Binding Sites|Molecular Sequence Data|Neurons|Neoplasms
+723	
+724	
+725	
+726	
+727	
+728	
+729	Mice|Animals|Humans|3' Untranslated Regions|SELP protein, human|P-Selectin|RNA Interference|VEGFA protein, human|Vascular Endothelial Growth Factor A|MicroRNAs|Th2 Cells|Thrombopoietin|Pneumonia|Endothelium|Lung|Allergens
+730	Animals|Mice|Leukocyte Rolling|SELP protein, human|P-Selectin|Green Fluorescent Proteins|Muramidase|Neutrophils|Protein Footprinting|Membrane Glycoproteins|Fluorescence|Microscopy|Animals, Genetically Modified|L-Selectin|Microfluidic Analytical Techniques
+731	
+732	Humans|Neuraminidase|Sialic Acids|Enterovirus|Virus Attachment|Lysosome-Associated Membrane Glycoproteins|Glycosylation|Antiviral Agents|Lectins|Enterovirus Infections|Cell Line|DNA Viruses|Neoplasms
+733	Humans|Neuraminidase|Sialic Acids|Enterovirus|Virus Attachment|Lysosome-Associated Membrane Glycoproteins|Glycosylation|Antiviral Agents|Lectins|Enterovirus Infections|Cell Line|DNA Viruses|Neoplasms
+734	Humans|Neuraminidase|Sialic Acids|Enterovirus|Virus Attachment|Lysosome-Associated Membrane Glycoproteins|Glycosylation|Antiviral Agents|Lectins|Enterovirus Infections|Cell Line|DNA Viruses|Neoplasms
+735	Humans|Neuraminidase|Sialic Acids|Enterovirus|Virus Attachment|Lysosome-Associated Membrane Glycoproteins|Glycosylation|Antiviral Agents|Lectins|Enterovirus Infections|Cell Line|DNA Viruses|Neoplasms
+736	Humans|Neuraminidase|Sialic Acids|Enterovirus|Virus Attachment|Lysosome-Associated Membrane Glycoproteins|Glycosylation|Antiviral Agents|Lectins|Enterovirus Infections|Cell Line|DNA Viruses|Neoplasms
+737	Humans|Neuraminidase|Sialic Acids|Enterovirus|Virus Attachment|Lysosome-Associated Membrane Glycoproteins|Glycosylation|Antiviral Agents|Lectins|Enterovirus Infections|Cell Line|DNA Viruses|Neoplasms
+738	Humans|Neuraminidase|Sialic Acids|Enterovirus|Virus Attachment|Lysosome-Associated Membrane Glycoproteins|Glycosylation|Antiviral Agents|Lectins|Enterovirus Infections|Cell Line|DNA Viruses|Neoplasms
+739	Humans|Neuraminidase|Sialic Acids|Enterovirus|Virus Attachment|Lysosome-Associated Membrane Glycoproteins|Glycosylation|Antiviral Agents|Lectins|Enterovirus Infections|Cell Line|DNA Viruses|Neoplasms
+740	Humans|Neuraminidase|Sialic Acids|Enterovirus|Virus Attachment|Lysosome-Associated Membrane Glycoproteins|Glycosylation|Antiviral Agents|Lectins|Enterovirus Infections|Cell Line|DNA Viruses|Neoplasms
+741	Mice|Animals|IL10 protein, human|Interleukin-10|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Cytidine Deaminase|RNA|Real-Time Polymerase Chain Reaction|RNA, Messenger
+742	Humans|Female|Mice|Animals|Integrin alpha4beta1|Mice, Inbred BALB C|Mice, SCID|Cell Adhesion Molecules|Xenograft Model Antitumor Assays|Cell Movement|Fluorescent Antibody Technique|Immunoenzyme Techniques|Brain Neoplasms|Breast Neoplasms|Endothelium|Apoptosis
+743	Humans|Cricetinae|Mice|Animals|L-Selectin|SELE protein, human|E-Selectin|Mannosyl-Glycoprotein Endo-beta-N-Acetylglucosaminidase|Immunoglobulin G|Cricetulus|Recombinant Fusion Proteins|Neutrophils|Sialic Acids|CHO Cells|Bone Marrow Cells
+744	Humans|Platelet Glycoprotein GPIb-IX Complex|Blood Platelets|Staphylococcus aureus|Superantigens|Carbohydrate Sequence|Membrane Glycoproteins|Epitopes|Sulfates|Tyrosine|HL-60 Cells|Substrate Specificity|Dose-Response Relationship, Drug|Platelet Activation|Molecular Sequence Data|Staphylococcal Infections|Polysaccharides
+745	Child|Humans|SELP protein, human|P-Selectin|Platelet Aggregation|Blood Platelets|Phycoerythrin|Fluorescein-5-isothiocyanate|Monocytes|Fluorescence|Platelet Function Tests|Platelet Activation|Exocytosis
+746	Mice|Male|Animals|L-Selectin|Cell Adhesion|Venules|Mice, Inbred C57BL|Microscopy|Mice, Knockout|Leukocytes|Cell Movement|Arteriosclerosis|Arteries|Inflammation
+747	
+748	
+749	
+750	
+751	
+752	Mice|Animals|Proprotein Convertases|Thymus Gland|T-Lymphocytes|SELP protein, human|P-Selectin|Interleukin-7|Serine Endopeptidases|Membrane Glycoproteins|RNA|Receptors, Interleukin-7|Mice, Knockout|Lymphocytes|Lymphocyte Count|Bone Marrow Cells|Homeostasis
+753	Humans|Mice|Male|Female|Animals|SELP protein, human|P-Selectin|Lipopolysaccharides|Blood Platelets|Neutrophils|Thioglycolates|Flow Cytometry|Tumor Necrosis Factor-alpha|Microscopy|Solubility|HL-60 Cells|Mice, Inbred C57BL|Cytoplasmic Granules|Hepatitis|Hepatitis A|Cytoplasm|Liver|Endothelium|Peritonitis|Mutagenesis
+754	Animals|Mice|Humans|Gold|Photoacoustic Techniques|Glycerol|Polymers|Metal Nanoparticles|Neoplasms|Cell Line|Arthritis
+755	Humans|Vascular Cell Adhesion Molecule-1|Intercellular Adhesion Molecule-1|Transendothelial and Transepithelial Migration|rho GTP-Binding Proteins|Cell Adhesion|Cell Adhesion Molecule-1|Cell Movement|Endothelial Cells|Leukocytes|Signal Transduction
+756	Animals|Mice|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Leukemia, Myelogenous, Chronic, BCR-ABL Positive|Mice, SCID|Mice, Knockout|Fusion Proteins, bcr-abl|Hypereosinophilic Syndrome|Cell Line
+757	
+758	Animals|Mice|Antigen Presentation|Ovalbumin|CD8-Positive T-Lymphocytes|Fucosyltransferases|Ligands|Mice, Knockout|Selectins|Neoplasms
+759	Humans|Thymus Gland|SELP protein, human|P-Selectin|T-Lymphocytes|Chemokines|Receptors, Chemokine|Lymphocyte Count|Diagnostic Tests, Routine
+760	
+761	
+762	
+763	
+764	Humans|Integrin alpha4beta1|L-Selectin|Cell Adhesion|Chemotaxis|Ligands|Mucins|Leukocytes|Binding Sites|Cell Line|Endothelium
+765	Humans|Integrin alpha4beta1|L-Selectin|Cell Adhesion|Chemotaxis|Ligands|Mucins|Leukocytes|Binding Sites|Cell Line|Endothelium
+766	Humans|L-Selectin|Up-Regulation|Equipment Failure Analysis|Hydrogen-Ion Concentration|Cell Count|Cell Separation|Hematopoietic Stem Cells|Transcriptional Activation|Equipment Design
+767	Humans|L-Selectin|Up-Regulation|Equipment Failure Analysis|Hydrogen-Ion Concentration|Cell Count|Cell Separation|Hematopoietic Stem Cells|Transcriptional Activation|Equipment Design
+768	Humans|L-Selectin|Up-Regulation|Equipment Failure Analysis|Hydrogen-Ion Concentration|Cell Count|Cell Separation|Hematopoietic Stem Cells|Transcriptional Activation|Equipment Design
+769	Humans|L-Selectin|Up-Regulation|Equipment Failure Analysis|Hydrogen-Ion Concentration|Cell Count|Cell Separation|Hematopoietic Stem Cells|Transcriptional Activation|Equipment Design
+770	Humans|L-Selectin|Up-Regulation|Equipment Failure Analysis|Hydrogen-Ion Concentration|Cell Count|Cell Separation|Hematopoietic Stem Cells|Transcriptional Activation|Equipment Design
+771	Animals|Mice|Trichuris|Trichuriasis|N-Acetylglucosaminyltransferases|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Membrane Glycoproteins|Real-Time Polymerase Chain Reaction|Virulence|Mice, Knockout|Intestines|Polysaccharides
+772	Animals|Mice|Trichuris|Trichuriasis|N-Acetylglucosaminyltransferases|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Membrane Glycoproteins|Real-Time Polymerase Chain Reaction|Virulence|Mice, Knockout|Intestines|Polysaccharides
+773	
+774	
+775	
+776	
+777	Female|Mice|Humans|Animals|Inducible T-Cell Co-Stimulator Protein|Inducible T-Cell Co-Stimulator Ligand|T-Lymphocyte Subsets|Kruppel-Like Transcription Factors|Forkhead Transcription Factors|Down-Regulation|Palatine Tonsil|Protein Binding|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Mice, Knockout|Receptors, CXCR5|Germinal Center|Signal Transduction|Antigens|Cell Differentiation|Phenotype
+778	Female|Mice|Humans|Animals|Inducible T-Cell Co-Stimulator Protein|Inducible T-Cell Co-Stimulator Ligand|T-Lymphocyte Subsets|Kruppel-Like Transcription Factors|Forkhead Transcription Factors|Down-Regulation|Palatine Tonsil|Protein Binding|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Mice, Knockout|Receptors, CXCR5|Germinal Center|Signal Transduction|Antigens|Cell Differentiation|Phenotype
+779	Female|Mice|Humans|Animals|Inducible T-Cell Co-Stimulator Protein|Inducible T-Cell Co-Stimulator Ligand|T-Lymphocyte Subsets|Kruppel-Like Transcription Factors|Forkhead Transcription Factors|Down-Regulation|Palatine Tonsil|Protein Binding|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Mice, Knockout|Receptors, CXCR5|Germinal Center|Signal Transduction|Antigens|Cell Differentiation|Phenotype
+780	Female|Mice|Humans|Animals|Inducible T-Cell Co-Stimulator Protein|Inducible T-Cell Co-Stimulator Ligand|T-Lymphocyte Subsets|Kruppel-Like Transcription Factors|Forkhead Transcription Factors|Down-Regulation|Palatine Tonsil|Protein Binding|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Mice, Knockout|Receptors, CXCR5|Germinal Center|Signal Transduction|Antigens|Cell Differentiation|Phenotype
+781	Female|Mice|Humans|Animals|Platelet Glycoprotein GPIIb-IIIa Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Insulinoma|Talin|Blood Platelets|Protein Binding|Tumor Burden|Mice, Inbred C57BL|Time Factors|Mice, Knockout|Signal Transduction|Pancreatic Neoplasms|Melanoma
+782	
+783	
+784	
+785	Humans|SELP protein, human|P-Selectin|L-Selectin|SELE protein, human|E-Selectin|Neutrophils|Cell Adhesion|Chemotaxis|Kinetics|Membrane Proteins|Palatine Tonsil|Time Factors|Lymphocytes|Leukocytes|Cell Communication|Elasticity
+786	Humans|Protein-Tyrosine Kinases|Protein-Serine-Threonine Kinases|Thromboplastin|Blood Platelets|RNA Precursors|Platelet Activation|Signal Transduction|Blood Coagulation|RNA Splicing
+787	
+788	Mice|Animals|Mass Spectrometry|Chromatography|Polysaccharides
+789	Humans|L-Selectin|Tumor Necrosis Factor-alpha|Fucosyltransferases|Membrane Glycoproteins|Cell Adhesion|Immunoglobulin M|Recombinant Fusion Proteins|T-Lymphocytes|Ligands|Antigens, Differentiation, T-Lymphocyte|Lymphocytes|Leukocytes|Fluorescent Antibody Technique|Inflammation|Endothelium|Transfection|Cell Line|Oligosaccharides|Neoplasms
+790	Humans|L-Selectin|Tumor Necrosis Factor-alpha|Fucosyltransferases|Membrane Glycoproteins|Cell Adhesion|Immunoglobulin M|Recombinant Fusion Proteins|T-Lymphocytes|Ligands|Antigens, Differentiation, T-Lymphocyte|Lymphocytes|Leukocytes|Fluorescent Antibody Technique|Inflammation|Endothelium|Transfection|Cell Line|Oligosaccharides|Neoplasms
+791	Humans|Chemokine CCL21|Chemotaxis|TLR4 protein, human|Toll-Like Receptor 4|Sialic Acids|Monocytes|Neuraminidase|Immunohistochemistry|Protein Binding|Dendritic Cells|Cell Movement|Lymph Nodes
+792	Animals|Humans|Inducible T-Cell Co-Stimulator Protein|T-Lymphocytes, Helper-Inducer|Germinal Center|B-Lymphocytes|Lymphocyte Count|Cytodiagnosis
+793	
+794	Animals|Humans|Mesenchymal Stem Cell Transplantation|Mesenchymal Stromal Cells|Cytokines|Transplantation, Homologous|Stromal Cells|Inflammation|Leukocytes|Immune Tolerance
+795	
+796	
+797	Animals|Humans|Immunological Synapses|Killer Cells, Natural|Cytodiagnosis
+798	Humans|Platelet Glycoprotein GPIb-IX Complex|Macrophage-1 Antigen|Blood Platelets|Amino Acid Sequence|Cell Adhesion|Structure-Activity Relationship|Binding Sites|Leukocytes|Molecular Sequence Data|Cell Communication|Cell Line
+799	Mice|Animals|L-Selectin|Leukocyte Rolling|Monocytes|Spleen|Chemotaxis|Membrane Glycoproteins|Mice, Inbred C57BL|Leukocytes|Inflammation|Lymph Nodes|Retinitis
+800	Mice|Animals|Th2 Cells|Th1 Cells|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|IL4 protein, human|Interleukin-4|Interleukin-12|CD8-Positive T-Lymphocytes|CD4-Positive T-Lymphocytes|Chemokine CXCL10|Monokines|Mice, Inbred BALB C|Selectins|Adoptive Transfer|Cell Movement|Inflammation
+801	Mice|Animals|Th2 Cells|Th1 Cells|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|IL4 protein, human|Interleukin-4|Interleukin-12|CD8-Positive T-Lymphocytes|CD4-Positive T-Lymphocytes|Chemokine CXCL10|Monokines|Mice, Inbred BALB C|Selectins|Adoptive Transfer|Cell Movement|Inflammation
+802	Animals|Humans|Amino Acid Sequence|Enterovirus|Capsid Proteins|Protein Binding|Lysosome-Associated Membrane Glycoproteins|Virus Attachment|Virion|Molecular Docking Simulation|Static Electricity|RNA|Host-Pathogen Interactions|HEK293 Cells|Sf9 Cells|Hydrogen-Ion Concentration|Protein Conformation|Protein Interaction Mapping|Enterovirus Infections|Molecular Sequence Data|Amino Acids|Sequence Homology
+803	SELP protein, human|P-Selectin|Protein Binding|Allosteric Regulation|Structure-Activity Relationship|Membrane Glycoproteins|Protein Conformation|Protein Interaction Domains and Motifs
+804	
+805	Middle Aged|Male|Mice|Humans|Animals|complement factor H, human|Complement Factor H|Vitronectin|Retinal Pigment Epithelium|Extracellular Matrix Proteins|Tyrosine|Protein Processing, Post-Translational|Macular Degeneration|Retinal Degeneration|somatomedin B
+806	SELP protein, human|P-Selectin|Protein Binding|Allosteric Regulation|Structure-Activity Relationship|Membrane Glycoproteins|Protein Conformation|Protein Interaction Domains and Motifs
+807	Animals|Humans|Heparin|Melanoma, Experimental|Biological Phenomena
+808	
+809	Adult|Middle Aged|Young Adult|Adolescent|Female|Humans|Th17 Cells|Immunophenotyping|Cytokines|Coculture Techniques|T-Lymphocytes, Regulatory|Dendritic Cells|Lupus Erythematosus, Systemic|Cell Differentiation|Arthritis|Phenotype
+810	Adult|Middle Aged|Young Adult|Adolescent|Female|Humans|Th17 Cells|Immunophenotyping|Cytokines|Coculture Techniques|T-Lymphocytes, Regulatory|Dendritic Cells|Lupus Erythematosus, Systemic|Cell Differentiation|Arthritis|Phenotype
+811	Adult|Middle Aged|Young Adult|Adolescent|Female|Humans|Th17 Cells|Immunophenotyping|Cytokines|Coculture Techniques|T-Lymphocytes, Regulatory|Dendritic Cells|Lupus Erythematosus, Systemic|Cell Differentiation|Arthritis|Phenotype
+812	
+813	
+814	Middle Aged|Adult|Male|Female|Mice|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Small Cell Lung Carcinoma|Neoplasm Staging|Survival Rate|Tissue Array Analysis|Flow Cytometry|Mice, SCID|Mice, Knockout|Lung Neoplasms|Prognosis|Oligosaccharides|Immunoenzyme Techniques
+815	Middle Aged|Adult|Male|Female|Mice|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Small Cell Lung Carcinoma|Neoplasm Staging|Survival Rate|Tissue Array Analysis|Flow Cytometry|Mice, SCID|Mice, Knockout|Lung Neoplasms|Prognosis|Oligosaccharides|Immunoenzyme Techniques
+816	Middle Aged|Adult|Male|Female|Mice|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Small Cell Lung Carcinoma|Neoplasm Staging|Survival Rate|Tissue Array Analysis|Flow Cytometry|Mice, SCID|Mice, Knockout|Lung Neoplasms|Prognosis|Oligosaccharides|Immunoenzyme Techniques
+817	Humans|Amino Acid Sequence|Protein Binding|Integrin beta Chains|Tumor Suppressor Proteins|Molecular Sequence Data|Myosins|Protein Interaction Domains and Motifs|Sequence Homology|Amino Acids|Protein Transport|Microtubules
+818	Cricetinae|Animals|Humans|Coated Pits, Cell-Membrane|rhoA GTP-Binding Protein|rho-Associated Kinases|Clathrin|Leukocyte Rolling|SELP protein, human|P-Selectin|Thrombin|Histamine|Cricetulus|Regional Blood Flow|Endocytosis|Signal Transduction|CHO Cells|Cell Membrane|Exocytosis|Endothelial Cells
+819	Humans|Platelet Glycoprotein GPIb-IX Complex|Blood Platelets|Staphylococcus aureus|Superantigens|Carbohydrate Sequence|Membrane Glycoproteins|Epitopes|Sulfates|Tyrosine|HL-60 Cells|Substrate Specificity|Dose-Response Relationship, Drug|Platelet Activation|Molecular Sequence Data|Staphylococcal Infections|Polysaccharides
+820	Female|Humans|Cell Adhesion|Endometrium|Blastocyst|Cytodiagnosis
+821	
+822	
+823	Mice|Animals|Cytokine Receptor gp130|B-Lymphocytes|Lymphoid Enhancer-Binding Factor 1|Hepatocyte Nuclear Factor 1-alpha|T-Lymphocytes, Helper-Inducer|Receptors, Interleukin-6|Germinal Center|IL6 protein, human|Interleukin-6|Cell Differentiation
+824	Humans|Mice|Male|Female|Animals|SELP protein, human|P-Selectin|Lipopolysaccharides|Blood Platelets|Neutrophils|Thioglycolates|Flow Cytometry|Tumor Necrosis Factor-alpha|Microscopy|Solubility|HL-60 Cells|Mice, Inbred C57BL|Cytoplasmic Granules|Hepatitis|Hepatitis A|Cytoplasm|Liver|Endothelium|Peritonitis|Mutagenesis
+825	Humans|SELP protein, human|P-Selectin|Cell Adhesion|HL-60 Cells|Membrane Glycoproteins|Microscopy|polyethylene glycol 400|Polyethylene Glycols|Cell Movement|Diagnostic Tests, Routine|Cytological Techniques
+826	Mice|Male|Animals|L-Selectin|Cell Adhesion|Venules|Mice, Inbred C57BL|Microscopy|Mice, Knockout|Leukocytes|Cell Movement|Arteriosclerosis|Arteries|Inflammation
+827	Mice|Male|Animals|L-Selectin|Cell Adhesion|Venules|Mice, Inbred C57BL|Microscopy|Mice, Knockout|Leukocytes|Cell Movement|Arteriosclerosis|Arteries|Inflammation
+828	Humans|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Vascular Cell Adhesion Molecule-1|NK Cell Lectin-Like Receptor Subfamily D|KRT14 protein, human|Keratin-14|Eosinophils|Mast Cells|Membrane Glycoproteins|Cell Adhesion Molecule-1|T-Lymphocytes|Mice, Knockout|Cell Movement|Leukocyte Count|Dermatitis|Inflammation|Severity of Illness Index
+829	
+830	Cricetinae|Animals|Humans|Coated Pits, Cell-Membrane|rhoA GTP-Binding Protein|rho-Associated Kinases|Clathrin|Leukocyte Rolling|SELP protein, human|P-Selectin|Thrombin|Histamine|Cricetulus|Regional Blood Flow|Endocytosis|Signal Transduction|CHO Cells|Cell Membrane|Exocytosis|Endothelial Cells
+831	Humans|Flow Cytometry|Cell Fractionation|Neutrophils|Microfluidics|Cell Count|Cytodiagnosis|Blood Proteins
+832	
+833	
+834	SELP protein, human|P-Selectin|Protein Binding|Allosteric Regulation|Structure-Activity Relationship|Membrane Glycoproteins|Protein Conformation|Protein Interaction Domains and Motifs
+835	Mice|Male|Female|Animals|Ketone Oxidoreductases|Carbohydrate Epimerases|Fucose|Leukocyte-Adhesion Deficiency Syndrome|Mice, Inbred C57BL|Integrins|Leukocytosis|Multienzyme Complexes|Escherichia coli Proteins|Fetal Viability|Mice, Knockout|Selectins|Phenotype|Genotype|Leukocyte Disorders|Mutation|Polysaccharides|Dietary Supplements
+836	Mice|Animals|Reverse Transcriptase Polymerase Chain Reaction|Transforming Growth Factor beta1|Transforming Growth Factor beta|Cytokines|Flow Cytometry|Real-Time Polymerase Chain Reaction|Bone Marrow|Fibroblast Growth Factors|Sialoglycoproteins|Chemokines|Hematopoietic Stem Cells|Fluorescent Antibody Technique|Homeostasis|In Vitro Techniques
+837	Animals|Humans|Tumor Microenvironment|Liposomes|Immunotherapy|Lymph Nodes|Neoplasms|Biological Phenomena
+838	Mice|Animals|Th1 Cells|Interleukin-6 Receptor alpha Subunit|Th17 Cells|Immunologic Memory|CD4-Positive T-Lymphocytes|Ovalbumin|Interleukin-1beta|IL6 protein, human|Interleukin-6|Mice, Inbred C57BL|Coculture Techniques|Dose-Response Relationship, Drug|T-Lymphocytes, Regulatory|Mice, Knockout|IL6R protein, human|Receptors, Interleukin-6|Immunization|Adaptive Immunity|Signal Transduction|Recombinant Proteins
+839	Mice|Animals|Thymus Gland|Cell Lineage|Interleukin-7 Receptor alpha Subunit|Bone Marrow|Proto-Oncogene Proteins c-kit|Flow Cytometry|Mice, Inbred C57BL|T-Lymphocytes|Thy-1 Antigens|Mice, Knockout|Hematopoietic Stem Cells|Cell Differentiation|Cell Count|Antigens
+840	
+841	
+842	Animals|Humans|Factor XIIa|Thrombin|Thromboplastin|Fibrinolytic Agents|Fluorescent Dyes|Systems Biology|Crotalid Venoms|Computer Simulation|Plant Proteins|High-Throughput Screening Assays|Crotalinae|Lectins, C-Type|Reproducibility of Results|Blood Coagulation|Blood Coagulation Factors|Platelet Activation|Metabolic Networks and Pathways|Immunoassay
+843	Male|Animals|Mice|Emodin|NF-kappa B|Lipopolysaccharides|Chemokine CCL2|SELE protein, human|E-Selectin|Peroxidase|Protein Kinase Inhibitors|Pulmonary Edema|Bronchoalveolar Lavage Fluid|Enzyme Activation|Inflammation Mediators|Acute Lung Injury|Pneumonia|Signal Transduction|Peroxidases
+844	
+845	SELP protein, human|P-Selectin|Protein Binding|Allosteric Regulation|Structure-Activity Relationship|Membrane Glycoproteins|Protein Conformation|Protein Interaction Domains and Motifs
+846	Humans|SELP protein, human|P-Selectin|L-Selectin|SELE protein, human|E-Selectin|Neutrophils|Cell Adhesion|Chemotaxis|Kinetics|Membrane Proteins|Palatine Tonsil|Time Factors|Lymphocytes|Leukocytes|Cell Communication|Elasticity
+847	Humans|SELP protein, human|P-Selectin|L-Selectin|SELE protein, human|E-Selectin|Neutrophils|Cell Adhesion|Chemotaxis|Kinetics|Membrane Proteins|Palatine Tonsil|Time Factors|Lymphocytes|Leukocytes|Cell Communication|Elasticity
+848	Humans|SELP protein, human|P-Selectin|L-Selectin|SELE protein, human|E-Selectin|Neutrophils|Cell Adhesion|Chemotaxis|Kinetics|Membrane Proteins|Palatine Tonsil|Time Factors|Lymphocytes|Leukocytes|Cell Communication|Elasticity
+849	Middle Aged|Aged, 80 and over|Male|Female|Humans|Adult|Anthracyclines|calreticulin, human|Calreticulin|Eukaryotic Initiation Factor-2|Phosphorylation|T-Lymphocytes|Dendritic Cells|Antineoplastic Agents|Phagocytosis|Antibiotics, Antineoplastic|Survival Analysis|Leukemia, Myeloid, Acute|Cohort Studies
+850	Humans|Chemokine CX3CL1|Monocytes|Protein Binding|Cell Movement|Lymphocyte Subsets|Phenotype|Immunoglobulin G
+851	Humans|Animals|Mice|CD8-Positive T-Lymphocytes|Lymphocyte Activation|Carcinoembryonic Antigen|Graft vs Host Disease|Integrins|Cell Polarity|Organ Specificity|Transplantation, Homologous|Lymphoid Tissue|Lymphocyte Count|Dendritic Cells|Radiation Injuries|Intestines|Graft vs Tumor Effect
+852	Humans|Animals|Mice|CD8-Positive T-Lymphocytes|Lymphocyte Activation|Carcinoembryonic Antigen|Graft vs Host Disease|Integrins|Cell Polarity|Organ Specificity|Transplantation, Homologous|Lymphoid Tissue|Lymphocyte Count|Dendritic Cells|Radiation Injuries|Intestines|Graft vs Tumor Effect
+853	Pregnancy|Animals|Mice|Female|Bone Marrow|Lymphocyte Function-Associated Antigen-1|Flow Cytometry|Membrane Glycoproteins|Cadherins|Mice, Inbred C57BL|Microscopy|Multiplex Polymerase Chain Reaction|Receptors, Calcium-Sensing|Hematopoietic Stem Cells|CXCR4 protein, human|Receptors, CXCR4|Calcium, Dietary|Fetus|Cell Movement|Liver
+854	Pregnancy|Animals|Mice|Female|Bone Marrow|Lymphocyte Function-Associated Antigen-1|Flow Cytometry|Membrane Glycoproteins|Cadherins|Mice, Inbred C57BL|Microscopy|Multiplex Polymerase Chain Reaction|Receptors, Calcium-Sensing|Hematopoietic Stem Cells|CXCR4 protein, human|Receptors, CXCR4|Calcium, Dietary|Fetus|Cell Movement|Liver
+855	
+856	
+857	
+858	
+859	
+860	
+861	Humans|Platelet Glycoprotein GPIb-IX Complex|von Willebrand Factor|Platelet Aggregation|Blood Platelets|Microfluidics|Enzyme-Linked Immunosorbent Assay|Fluid Shifts|Platelet Function Tests|Thrombosis|Binding Sites|In Vitro Techniques|Peptides|Polysaccharides|Hemodynamics
+862	Child|Adult|Adolescent|Male|Female|Humans|Chemokine CXCL12|Thymus Gland|T-Lymphocytes|Neprilysin|Down-Regulation|Transplantation, Homologous|CXCR4 protein, human|Receptors, CXCR4|Hematopoietic Stem Cell Transplantation|Bone Marrow Cells|Host vs Graft Reaction
+863	
+864	
+865	
+866	
+867	
+868	
+869	
+870	
+871	
+872	
+873	Humans|Female|Male|B-Lymphocytes|Transcription Factor AP-1|Amino Acid Motifs|T-Lymphocytes, Helper-Inducer|STAT Transcription Factors|Binding Sites|Cell Differentiation
+874	Mice|Animals|B-Lymphocytes|TOR Serine-Threonine Kinases|Transforming Growth Factor beta|Immunoglobulin Class Switching|Species Specificity|T-Lymphocytes, Helper-Inducer|Germinal Center|Immunoglobulin Isotypes|Antibody Formation|Signal Transduction|Orthomyxoviridae|Orthomyxoviridae Infections|Cell Differentiation|Mucous Membrane
+875	Mice|Animals|B-Lymphocytes|TOR Serine-Threonine Kinases|Transforming Growth Factor beta|Immunoglobulin Class Switching|Species Specificity|T-Lymphocytes, Helper-Inducer|Germinal Center|Immunoglobulin Isotypes|Antibody Formation|Signal Transduction|Orthomyxoviridae|Orthomyxoviridae Infections|Cell Differentiation|Mucous Membrane
+876	Animals|Humans|Multiple Myeloma|Signal Transduction|Drug Resistance
+877	Animals|Mice|Humans|Amyloid Precursor Protein Secretases|Aspartic Acid Endopeptidases|Amyloid beta-Protein Precursor|ADAM Proteins|Membrane Proteins|Amino Acid Sequence|Nerve Tissue Proteins|Protein Binding|Valine|Arginine|Gene Knockdown Techniques|HEK293 Cells|Amyloid beta-Peptides|Binding Sites|Molecular Sequence Data|Neurons|Neoplasms
+878	
+879	Animals|Mice|Humans|Amyloid Precursor Protein Secretases|Aspartic Acid Endopeptidases|Amyloid beta-Peptides|Alzheimer Disease|Nootropic Agents|Saponins|Triterpenes|Proteolysis|Substrate Specificity|Enzyme Activation|Cognition Disorders|Animals, Genetically Modified|Cell Line|Asian Continental Ancestry Group
+880	Animals|Humans|T-Lymphocyte Subsets|Cell Lineage|Membrane Glycoproteins|Chemokines|Immune Tolerance|Cell Movement|Dendritic Cells|Inflammation|Chronic Disease|Endothelium
+881	Humans|Churg-Strauss Syndrome|RNA|Oligonucleotide Array Sequence Analysis|Leukocytes|Fibroblasts
+882	Humans|Hepatitis E virus|Hepatitis E|Hepatitis B virus|Coinfection|RNA|Transcriptome|Hepatitis B|Replicon|Cell Line|Transfection
+883	Humans|Hepatitis E virus|Hepatitis E|Hepatitis B virus|Coinfection|RNA|Transcriptome|Hepatitis B|Replicon|Cell Line|Transfection
+884	
+885	Humans|Chemokine CCL2|IL8 protein, human|Interleukin-8|Monocytes|Fibronectins|Integrins|PPAR gamma|Cell Adhesion|Cell-Derived Microparticles|Megakaryocytes|Primary Cell Culture|Metabolic Engineering|RNA|ITGAM protein, human|CD11b Antigen|Leukocytes|Inflammation|Endocytosis|Cell Line
+886	
+887	
+888	
+889	
+890	Humans|SELP protein, human|P-Selectin|Flow Cytometry|Leukemia, Myelogenous, Chronic, BCR-ABL Positive|Fusion Proteins, bcr-abl|Hematopoietic Stem Cells|Neoplastic Stem Cells
+891	Humans|SELP protein, human|P-Selectin|Flow Cytometry|Leukemia, Myelogenous, Chronic, BCR-ABL Positive|Fusion Proteins, bcr-abl|Hematopoietic Stem Cells|Neoplastic Stem Cells
+892	Humans|SELP protein, human|P-Selectin|Flow Cytometry|Leukemia, Myelogenous, Chronic, BCR-ABL Positive|Fusion Proteins, bcr-abl|Hematopoietic Stem Cells|Neoplastic Stem Cells
+893	Mice|Animals|Cell Adhesion|Membrane Glycoproteins|Selectins|Glioma|Neovascularization, Pathologic|Hemodynamics|Endothelium|Stem Cells|Biomarkers
+894	
+895	Humans|TLR5 protein, human|Toll-Like Receptor 5|rac1 GTP-Binding Protein|TLR2 protein, human|Toll-Like Receptor 2|NADPH Oxidases|rap1 GTP-Binding Proteins|Intercellular Adhesion Molecule-1|Fibronectins|Reactive Oxygen Species|Membrane Glycoproteins|Cell Adhesion|Lipopeptides|Enzyme Activation|NAD|NADP|NADH, NADPH Oxidoreductases|Cell Movement|Leukocytes|Endothelium|Inflammation
+896	Humans|TLR5 protein, human|Toll-Like Receptor 5|rac1 GTP-Binding Protein|TLR2 protein, human|Toll-Like Receptor 2|NADPH Oxidases|rap1 GTP-Binding Proteins|Intercellular Adhesion Molecule-1|Fibronectins|Reactive Oxygen Species|Membrane Glycoproteins|Cell Adhesion|Lipopeptides|Enzyme Activation|NAD|NADP|NADH, NADPH Oxidoreductases|Cell Movement|Leukocytes|Endothelium|Inflammation
+897	Humans|TLR5 protein, human|Toll-Like Receptor 5|rac1 GTP-Binding Protein|TLR2 protein, human|Toll-Like Receptor 2|NADPH Oxidases|rap1 GTP-Binding Proteins|Intercellular Adhesion Molecule-1|Fibronectins|Reactive Oxygen Species|Membrane Glycoproteins|Cell Adhesion|Lipopeptides|Enzyme Activation|NAD|NADP|NADH, NADPH Oxidoreductases|Cell Movement|Leukocytes|Endothelium|Inflammation
+898	Humans|TLR5 protein, human|Toll-Like Receptor 5|rac1 GTP-Binding Protein|TLR2 protein, human|Toll-Like Receptor 2|NADPH Oxidases|rap1 GTP-Binding Proteins|Intercellular Adhesion Molecule-1|Fibronectins|Reactive Oxygen Species|Membrane Glycoproteins|Cell Adhesion|Lipopeptides|Enzyme Activation|NAD|NADP|NADH, NADPH Oxidoreductases|Cell Movement|Leukocytes|Endothelium|Inflammation
+899	Humans|TLR5 protein, human|Toll-Like Receptor 5|rac1 GTP-Binding Protein|TLR2 protein, human|Toll-Like Receptor 2|NADPH Oxidases|rap1 GTP-Binding Proteins|Intercellular Adhesion Molecule-1|Fibronectins|Reactive Oxygen Species|Membrane Glycoproteins|Cell Adhesion|Lipopeptides|Enzyme Activation|NAD|NADP|NADH, NADPH Oxidoreductases|Cell Movement|Leukocytes|Endothelium|Inflammation
+900	
+901	
+902	Animals|Mice|Male|Cattle|Humans|SELP protein, human|P-Selectin|Endotoxemia|Distamycins|HMGA1a Protein|NF-kappa B|Neutrophils|Endotoxins|Cytokines|Protein Binding|Mice, Inbred C57BL|AT Rich Sequence|Inflammation|Endothelial Cells|Liver|Lung|Cell Communication|Promoter Regions, Genetic
+903	Mice|Animals|Humans|SELE protein, human|E-Selectin|Neutrophils|Mice, Inbred C57BL|Membrane Glycoproteins|Ligands|Mice, Knockout|Cell Line|Endothelial Cells|Cell Differentiation
+904	
+905	Male|Female|Mice|Animals|IL4 protein, human|Interleukin-4|IL5 protein, human|Interleukin-5|Macrophage Activation|Arginase|Brugia malayi|Mice, Inbred C57BL|Expressed Sequence Tags|Protein Sorting Signals|Oligonucleotide Array Sequence Analysis|Mice, Knockout|NGF protein, human|Nerve Growth Factor|Macrophages|Gene Library|Genotype
+906	Mice|Animals|Mice, Inbred BALB C|Mice, Inbred C57BL|CD40 Ligand|CD4-Positive T-Lymphocytes|SELP protein, human|P-Selectin|Flow Cytometry|Immunohistochemistry|Encephalomyelitis, Autoimmune, Experimental|Dendritic Cells|Lymph Nodes|Cell Movement
+907	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+908	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+909	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+910	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+911	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+912	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+913	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+914	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+915	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+916	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+917	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+918	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+919	
+920	Animals|Cercopithecus aethiops|Humans|Leukocyte Rolling|L-Selectin|Calmodulin|Membrane Proteins|Cytoskeletal Proteins|Protein Binding|Microfilament Proteins|COS Cells|U937 Cells|Recombinant Proteins|Signal Transduction|Multiprotein Complexes
+921	
+922	Animals|Male|Mice|Cattle|IL17A protein, human|Interleukin-17|CD4-Positive T-Lymphocytes|Interleukin-1beta|Flow Cytometry|Mice, Inbred C57BL|Neutrophils|Chickens|Receptors, Antigen, T-Cell, gamma-delta|Mice, Inbred DBA|Interleukins|Cytokines|Antigens|Inflammation|Arthritis|Collagen|Cell Movement
+923	Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Rhodamine 123|Rhodamines|Fluorescent Dyes|Vascular Cell Adhesion Molecule-1|Bone Marrow|Venules|Microcirculation|Cell Adhesion Molecule-1|Mice, Inbred C57BL|Hematopoietic Stem Cells|Skull|Cell Movement|Hemodynamics|Endothelium|Frontal Lobe
+924	Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Rhodamine 123|Rhodamines|Fluorescent Dyes|Vascular Cell Adhesion Molecule-1|Bone Marrow|Venules|Microcirculation|Cell Adhesion Molecule-1|Mice, Inbred C57BL|Hematopoietic Stem Cells|Skull|Cell Movement|Hemodynamics|Endothelium|Frontal Lobe
+925	Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Rhodamine 123|Rhodamines|Fluorescent Dyes|Vascular Cell Adhesion Molecule-1|Bone Marrow|Venules|Microcirculation|Cell Adhesion Molecule-1|Mice, Inbred C57BL|Hematopoietic Stem Cells|Skull|Cell Movement|Hemodynamics|Endothelium|Frontal Lobe
+926	Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Rhodamine 123|Rhodamines|Fluorescent Dyes|Vascular Cell Adhesion Molecule-1|Bone Marrow|Venules|Microcirculation|Cell Adhesion Molecule-1|Mice, Inbred C57BL|Hematopoietic Stem Cells|Skull|Cell Movement|Hemodynamics|Endothelium|Frontal Lobe
+927	
+928	
+929	
+930	Cricetinae|Animals|Humans|Anaplasma phagocytophilum|Cricetulus|Ehrlichiosis|Amino Acid Substitution|Protein Binding|Molecular Docking Simulation|Bacterial Outer Membrane Proteins|HL-60 Cells|Virulence|CHO Cells|Antibodies|Mutation|Bacteria
+931	Cricetinae|Animals|Humans|Anaplasma phagocytophilum|Cricetulus|Ehrlichiosis|Amino Acid Substitution|Protein Binding|Molecular Docking Simulation|Bacterial Outer Membrane Proteins|HL-60 Cells|Virulence|CHO Cells|Antibodies|Mutation|Bacteria
+932	Cricetinae|Animals|Humans|Anaplasma phagocytophilum|Cricetulus|Ehrlichiosis|Amino Acid Substitution|Protein Binding|Molecular Docking Simulation|Bacterial Outer Membrane Proteins|HL-60 Cells|Virulence|CHO Cells|Antibodies|Mutation|Bacteria
+933	Cricetinae|Animals|Humans|Anaplasma phagocytophilum|Cricetulus|Ehrlichiosis|Amino Acid Substitution|Protein Binding|Molecular Docking Simulation|Bacterial Outer Membrane Proteins|HL-60 Cells|Virulence|CHO Cells|Antibodies|Mutation|Bacteria
+934	Mice|Animals|Humans|Insulin Resistance|Glucose Tolerance Test|SELP protein, human|P-Selectin|Insulin|DNA Primers|E-Selectin|Mice, Inbred C57BL|Phosphorylation|Reverse Transcriptase Polymerase Chain Reaction|Up-Regulation|Membrane Glycoproteins|Oligonucleotide Array Sequence Analysis|Flow Cytometry|Diet, Fat-Restricted|Mice, Knockout|Fatty Liver|Obesity|Adipocytes|Inflammation
+935	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+936	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+937	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+938	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+939	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+940	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+941	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+942	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+943	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+944	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+945	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+946	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+947	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+948	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+949	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+950	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+951	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+952	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+953	Humans|Cricetinae|Male|Female|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Cell Adhesion|Venules|Cricetulus|Membrane Glycoproteins|Membrane Proteins|HL-60 Cells|Recombinant Fusion Proteins|Blood Flow Velocity|Mice, Inbred C57BL|Selectins|CHO Cells|Leukocytes|Cell Wall|Transfection
+954	
+955	Mice|Male|Animals|Antioxidants|Cyclic N-Oxides|Mice, Inbred C57BL|Spin Labels|Immunohistochemistry|Membrane Glycoproteins|Real-Time Polymerase Chain Reaction|Mice, Knockout|Obesity|Vascular Diseases|Immunoblotting|Endothelium
+956	
+957	Animals|Mice|Humans|Cell-Derived Microparticles|Thromboplastin|Platelet Aggregation|polyacrylamide gels|Flow Cytometry|Fluorescence|Microscopy|Membrane Glycoproteins|Mice, Inbred C57BL|Acrylic Resins|Platelet Function Tests|Thrombosis|Cell Line|Electrophoresis|Neoplasms
+958	
+959	Animals|Mice|Humans|Amyloid Precursor Protein Secretases|Aspartic Acid Endopeptidases|Amyloid beta-Protein Precursor|ADAM Proteins|Membrane Proteins|Amino Acid Sequence|Nerve Tissue Proteins|Protein Binding|Valine|Arginine|Gene Knockdown Techniques|HEK293 Cells|Amyloid beta-Peptides|Binding Sites|Molecular Sequence Data|Neurons|Neoplasms
+960	Female|Animals|Mice|Humans|Streptococcus pneumoniae|N-Acetylmuramoyl-L-alanine Amidase|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Pneumococcal Infections|Phagocytosis|Sepsis|Macrophages|Pneumonia
+961	Mice|Animals|SELP protein, human|P-Selectin|L-Selectin|Macrophage Activation|Vascular Cell Adhesion Molecule-1|Membrane Glycoproteins|Cell Adhesion|Membrane Proteins|Ligands|Cell Adhesion Molecule-1|Mice, Knockout|Cell Membrane|Cell Count|Macrophages|Peritoneum
+962	
+963	
+964	
+965	Mice|Animals|CD4-Positive T-Lymphocytes|Immunologic Memory|Mice, Inbred C57BL|Membrane Glycoproteins|Mice, SCID|Mice, Knockout|Ileitis|Intestinal Mucosa|Cell Movement|Mesentery|Lymph Nodes|Endothelium|Chronic Disease
+966	Mice|Animals|SELP protein, human|P-Selectin|L-Selectin|Macrophage Activation|Vascular Cell Adhesion Molecule-1|Membrane Glycoproteins|Cell Adhesion|Membrane Proteins|Ligands|Cell Adhesion Molecule-1|Mice, Knockout|Cell Membrane|Cell Count|Macrophages|Peritoneum
+967	
+968	
+969	
+970	Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Leukocyte Rolling|Intercellular Adhesion Molecule-1|Lymphocyte Function-Associated Antigen-1|Cell Adhesion|Venules|Neutrophils|Membrane Glycoproteins|Th1 Cells|Shear Strength|Adhesiveness|Mice, Inbred C57BL|Cell Adhesion Molecules|Inflammation|Microvessels
+971	Mice|Humans|Animals|Neutrophil Activation|Membrane Glycoproteins|Neutrophils|Membrane Proteins|Cell Polarity|HL-60 Cells|Membrane Microdomains|Cell Count
+972	Mice|Animals|Humans|Insulin Resistance|Glucose Tolerance Test|SELP protein, human|P-Selectin|Insulin|DNA Primers|E-Selectin|Mice, Inbred C57BL|Phosphorylation|Reverse Transcriptase Polymerase Chain Reaction|Up-Regulation|Membrane Glycoproteins|Oligonucleotide Array Sequence Analysis|Flow Cytometry|Diet, Fat-Restricted|Mice, Knockout|Fatty Liver|Obesity|Adipocytes|Inflammation
+973	Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Neutrophils|Membrane Glycoproteins|Ligands|Gene Deletion|Mice, Inbred C57BL|Cell Movement|Signal Transduction|Gene Targeting
+974	Mice|Animals|Humans|3' Untranslated Regions|SELP protein, human|P-Selectin|RNA Interference|VEGFA protein, human|Vascular Endothelial Growth Factor A|MicroRNAs|Th2 Cells|Thrombopoietin|Pneumonia|Endothelium|Lung|Allergens
+975	Mice|Animals|Humans|3' Untranslated Regions|SELP protein, human|P-Selectin|RNA Interference|VEGFA protein, human|Vascular Endothelial Growth Factor A|MicroRNAs|Th2 Cells|Thrombopoietin|Pneumonia|Endothelium|Lung|Allergens
+976	Mice|Animals|Humans|3' Untranslated Regions|SELP protein, human|P-Selectin|RNA Interference|VEGFA protein, human|Vascular Endothelial Growth Factor A|MicroRNAs|Th2 Cells|Thrombopoietin|Pneumonia|Endothelium|Lung|Allergens
+977	
+978	Humans|Actins|Microfilament Proteins|Cytoskeletal Proteins|Membrane Proteins|Membrane Glycoproteins|T-Lymphocytes|Cytoskeleton|Microtubules|Chemokines|Cell Count
+979	Mice|Animals|Inducible T-Cell Co-Stimulator Protein|T-Lymphocyte Subsets|Plasma Cells|Autoimmunity|Immunoglobulin G|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Immunoglobulin Class Switching|Mice, Knockout|Germinal Center|Interleukins|Antigens|Chemokines|Cell Differentiation
+980	Female|Animals|Mice|Humans|Streptococcus pneumoniae|N-Acetylmuramoyl-L-alanine Amidase|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Pneumococcal Infections|Phagocytosis|Sepsis|Macrophages|Pneumonia
+981	Female|Animals|Mice|Humans|Streptococcus pneumoniae|N-Acetylmuramoyl-L-alanine Amidase|Neutrophils|Membrane Glycoproteins|Mice, Inbred C57BL|Pneumococcal Infections|Phagocytosis|Sepsis|Macrophages|Pneumonia
+982	
+983	Mice|Animals|CD4-Positive T-Lymphocytes|Immunologic Memory|Mice, Inbred C57BL|Membrane Glycoproteins|Mice, SCID|Mice, Knockout|Ileitis|Intestinal Mucosa|Cell Movement|Mesentery|Lymph Nodes|Endothelium|Chronic Disease
+984	
+985	Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Neutrophils|Membrane Glycoproteins|Ligands|Gene Deletion|Mice, Inbred C57BL|Cell Movement|Signal Transduction|Gene Targeting
+986	Humans|Helicobacter pylori|Helicobacter Infections|Gastric Mucins|Mucin 5AC|IL6 protein, human|Interleukin-6|Bacterial Adhesion|Cytokines|Bacterial Proteins|Glycosylation|Host-Pathogen Interactions|Microbial Viability|Reverse Transcriptase Polymerase Chain Reaction|Fluorescence|Microscopy|Dose-Response Relationship, Drug|Gastric Mucosa|Adhesins, Bacterial|Cell Line|Neoplasms
+987	Cricetinae|Animals|Rats|Horses|Mice|Cattle|Swine|Humans|Cricetulus|Immunophenotyping|Furin|Flow Cytometry|Amino Acid Sequence|Species Specificity|Membrane Glycoproteins|Neutrophil Infiltration|Cell Adhesion|CHO Cells|Transfection
+988	Female|Male|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Bromelains|Neutrophils|Membrane Glycoproteins|Proteolysis|L-Selectin|Cell Adhesion|Diagnostic Tests, Routine|Cytodiagnosis
+989	Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Leukocyte Rolling|Intercellular Adhesion Molecule-1|Lymphocyte Function-Associated Antigen-1|Cell Adhesion|Venules|Neutrophils|Membrane Glycoproteins|Th1 Cells|Shear Strength|Adhesiveness|Mice, Inbred C57BL|Cell Adhesion Molecules|Inflammation|Microvessels
+990	Humans|HIV-1|Gene Products, gag|Immunological Synapses|Myosin-Light-Chain Kinase|Nucleocapsid|Luminescent Proteins|Recombinant Fusion Proteins|Cell Polarity|Bacterial Proteins|Tissue Distribution|Protein Kinase Inhibitors|T-Lymphocytes|HIV Infections|Membrane Microdomains|Cell Surface Extensions|Cell Membrane|Fluorescent Antibody Technique
+991	
+992	Humans|HIV-1|Gene Products, gag|Immunological Synapses|Myosin-Light-Chain Kinase|Nucleocapsid|Luminescent Proteins|Recombinant Fusion Proteins|Cell Polarity|Bacterial Proteins|Tissue Distribution|Protein Kinase Inhibitors|T-Lymphocytes|HIV Infections|Membrane Microdomains|Cell Surface Extensions|Cell Membrane|Fluorescent Antibody Technique
+993	Humans|HIV-1|Gene Products, gag|Immunological Synapses|Myosin-Light-Chain Kinase|Nucleocapsid|Luminescent Proteins|Recombinant Fusion Proteins|Cell Polarity|Bacterial Proteins|Tissue Distribution|Protein Kinase Inhibitors|T-Lymphocytes|HIV Infections|Membrane Microdomains|Cell Surface Extensions|Cell Membrane|Fluorescent Antibody Technique
+994	Humans|Vascular Cell Adhesion Molecule-1|Intercellular Adhesion Molecule-1|SELP protein, human|P-Selectin|Integrin alpha3|Integrin alpha5|Cell Adhesion|Blood Platelets|Human Umbilical Vein Endothelial Cells|RNA Interference|RNA|Membrane Glycoproteins|Coculture Techniques|Carcinoma, Non-Small-Cell Lung|Cell Adhesion Molecule-1|Lung Neoplasms|Platelet Activation|Cell Count|Cytodiagnosis|Carcinoma
+995	Animals|Mice|Humans|SELP protein, human|P-Selectin|Liposomes|Membrane Glycoproteins|Human Umbilical Vein Endothelial Cells|Benzothiazoles|Drug Delivery Systems|Neoplasms|Surface Properties|Diagnostic Tests, Routine
+996	Humans|HIV-1|Gene Products, gag|Immunological Synapses|Myosin-Light-Chain Kinase|Nucleocapsid|Luminescent Proteins|Recombinant Fusion Proteins|Cell Polarity|Bacterial Proteins|Tissue Distribution|Protein Kinase Inhibitors|T-Lymphocytes|HIV Infections|Membrane Microdomains|Cell Surface Extensions|Cell Membrane|Fluorescent Antibody Technique
+997	
+998	
+999	Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Neutrophils|Membrane Glycoproteins|Ligands|Gene Deletion|Mice, Inbred C57BL|Cell Movement|Signal Transduction|Gene Targeting
+1000	
+1001	Mice|Humans|Animals|Platelet Glycoprotein GPIIb-IIIa Complex|Amino Acid Sequence|Talin|Integrin alphaVbeta3|Sequence Alignment|Membrane Proteins|Neoplasm Proteins|Recombinant Fusion Proteins|RNA|Neoplasms|Binding Sites|Peptides|Molecular Sequence Data|Signal Transduction|Cell Line
+1002	
+1003	Humans|Immunoglobulin Fc Fragments|Capsid Proteins|Amino Acid Sequence|Enterovirus|Viral Fusion Proteins|Lysine|Virus Attachment|Amino Acid Substitution|Recombinant Fusion Proteins|Mutant Proteins|Tyrosine|Membrane Glycoproteins|Jurkat Cells|Host-Pathogen Interactions|Mutagenesis, Site-Directed|Enterovirus Infections|Binding Sites|Conserved Sequence|Protein Interaction Domains and Motifs
+1004	Humans|SELP protein, human|P-Selectin|Blood Platelets|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Microscopy|Platelet Activation|Cell Movement|Rheology|Antibodies|Surface Properties
+1005	Mice|Animals|CD4-Positive T-Lymphocytes|Immunologic Memory|Mice, Inbred C57BL|Membrane Glycoproteins|Mice, SCID|Mice, Knockout|Ileitis|Intestinal Mucosa|Cell Movement|Mesentery|Lymph Nodes|Endothelium|Chronic Disease
+1006	Mice|Humans|Animals|Neutrophil Activation|Membrane Glycoproteins|Neutrophils|Membrane Proteins|Cell Polarity|HL-60 Cells|Membrane Microdomains|Cell Count
+1007	
+1008	Humans|Proto-Oncogene Proteins c-vav|Protein-Tyrosine Kinases|Protein Binding|Intracellular Signaling Peptides and Proteins|Intercellular Adhesion Molecule-1|Cell Adhesion|Enzyme Activation|Membrane Glycoproteins|HL-60 Cells|Membrane Microdomains|Protein Transport
+1009	Humans|Proto-Oncogene Proteins c-vav|Protein-Tyrosine Kinases|Protein Binding|Intracellular Signaling Peptides and Proteins|Intercellular Adhesion Molecule-1|Cell Adhesion|Enzyme Activation|Membrane Glycoproteins|HL-60 Cells|Membrane Microdomains|Protein Transport
+1010	Animals|Mice|Leukocyte Rolling|SELP protein, human|P-Selectin|Green Fluorescent Proteins|Muramidase|Neutrophils|Protein Footprinting|Membrane Glycoproteins|Fluorescence|Microscopy|Animals, Genetically Modified|L-Selectin|Microfluidic Analytical Techniques
+1011	Animals|Mice|Leukocyte Rolling|SELP protein, human|P-Selectin|Green Fluorescent Proteins|Muramidase|Neutrophils|Protein Footprinting|Membrane Glycoproteins|Fluorescence|Microscopy|Animals, Genetically Modified|L-Selectin|Microfluidic Analytical Techniques
+1012	Male|Female|Swine|Humans|Animals|Zona Pellucida|Sperm-Ovum Interactions|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Acrosome|Microscopy|Ligands|Electrons|Oocytes|Cell Membrane|Calcium, Dietary|Recombinant Proteins|Immunoenzyme Techniques
+1013	Humans|Leukocyte Rolling|SELP protein, human|P-Selectin|Chemokine CXCL1|Vascular Cell Adhesion Molecule-1|Cell Adhesion|Neutrophils|Lymphocyte Activation|Computer Simulation|Cell Adhesion Molecule-1|Receptors, Leukocyte-Adhesion|Intercellular Adhesion Molecule-1|Leukocytes
+1014	Cricetinae|Mice|Animals|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Th1 Cells|Oxazolone|CD4-Positive T-Lymphocytes|Mice, Inbred C57BL|Cricetulus|Membrane Glycoproteins|Chemotaxis|Ligands|Mice, Knockout|Adjuvants, Immunologic|CHO Cells|Dermatitis|Skin
+1015	Mice|Humans|Animals|Neutrophil Activation|Membrane Glycoproteins|Neutrophils|Membrane Proteins|Cell Polarity|HL-60 Cells|Membrane Microdomains|Cell Count
+1016	
+1017	
+1018	Pregnancy|Animals|Mice|Female|Bone Marrow|Lymphocyte Function-Associated Antigen-1|Flow Cytometry|Membrane Glycoproteins|Cadherins|Mice, Inbred C57BL|Microscopy|Multiplex Polymerase Chain Reaction|Receptors, Calcium-Sensing|Hematopoietic Stem Cells|CXCR4 protein, human|Receptors, CXCR4|Calcium, Dietary|Fetus|Cell Movement|Liver
+1019	Adult|Male|Female|Humans|Platelet Adhesiveness|Dinoprostone|Cyclooxygenase 2|Blood Platelets|Cell Aggregation|Monocytes|Influenza, Human|Culture Media|Platelet Activation|Immunization|Vaccination|Cell Movement|Cell Communication|Endothelial Cells|Inflammation|Phenotype|Immunoglobulin G
+1020	Humans|Leukocyte Rolling|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Dimethyl Sulfoxide|Cell Adhesion|Recombinant Fusion Proteins|HL-60 Cells|Membrane Glycoproteins|Immobilized Proteins|Cell Shape|Cytoplasm|Cell Nucleus
+1021	Mice|Animals|SELP protein, human|P-Selectin|L-Selectin|Macrophage Activation|Vascular Cell Adhesion Molecule-1|Membrane Glycoproteins|Cell Adhesion|Membrane Proteins|Ligands|Cell Adhesion Molecule-1|Mice, Knockout|Cell Membrane|Cell Count|Macrophages|Peritoneum
+1022	Humans|SELP protein, human|P-Selectin|Blood Platelets|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Microscopy|Platelet Activation|Cell Movement|Rheology|Antibodies|Surface Properties
+1023	Humans|Leukocyte Rolling|SELP protein, human|P-Selectin|Immunoglobulin Fc Fragments|Dimethyl Sulfoxide|Cell Adhesion|Recombinant Fusion Proteins|HL-60 Cells|Membrane Glycoproteins|Immobilized Proteins|Cell Shape|Cytoplasm|Cell Nucleus
+1024	Female|Male|Humans|SELP protein, human|P-Selectin|SELE protein, human|E-Selectin|Bromelains|Neutrophils|Membrane Glycoproteins|Proteolysis|L-Selectin|Cell Adhesion|Diagnostic Tests, Routine|Cytodiagnosis
+1025	
+1026	Animals|Mice|Humans|Cell-Derived Microparticles|Thromboplastin|Platelet Aggregation|polyacrylamide gels|Flow Cytometry|Fluorescence|Microscopy|Membrane Glycoproteins|Mice, Inbred C57BL|Acrylic Resins|Platelet Function Tests|Thrombosis|Cell Line|Electrophoresis|Neoplasms
+1027	Male|Female|Swine|Humans|Animals|Zona Pellucida|Sperm-Ovum Interactions|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Acrosome|Microscopy|Ligands|Electrons|Oocytes|Cell Membrane|Calcium, Dietary|Recombinant Proteins|Immunoenzyme Techniques
+1028	Mice|Animals|Cell Adhesion|Membrane Glycoproteins|Selectins|Glioma|Neovascularization, Pathologic|Hemodynamics|Endothelium|Stem Cells|Biomarkers
+1029	
+1030	
+1031	
+1032	
+1033	
+1034	Humans|SELP protein, human|P-Selectin|Blood Platelets|Cell Adhesion|Neutrophils|Membrane Glycoproteins|Microscopy|Platelet Activation|Cell Movement|Rheology|Antibodies|Surface Properties
+1035	Mice|Animals|SELP protein, human|P-Selectin|L-Selectin|Venules|Tumor Necrosis Factor-alpha|Membrane Glycoproteins|Leukocytes|Cell Communication|Inflammation
+1036	
+1037	Male|Mice|Animals|SELP protein, human|P-Selectin|Thromboplastin|Mice, Inbred C57BL|Microcirculation|Membrane Glycoproteins|Fluorescence|Microscopy|Mice, Knockout|Blood Coagulation|Thrombosis|Antigens|Lasers|Endothelium
+1038	Humans|Leukocyte Rolling|L-Selectin|Cell Adhesion|Shear Strength|Ligands|Monte Carlo Method|Leukocytes|Molecular Conformation
+1039	Humans|Integrin alpha4beta1|Cell Adhesion|Actins|U937 Cells|Cell Count|Leukocytes|Cytodiagnosis
+1040	Mice|Animals|L-Selectin|Leukocyte Rolling|Monocytes|Spleen|Chemotaxis|Membrane Glycoproteins|Mice, Inbred C57BL|Leukocytes|Inflammation|Lymph Nodes|Retinitis
+1041	Humans|Integrin alpha4beta1|Cell Adhesion|Actins|U937 Cells|Cell Count|Leukocytes|Cytodiagnosis
+1042	
+1043	Mice|Humans|Animals|Lymphocyte Function-Associated Antigen-1|Integrin alpha4beta1|Transendothelial and Transepithelial Migration|Cell Adhesion|Jurkat Cells|Tumor Necrosis Factor-alpha|Mice, Inbred C57BL|Protein Binding|Microscopy|Fluorescence|Mice, Knockout|Cell Count|Endothelial Cells|Immunoblotting
+1044	Computer Simulation|Computational Biology|Biomechanical Phenomena|Protein Binding|Microspheres|Reproducibility of Results|Motion|Selectins|Surface Properties|Nanotechnology
+1045	Computer Simulation|Computational Biology|Biomechanical Phenomena|Protein Binding|Microspheres|Reproducibility of Results|Motion|Selectins|Surface Properties|Nanotechnology
+1046	Mice|Humans|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Oxazolone|Cell Adhesion|Immunologic Surveillance|Membrane Glycoproteins|Immunomagnetic Separation|Hemorheology|Mice, Knockout|Cell Movement|Cell Count|Blood Cells|Dendritic Cells|Endothelium|Bone Marrow Cells
+1047	Female|Animals|Mice|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Fireflies|Tumor Necrosis Factor-alpha|Membrane Glycoproteins|Adenoviridae|Acrylamides|Hep G2 Cells|Viral Load|Bacterial Proteins|Selectins|Endothelium|Mice, Nude|Antibodies|Luciferases|Endothelial Cells|Gene Transfer Techniques|Xenograft Model Antitumor Assays|Cell Line|Umbilical Cord
+1048	
+1049	
+1050	Cercopithecus aethiops|Mice|Humans|Animals|Immunoglobulin Fab Fragments|Enterovirus|Base Sequence|Immunoglobulin G|Vero Cells|Sequence Alignment|Cryoelectron Microscopy|Virion|Molecular Sequence Data|Enterovirus Infections|Molecular Conformation|Sequence Analysis|DNA|Mutation
+1051	Cricetinae|Animals|Humans|Anaplasma phagocytophilum|Cricetulus|Ehrlichiosis|Amino Acid Substitution|Protein Binding|Molecular Docking Simulation|Bacterial Outer Membrane Proteins|HL-60 Cells|Virulence|CHO Cells|Antibodies|Mutation|Bacteria
+1052	
+1053	
+1054	
+1055	Humans|Actins|Microfilament Proteins|Cytoskeletal Proteins|Membrane Proteins|Membrane Glycoproteins|T-Lymphocytes|Cytoskeleton|Microtubules|Chemokines|Cell Count
+1056	Mice|Male|Animals|Glutamine|Mice, Inbred C57BL|Heparin|Fluorescence|Microscopy|Acute Disease|T-Lymphocytes|Colitis|Colon|Intestinal Mucosa|Cell Adhesion Molecules|Body Weight|Chemokines|Dietary Supplements|Cell Movement
+1057	Mice|Male|Animals|Glutamine|Mice, Inbred C57BL|Heparin|Fluorescence|Microscopy|Acute Disease|T-Lymphocytes|Colitis|Colon|Intestinal Mucosa|Cell Adhesion Molecules|Body Weight|Chemokines|Dietary Supplements|Cell Movement
+1058	
+1059	Cricetinae|Animals|Humans|Platelet Glycoprotein GPIb-IX Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Cricetulus|Blood Platelets|Membrane Glycoproteins|Ligands|CHO Cells|Endothelium
+1060	
+1061	
+1062	Cricetinae|Animals|Humans|Platelet Glycoprotein GPIb-IX Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Cricetulus|Blood Platelets|Membrane Glycoproteins|Ligands|CHO Cells|Endothelium
+1063	
+1064	Adult|Male|Female|Humans|Platelet Adhesiveness|Dinoprostone|Cyclooxygenase 2|Blood Platelets|Cell Aggregation|Monocytes|Influenza, Human|Culture Media|Platelet Activation|Immunization|Vaccination|Cell Movement|Cell Communication|Endothelial Cells|Inflammation|Phenotype|Immunoglobulin G
+1065	Animals|Cattle|Humans|Immunoglobulin G|Serum Albumin|Microfluidics|Cell Adhesion|Surface Properties
+1066	Mice|Humans|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Oxazolone|Cell Adhesion|Immunologic Surveillance|Membrane Glycoproteins|Immunomagnetic Separation|Hemorheology|Mice, Knockout|Cell Movement|Cell Count|Blood Cells|Dendritic Cells|Endothelium|Bone Marrow Cells
+1067	
+1068	Humans|Brain Ischemia|Brain Infarction|Stroke|Adaptive Immunity|Inflammation|Lymphocytes|Cell Death
+1069	Mice|Humans|Animals|ABCA1 protein, human|ATP Binding Cassette Transporter 1|ATP-Binding Cassette Transporters|Monocytes|Cytokines|MicroRNAs|Macrophages|Cholesterol|Chemokines|Atherosclerosis|Inflammation|Biomarkers|Signal Transduction|Apoptosis
+1070	
+1071	Mice|Animals|L-Selectin|SELE protein, human|E-Selectin|Macrophage-1 Antigen|Neutrophils|Blood Platelets|Tumor Necrosis Factor-alpha|Microscopy|Fluorescence|Leukocytes|Erythrocytes|Inflammation|Membrane Microdomains
+1072	Humans|Thymocytes|Cell Lineage|Thymus Gland|L-Selectin|Neprilysin|Up-Regulation|Hematopoietic Stem Cells|Bone Marrow Cells|Cell Differentiation|Cell Count
+1073	Humans|Female|Mice|Animals|Integrin alpha4beta1|Mice, Inbred BALB C|Mice, SCID|Cell Adhesion Molecules|Xenograft Model Antitumor Assays|Cell Movement|Fluorescent Antibody Technique|Immunoenzyme Techniques|Brain Neoplasms|Breast Neoplasms|Endothelium|Apoptosis
+1074	
+1075	
+1076	
+1077	
+1078	
+1079	Female|Mice|Humans|Animals|Inducible T-Cell Co-Stimulator Protein|Inducible T-Cell Co-Stimulator Ligand|T-Lymphocyte Subsets|Kruppel-Like Transcription Factors|Forkhead Transcription Factors|Down-Regulation|Palatine Tonsil|Protein Binding|Membrane Glycoproteins|T-Lymphocytes, Helper-Inducer|Mice, Knockout|Receptors, CXCR5|Germinal Center|Signal Transduction|Antigens|Cell Differentiation|Phenotype
+1080	Female|Mice|Humans|Animals|Platelet Glycoprotein GPIIb-IIIa Complex|SELP protein, human|P-Selectin|Platelet Adhesiveness|Insulinoma|Talin|Blood Platelets|Protein Binding|Tumor Burden|Mice, Inbred C57BL|Time Factors|Mice, Knockout|Signal Transduction|Pancreatic Neoplasms|Melanoma
+1081	
+1082	
+1083	
+1084	Humans|Platelet Glycoprotein GPIIb-IIIa Complex|Integrin alphaVbeta3|Thrombin|Cell Adhesion|Blood Platelets|Hemorheology|HeLa Cells|Coculture Techniques|Neoplasm Invasiveness|Cell Movement|Endothelium|Peptides
+1085	Male|Female|Mice|Animals|Humans|WAS protein, human|Wiskott-Aldrich Syndrome Protein|Integrins|Cell Adhesion|Myelin Sheath|Microglia|Lymphocyte Activation|Mice, Inbred C57BL|Autoimmunity|Cytokines|Encephalomyelitis, Autoimmune, Experimental|Mice, Knockout|Cell Movement|Central Nervous System|Cell Count|Immunoenzyme Techniques
+1086	
+1087	Middle Aged|Adult|Male|Female|Mice|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Small Cell Lung Carcinoma|Neoplasm Staging|Survival Rate|Tissue Array Analysis|Flow Cytometry|Mice, SCID|Mice, Knockout|Lung Neoplasms|Prognosis|Oligosaccharides|Immunoenzyme Techniques
+1088	Middle Aged|Adult|Male|Female|Mice|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Small Cell Lung Carcinoma|Neoplasm Staging|Survival Rate|Tissue Array Analysis|Flow Cytometry|Mice, SCID|Mice, Knockout|Lung Neoplasms|Prognosis|Oligosaccharides|Immunoenzyme Techniques
+1089	Middle Aged|Adult|Male|Female|Mice|Animals|Humans|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|Small Cell Lung Carcinoma|Neoplasm Staging|Survival Rate|Tissue Array Analysis|Flow Cytometry|Mice, SCID|Mice, Knockout|Lung Neoplasms|Prognosis|Oligosaccharides|Immunoenzyme Techniques
+1090	
+1091	Animals|Female|Mice|Laminin|Lymphocyte Activation|Fibronectins|Proteoglycans|Gelatin|Collagen Type I|T-Lymphocytes|Polylysine|Polystyrenes|Angiogenic Proteins|Mice, Inbred C57BL|Collagen|Dendritic Cells|Cell Line|Myeloid Cells|Neoplasms|Drug Combinations|Culture Techniques
+1092	
+1093	Humans|SELP protein, human|P-Selectin|L-Selectin|SELE protein, human|E-Selectin|Neutrophils|Cell Adhesion|Chemotaxis|Kinetics|Membrane Proteins|Palatine Tonsil|Time Factors|Lymphocytes|Leukocytes|Cell Communication|Elasticity
+1094	
+1095	
+1096	Humans|Mice|Animals|SELE protein, human|E-Selectin|SELP protein, human|P-Selectin|L-Selectin|Vascular Cell Adhesion Molecule-1|NK Cell Lectin-Like Receptor Subfamily D|KRT14 protein, human|Keratin-14|Eosinophils|Mast Cells|Membrane Glycoproteins|Cell Adhesion Molecule-1|T-Lymphocytes|Mice, Knockout|Cell Movement|Leukocyte Count|Dermatitis|Inflammation|Severity of Illness Index
+1097	
+1098	Humans|Nanomedicine|Nanoparticles|Drug-Related Side Effects and Adverse Reactions|Clinical Medicine|Iatrogenic Disease
+1099	
+1100	
+1101	Mice|Animals|Cell Adhesion|Membrane Glycoproteins|Selectins|Glioma|Neovascularization, Pathologic|Hemodynamics|Endothelium|Stem Cells|Biomarkers
+1102	Mice|Animals|Cell Adhesion|Membrane Glycoproteins|Selectins|Glioma|Neovascularization, Pathologic|Hemodynamics|Endothelium|Stem Cells|Biomarkers
+1103	Mice|Animals|Cell Adhesion|Membrane Glycoproteins|Selectins|Glioma|Neovascularization, Pathologic|Hemodynamics|Endothelium|Stem Cells|Biomarkers
+1104	Mice|Animals|Cell Adhesion|Membrane Glycoproteins|Selectins|Glioma|Neovascularization, Pathologic|Hemodynamics|Endothelium|Stem Cells|Biomarkers
+1105	Mice|Animals|Cell Adhesion|Membrane Glycoproteins|Selectins|Glioma|Neovascularization, Pathologic|Hemodynamics|Endothelium|Stem Cells|Biomarkers
+1106	Animals|Mice|Male|Cattle|Humans|SELP protein, human|P-Selectin|Endotoxemia|Distamycins|HMGA1a Protein|NF-kappa B|Neutrophils|Endotoxins|Cytokines|Protein Binding|Mice, Inbred C57BL|AT Rich Sequence|Inflammation|Endothelial Cells|Liver|Lung|Cell Communication|Promoter Regions, Genetic
+1107	Animals|Mice|Male|Cattle|Humans|SELP protein, human|P-Selectin|Endotoxemia|Distamycins|HMGA1a Protein|NF-kappa B|Neutrophils|Endotoxins|Cytokines|Protein Binding|Mice, Inbred C57BL|AT Rich Sequence|Inflammation|Endothelial Cells|Liver|Lung|Cell Communication|Promoter Regions, Genetic
+1108	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+1109	Humans|Catalytic Domain|Substrate Specificity|Tyrosine|Protein-Tyrosine Kinases|Protein Multimerization|Sulfotransferases|Protein Processing, Post-Translational|Static Electricity|Biocatalysis|Mutant Proteins|Membrane Proteins|Adenosine Diphosphate|Sulfates|Crystallography, X-Ray|Binding Sites|Peptides|Radiography
+1110	Mice|Animals|L-Selectin|Cell Adhesion|Lectins|Sulfates|Lymphocytes|Lymph Nodes|Hexoses|Cytodiagnosis
+1111	Cricetinae|Animals|Humans|Anaplasma phagocytophilum|Cricetulus|Ehrlichiosis|Amino Acid Substitution|Protein Binding|Molecular Docking Simulation|Bacterial Outer Membrane Proteins|HL-60 Cells|Virulence|CHO Cells|Antibodies|Mutation|Bacteria
+1112	Adult|Animals|Rabbits|Humans|T-Lymphocyte Subsets|L-Selectin|CD8-Positive T-Lymphocytes|Cell Adhesion|Amine Oxidase (Copper-Containing)|Copper|Cell Adhesion Molecules|Lymph Nodes|Monoamine Oxidase|Cytodiagnosis|Endothelium
+1113	
+1114	
