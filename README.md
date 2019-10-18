@@ -7,7 +7,7 @@ Often when searching for papers in [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/
 
 ## Background
 
-### Towards an Ontology of Data Figures
+## Towards an Ontology of Data Figures
 What high level categories of metadata might we tag figures with?
 1. Source Publication
 2. Figure number what, of what total number of figures
@@ -22,7 +22,7 @@ What high level categories of metadata might we tag figures with?
 
 Given a figure, the uid for its source manuscript, and the associated figure legend, we may be able to find all of these. However, it seems unlikely that we will find all of the in any one manuscript. Depending on the teams skill-set it may be more fruitful to pursue some subset of these.
 
-### Test Data
+## Test Data
 PSGL-1 is pretty cool, and there is not TOO much data from [PMC](https://www.ncbi.nlm.nih.gov/pmc/?) indexed in [Open-i](https://openi.nlm.nih.gov/) for that keyword, so this will serve as our [test data set](https://openi.nlm.nih.gov/gridquery?q=psgl-1%20OR%20sleplg&it=u,g,c,m,mc,p,ph,x&coll=pmc&vid=1&m=1&n=100).
 
 Information about the [Open-i](https://openi.nlm.nih.gov/) API can be found [here](https://openi.nlm.nih.gov/services?it=xg#searchAPIUsingGET).
@@ -34,49 +34,49 @@ Information about the [Open-i](https://openi.nlm.nih.gov/) API can be found [her
 3. Ricardo V. - setting up pipeline
 4. Ryan Connor, Meng Cheng, & Marie Gallagher - MeSh Indexing of Figure Legends
 
+# Using Variation Autoencoder (VAE) to cluster images.
 
-1.1 Using Variation Autoencoder to cluster images.
+**Objective**: Learn categories of images present in publications accessible via OpenI service.
 
-Objective: Learn categories of images present in publications accessible via OpenI service.
+**Approach**: Given a collection of images, try to come up with a set of clusters such that each cluster represents an image category.
+Therefore we are facing unsupervised learning task, where we need to perform following:
 
-Approach: Given a collection of images, try to come up with a set of clusters such that each cluster represents an image category. 
-Therefore we are facing unsupervised learning task, where we need to perform followin 
-- extract relevant features that represent our samples - images;
+- extract relevant features that represent our samples - images
 - use these features to compute similarity between samples
 - cluster samples based on similarity metric.
 
-1.1.1 Training a model to extract image's features.
+## Training a model to extract image's features.
 
 How do we extract features from the samples - images - and what are the features?
 Let's have a neural network to find these features for us.
-We will train a Variational Autoencoder model on collection of images to learn a latent Gaussian model that represents the collection of imagesi of a training set.
+We will train a Variational Autoencoder model on collection of images to learn a latent Gaussian model that represents the collection of images of a training set.
 
-Variation Autoencoder model consists of encoder, decoder and a loss function. 
-- Encoder is a neural network that outputs a latent representation of an image - features of an image that represent a point in the D-dimentional feature space; The encoder serves as inference model. 
+Variation Autoencoder model consists of encoder, decoder and a loss function.
+- Encoder is a neural network that outputs a latent representation of an image - features of an image that represent a point in the D-dimentional feature space; The encoder serves as inference model.
 - Decoder is a neural network that learns to reconstruct the data - input image - given its representation (latent variables).
 
-To train a model we 
-- make a decision about  dimension of a feature space.
+To train a model we
+- make a decision about dimension of a feature space.
 - fit model to input images to learn Gaussian distribution parameters - mu and sigma - for each feature, given the data.
 
 Upon completion of the training process we will persist learned model as file for later use.
 
-1.1.2 Clustering model.
+## Clustering model
 
 After training a VAE model, we would use VAE model's encoder to map an input image to its latent representation - features.
 
-We will produce features vector for each image of a training set and will use these features to fit a KMeans clustering model and decide on number of clusters using "elbow" heuristic. 
+We will produce features vector for each image of a training set and will use these features to fit a KMeans clustering model and decide on number of clusters using "elbow" heuristic.
 
 We will persist learned KMeans clustering model as a file for later use.
 
-1.1.3 Assigning an image to a cluster.
+## Assigning an image to a cluster
 
 Given an image, we will
 - Encode the image to its features vector, using pre-trained VAE encoder;
 - Use ipre-trained KMeans model to predict cluster id.
 - Output cluster id.
 
-1.1.4. Data sets.
+## Data sets
 
 Training data set:   ~62,000 images.
 Validation data set: ~4,500 images.
