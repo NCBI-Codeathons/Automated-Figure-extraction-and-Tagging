@@ -99,9 +99,9 @@ Number of clusters:  8
 
 # Indexing images
 
-## Build the index
+## Building an index
 
-Using the sample models (Variation Autoencoder and K-Means) and parsed MeSH terms, the following command will generate a SQLite DB with an index of images, the clusters they belong to per our models, and
+The following command will generate a SQLite DB with an index of images, the clusters they belong to per our models, a list of unique identifiers (`uid`s) of papers where the images appeared, and MeSH terms associated with them. It uses models (Variation Autoencoder and K-Means) we generated (which are stored under the `models` directory in this repository) and sample parsed MeSH terms (stored in the file `mesh_out.txt` at the root of the repository) we produced.
 
 ```bash
 # Remove `-file-limit 5` to use all the files
@@ -112,10 +112,12 @@ FIGTAG_LOGLEVEL=INFO bin/figtag run \
    -o /tmp/`whoami`/test -file-limit 5 -mesh-terms-file mesh_out.txt
 ```
 
-## Search for figures
+## Searching for figures
+
+We provide a command line utility that allows you to search for MeSH terms in an index we can generate with the utility mentioned in the previous section. In the example below, we search for the term `Cercopithecus` using the sample index we generated before (file `samples/ImageIndex.sqlite` in this repository):
 
 ```bash
-bin/figtag  figure-search -query "Cercopithecus" -index samples/ImageIndex.sqlite
+bin/figtag figure-search -query "Cercopithecus" -index samples/ImageIndex.sqlite
 ```
 
 # Limitations or further improvement
