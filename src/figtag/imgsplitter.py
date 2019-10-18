@@ -30,7 +30,7 @@ def imgsplitter(image_url: str, image_uid: str, output_folder: str):
         _LOGGER.info('Splitting multi-panel image {}'.format(image_url))
         Split(hcuts, vcuts, img, image_uid, output_folder)
     else:
-        cv2.imwrite("{}.png".format(os.path.join(output_folder, image_uid)), img)
+        cv2.imwrite("{}.png".format(os.path.join(output_folder, image_uid + '_0')), img)
 
 
 def _CutPoints(img, dim):

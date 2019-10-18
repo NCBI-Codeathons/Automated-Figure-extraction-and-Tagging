@@ -16,7 +16,7 @@ class Indexer(Cog):  # pragma: no cover
         required = parser.add_argument_group('required arguments')
         required.add_argument(
             '-parsed-image-list', dest='image_list', action='store', required=True,
-            help='The path to the file containing image URLs  ')
+            help='The path to the file containing data from open-i')
 
         required.add_argument(
             '-cluster-image-list', dest='image_clusters', action='store', required=True,
@@ -27,6 +27,10 @@ class Indexer(Cog):  # pragma: no cover
             '-image-folder', dest='image_folder', action='store', required=True,
             help='The path to the folder containing the image files')
 
+        parser.add_argument(
+            '-mesh-terms', dest='mesh_terms', action='store', default='',
+            help='MeSH terms')
+
         required.add_argument(
             '-o', dest='database_file', action='store', required=True,
             help='Path to the database file that will be produced')
@@ -35,5 +39,7 @@ class Indexer(Cog):  # pragma: no cover
 
     @staticmethod
     def execute(args: Any) -> int:
-        indexer(args.image_list, args.image_clusters, args.image_folder, args.database_file)
+        indexer(args.image_list, args.image_folder,
+                args.image_clusters, args.mesh_terms,
+                args.database_file)
         return 0
