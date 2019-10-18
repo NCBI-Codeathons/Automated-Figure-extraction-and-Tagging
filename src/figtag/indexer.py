@@ -3,7 +3,9 @@ import pandas as pd
 import os
 
 
-def indexer(image_clusters: str, image_folder: str, openi_data: str, mesh_terms: str, database_file):
+def indexer(openi_data: str, image_folder: str,
+            image_clusters: str, mesh_terms: str,
+            database_file: str):
     db = database_file
     conn = sqlite3.connect(db)
 
