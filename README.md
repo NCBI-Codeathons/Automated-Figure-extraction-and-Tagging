@@ -1,4 +1,4 @@
-# Automated-Figure-extraction-and-Tagging
+# #FigTag : Find the Papers with the Data you want!
 
 ## Motivation
 Often when searching for papers in [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/), we are specifically looking for *papers* with __data figures which contain data related to our query__. [Open-i](https://openi.nlm.nih.gov/) is awesome, but 1) integration with pubmed would be ideal, as we are looking for papers, and that's where we normally do those searches. 2) Tagging figure with keywords, similar to MeSH for whole papers would better support finding papers with figures related to our keywords. Finally, 3) splitting up multipanel figures would likely support more fine-grained results.
@@ -27,12 +27,20 @@ PSGL-1 is pretty cool, and there is not TOO much data from [PMC](https://www.ncb
 
 Information about the [Open-i](https://openi.nlm.nih.gov/) API can be found [here](https://openi.nlm.nih.gov/services?it=xg#searchAPIUsingGET).
 
+## Requirements
+
+please see the requirement file [here](https://github.com/NCBI-Codeathons/Automated-Figure-extraction-and-Tagging/blob/master/requirements/base.txt)
+
 # Projects
 
 1. Alex Kotliarov - Variational autoencoder based clustering of images
 2. David Shao - Multipanel Figure Splitting
 3. Ricardo V. - setting up pipeline
 4. Ryan Connor, Meng Cheng, & Marie Gallagher - MeSh Indexing of Figure Legends
+
+# Notes on MeSH Indexing of Figure Legends
+
+The mesh indexing script may not work outside of the NLM network at the moment.
 
 # Using Variation Autoencoder (VAE) to cluster images.
 
@@ -54,6 +62,8 @@ We will train a Variational Autoencoder model on collection of images to learn a
 Variation Autoencoder model consists of encoder, decoder and a loss function.
 - Encoder is a neural network that outputs a latent representation of an image - features of an image that represent a point in the D-dimentional feature space; The encoder serves as inference model.
 - Decoder is a neural network that learns to reconstruct the data - input image - given its representation (latent variables).
+
+![Example Decoder Image Reconstruction](https://raw.githubusercontent.com/NCBI-Codeathons/Automated-Figure-extraction-and-Tagging/master/notebooks/reconstruction.png)
 
 To train a model we
 - make a decision about dimension of a feature space.
@@ -107,3 +117,11 @@ FIGTAG_LOGLEVEL=INFO bin/figtag run \
 ```bash
 bin/figtag  figure-search -query "Cercopithecus" -index /tmp/villamar/test/ImageIndex.sqlite
 ```
+
+# Limitations or further improvement
+1.    Due to the time limitation, the integration of image processing and text mining is not completed
+2.    The Medical Text Indexer (MTI) tool supposed to be open to public with out requesting for credentials. However, from our test, it is available to request sent from NIH network. There may be a limited access for outside NIH users.
+3.    More test cases are necessary and further evaluation on the MeSH terms from FigTag project's txt mining compared with MeSH indexing could be valuable.
+4.    A web-based MTI API would greatly improve the efficiency of FigTag pipeline.
+5.    The Imagine splitter could beneit from more robust testing and tuning
+6.    As could the image classifier
