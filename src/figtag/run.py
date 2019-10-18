@@ -1,4 +1,4 @@
-from figtag.classifier import _classify_image  # classifier
+from figtag.classifier import _Classifier
 from figtag.imgsplitter import imgsplitter, OPENI_URL
 from figtag.indexer import indexer
 from figtag.openiparser import openiparser
@@ -28,14 +28,17 @@ class _FigTagRunner():
         self._file_limit = file_limit
         self.logger = logging.getLogger('_FigTagRunner')
 
-    def run(self, query: str, model_file: Path, mesh_terms_file: Path) -> int:
+    def run(self, query: str, vae_model_path: Path, kmeans_model_path: Path,
+            mesh_terms_file: Path) -> int:
         try:
-            return self._try_run(query, model_file, mesh_terms_file)
+            return self._try_run(query, vae_model_path, kmeans_model_path, mesh_terms_file)
         except Exception as err:
             print("An error occurred: " + str(err), file=sys.stderr)
             return PROCESSING_FAILURE
 
-    def _try_run(self, query: str, model_file: Path, mesh_terms_file: Path) -> int:
+    def _try_run(self, query: str,
+                 vae_model_path: Path, kmeans_model_path: Path,
+                 mesh_terms_file: Path) -> int:
         self.logger.info('Running Open-I query')
         openi_output_list = self._parse_openi_query(query)
         if not openi_output_list:
@@ -48,7 +51,8 @@ class _FigTagRunner():
         self.logger.info("Processed images are in folder %s", split_image_folder)
 
         self.logger.info('Classifying images')
-        image_cluster_list = self._get_images_clusters(split_image_folder, model_file)
+        image_cluster_list = self._get_images_clusters(
+            split_image_folder, vae_model_path, kmeans_model_path)
         if not image_cluster_list:
             return PROCESSING_FAILURE
         self.logger.info("Information about images and the clusters they belong to "
@@ -109,8 +113,8 @@ class _FigTagRunner():
         self.logger.info('Processing file {}'.format(full_url))
         imgsplitter(full_url, image_uid, img_output_folder)
 
-    def _get_images_clusters(self, split_image_folder: Path, model_file: str) -> Path:
-        # classifier('image_path', 'model_file', 'output')
+    def _get_images_clusters(self, split_image_folder: Path,
+                             vae_model_path: Path, kmeans_model_path: Path) -> Path:
         image_files = list_files(split_image_folder, r'.*\.png$')
 
         if not image_files:
@@ -120,15 +124,14 @@ class _FigTagRunner():
         image_cluster_list: Path = path.join(self._output_folder, 'image_cluster_list.tsv')
 
         with open(image_cluster_list, 'wt') as imgclusterlst:
+            _classifier = _Classifier(vae_model_path, kmeans_model_path)
+
             for image_path in image_files:
-                cluster_id = _classify_image(image_path, model_file)
+                cluster_id = _classifier.classify_image(image_path)
                 imgclusterlst.write('{}\t{}\n'.format(
                     path.basename(image_path), cluster_id))
 
         return image_cluster_list
-
-    def _get_image_cluster(self, image_path: Path) -> str:
-        return _classify_image(image_path, "model_file")
 
     def _create_image_index(self,
                             openi_data: Path, image_folder: Path,
@@ -141,7 +144,7 @@ class _FigTagRunner():
         return index_file
 
 
-def run(query: str, model_file: Path, mesh_terms_file: Path,
+def run(query: str, vae_model_path: Path, kmeans_model_path: Path, mesh_terms_file: Path,
         output_folder: Path, file_limit: int = 0) -> int:
     """
     Takes an open-i query and a classification model file, and
@@ -153,4 +156,4 @@ def run(query: str, model_file: Path, mesh_terms_file: Path,
         print("An error occurred: " + str(err), file=sys.stderr)
         return INVALID_ARGS
 
-    return figtagrunner.run(query, model_file, mesh_terms_file)
+    return figtagrunner.run(query, vae_model_path, kmeans_model_path, mesh_terms_file)

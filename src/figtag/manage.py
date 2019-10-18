@@ -5,6 +5,8 @@ import argparse
 import importlib
 import pkgutil
 import os
+# This import is meant to satisfy pickle
+from figtag._Model import Model  # noqa: F401
 
 
 class Cog(ABC):  # pragma: no cover

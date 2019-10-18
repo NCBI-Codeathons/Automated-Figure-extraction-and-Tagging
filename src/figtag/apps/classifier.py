@@ -16,8 +16,11 @@ class Classifier(Cog):  # pragma: no cover
             '-image-path', dest='image_path', action='store', required=True,
             help='The path to the image to classify')
         required.add_argument(
-            '-model-file', dest='model_path', action='store', required=True,
-            help='The path to the file where the model was saved')
+            '-vae-model-file', dest='vae_model_path', action='store', required=True,
+            help='The path to the file where the Variation Autoencoder (VAE) model is saved')
+        required.add_argument(
+            '-kmeans-model-file', dest='kmeans_model_path', action='store', required=True,
+            help='The path to the file where the K-Means model is saved')
 
         parser.add_argument(
             '-o', dest='output', action='store', default='-',
@@ -27,5 +30,12 @@ class Classifier(Cog):  # pragma: no cover
 
     @staticmethod
     def execute(args: Any) -> int:
-        classifier(args.image_path, args.model_path, args.output)
+        cluster_id = classifier(args.image_path, args.vae_model_path, args.kmeans_model_path)
+        result_fmt = "cluster_id {}\n".format(cluster_id)
+        if args.output == '-':
+            print(result_fmt)
+        else:
+            with open(args.output, 'wt') as fcluster:
+                fcluster.write(result_fmt)
+
         return 0
