@@ -88,16 +88,31 @@ Given an image, we will
 
 ## Data sets
 
-Training data set:   ~62,000 images.
-Validation data set: ~4,500 images.
-Test data set:       ~5,000 images.
+| Data set  | Size           |
+|:----------|:--------------:|
+|Training   | ~62,000 images |
+|Validation | ~4,500 images  |
+|Test       | ~5,000 images  |
 
-Image size: 100 x 100 px
-Dimension of feature space: 256
+Information
 
-Number of clusters:  8
+|                            |              |
+|----------------------------|-------------:|
+| Image size                 | 100 x 100 px |
+| Dimension of feature space |          256 |
+| Number of clusters         |            8 |
 
 # Indexing images
+
+## Setup
+
+After checking out a local copy of the repository, please run this command:
+
+```bash
+source dev_env.sh
+```
+
+It will create a virtual environment and install all the packages that our applications need.
 
 ## Building an index
 
@@ -121,9 +136,9 @@ bin/figtag figure-search -query "Cercopithecus" -index samples/ImageIndex.sqlite
 ```
 
 # Limitations or further improvement
-1.    Due to the time limitation, the integration of image processing and text mining is not completed
-2.    The Medical Text Indexer (MTI) tool supposed to be open to public with out requesting for credentials. However, from our test, it is available to request sent from NIH network. There may be a limited access for outside NIH users.
-3.    More test cases are necessary and further evaluation on the MeSH terms from FigTag project's txt mining compared with MeSH indexing could be valuable.
-4.    A web-based MTI API would greatly improve the efficiency of FigTag pipeline.
-5.    The Imagine splitter could beneit from more robust testing and tuning
-6.    As could the image classifier
+1. Due to the time limitation, the integration of image processing and text mining is not completed
+2. The Medical Text Indexer (MTI) tool supposed to be open to public with out requesting for credentials. However, from our test, it is available to request sent from NIH network. There may be a limited access for outside NIH users.
+3. More test cases are necessary and further evaluation on the MeSH terms from FigTag project's txt mining compared with MeSH indexing could be valuable.
+4. A web-based MTI API would greatly improve the efficiency of FigTag pipeline.
+5. The Imagine splitter could beneit from more robust testing and tuning
+6. As could the image classifier
