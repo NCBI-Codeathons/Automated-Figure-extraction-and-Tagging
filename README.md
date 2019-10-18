@@ -115,7 +115,7 @@ FIGTAG_LOGLEVEL=INFO bin/figtag run \
 ## Search for figures
 
 ```bash
-bin/figtag  figure-search -query "Cercopithecus" -index /tmp/villamar/test/ImageIndex.sqlite
+bin/figtag  figure-search -query "Cercopithecus" -index samples/ImageIndex.sqlite
 ```
 
 # Limitations or further improvement
