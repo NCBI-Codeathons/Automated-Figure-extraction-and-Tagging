@@ -133,7 +133,7 @@ class _FigTagRunner():
     def _create_image_index(self,
                             openi_data: Path, image_folder: Path,
                             image_clusters: Path, mesh_terms_file: Path) -> Path:
-        index_file: Path = path.join(self._output_folder, 'index.db')
+        index_file: Path = path.join(self._output_folder, 'ImageIndex.sqlite')
 
         indexer(openi_data, image_folder,
                 image_clusters, mesh_terms_file,
